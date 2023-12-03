@@ -59,21 +59,8 @@
                     }
                 }
 
-                if (operation == 4 && y == 0)
+                if (!IsOperationValid(operation, x, y)) 
                 {
-                    Console.WriteLine("You cannot divide by zero!\n");
-                    continue;
-                }
-
-                if (operation == 5 && x < 0 && !(y == Math.Truncate(y)))
-                {
-                    Console.WriteLine("You cannot calculate the non-integer power from a negative number!\n");
-                    continue;
-                }
-
-                if (operation == 6 && (x < 0 || !(x == Math.Truncate(x))))
-                {
-                    Console.WriteLine("You cannot calculate the factorial of a negative or non-integer number!\n");
                     continue;
                 }
 
@@ -106,6 +93,28 @@
                 return 1;
             else
                 return x * Factorial(x - 1);
+        }
+
+        private static bool IsOperationValid(int operation, double x, double y)
+        {
+            if (operation == 4 && y == 0)
+            {
+                Console.WriteLine("You cannot divide by zero!\n");
+                return false;
+            }
+
+            if (operation == 5 && x < 0 && !(y == Math.Truncate(y)))
+            {
+                Console.WriteLine("You cannot calculate the non-integer power from a negative number!\n");
+                return false;
+            }
+
+            if (operation == 6 && (x < 0 || !(x == Math.Truncate(x))))
+            {
+                Console.WriteLine("You cannot calculate the factorial of a negative or non-integer number!\n");
+                return false;
+            }
+            return true;
         }
     }
 }
