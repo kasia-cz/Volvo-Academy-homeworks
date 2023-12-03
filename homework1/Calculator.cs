@@ -41,21 +41,39 @@
                     Console.WriteLine("Enter the first number below:");
                 }
 
-                // TO DO: try parse x, y
+                if (!double.TryParse(Console.ReadLine().Replace('.', ','), out double x))
+                {
+                    Console.WriteLine("Incorrect input.\n");
+                    continue;
+                }
 
-                var x = int.Parse(Console.ReadLine());
-
-                var y = 0;
+                double y = 0;
 
                 if (operation != 6)
                 {
                     Console.WriteLine("Enter the second number below:");
-                    y = int.Parse(Console.ReadLine());
+                    if (!double.TryParse(Console.ReadLine().Replace('.', ','), out y))
+                    {
+                        Console.WriteLine("Incorrect input.\n");
+                        continue;
+                    }
                 }
 
                 if (operation == 4 && y == 0)
                 {
                     Console.WriteLine("You cannot divide by zero!\n");
+                    continue;
+                }
+
+                if (operation == 5 && x < 0 && !(y == Math.Truncate(y)))
+                {
+                    Console.WriteLine("You cannot calculate the non-integer power from a negative number!\n");
+                    continue;
+                }
+
+                if (operation == 6 && (x < 0 || !(x == Math.Truncate(x))))
+                {
+                    Console.WriteLine("You cannot calculate the factorial of a negative or non-integer number!\n");
                     continue;
                 }
 
@@ -77,12 +95,12 @@
             }
             Console.WriteLine("Program ended. Goodbye!");
         }
-        private static int Add(int x, int y) { return x + y; }
-        private static int Subtract(int x, int y) { return x - y; }
-        private static int Multiply(int x, int y) { return x * y; }
-        private static double Divide(int x, int y) { return x / y; }
-        private static double Power(int x, int y) { return Math.Pow(x, y); }
-        private static int Factorial(int x)
+        private static double Add(double x, double y) { return x + y; }
+        private static double Subtract(double x, double y) { return x - y; }
+        private static double Multiply(double x, double y) { return x * y; }
+        private static double Divide(double x, double y) { return x / y; }
+        private static double Power(double x, double y) { return Math.Pow(x, y); }
+        private static double Factorial(double x)
         {
             if (x == 0)
                 return 1;
