@@ -1,0 +1,97 @@
+﻿{
+  "PassengerVehicles": [
+    {
+      "LesseeRating": 8.0,
+      "Id": 1,
+      "Brand": "Brand1",
+      "Model": "Model1",
+      "YearOfManufacture": 2019,
+      "Color": "Black",
+      "Price": 150000.0,
+      "RegistrationNumber": "ABC123",
+      "Coefficient": 1.05,
+      "Mileage": 50000,
+      "ServiceTime": 2
+    },
+    {
+      "LesseeRating": 7.0,
+      "Id": 2,
+      "Brand": "Brand1",
+      "Model": "Model2",
+      "YearOfManufacture": 2016,
+      "Color": "Blue",
+      "Price": 100000.0,
+      "RegistrationNumber": "ABC456",
+      "Coefficient": 1.07,
+      "Mileage": 90000,
+      "ServiceTime": 6
+    },
+    {
+      "LesseeRating": 8.5,
+      "Id": 6,
+      "Brand": "Brand4",
+      "Model": "Model5",
+      "YearOfManufacture": 2017,
+      "Color": "Red",
+      "Price": 300000.0,
+      "RegistrationNumber": "ABC666",
+      "Coefficient": 1.1,
+      "Mileage": 34500,
+      "ServiceTime": 4
+    },
+    {
+      "LesseeRating": 9.0,
+      "Id": 7,
+      "Brand": "Brand4",
+      "Model": "Model6",
+      "YearOfManufacture": 2018,
+      "Color": "Red",
+      "Price": 400000.0,
+      "RegistrationNumber": "ABC777",
+      "Coefficient": 1.1,
+      "Mileage": 15000,
+      "ServiceTime": 3
+    }
+  ],
+  "CargoVehicles": [
+    {
+      "CargoWeight": 1800,
+      "Id": 3,
+      "Brand": "Brand3",
+      "Model": "Model3",
+      "YearOfManufacture": 2015,
+      "Color": "White",
+      "Price": 200000.0,
+      "RegistrationNumber": "DEF123",
+      "Coefficient": 1.1,
+      "Mileage": 380000,
+      "ServiceTime": 7
+    },
+    {
+      "CargoWeight": 3000,
+      "Id": 4,
+      "Brand": "Brand4",
+      "Model": "Model4",
+      "YearOfManufacture": 2005,
+      "Color": "Red",
+      "Price": 250000.0,
+      "RegistrationNumber": "DEF456",
+      "Coefficient": 1.0,
+      "Mileage": 1199900,
+      "ServiceTime": 10
+    },
+    {
+      "CargoWeight": 3000,
+      "Id": 5,
+      "Brand": "Brand4",
+      "Model": "Model4",
+      "YearOfManufacture": 2005,
+      "Color": "Red",
+      "Price": 250000.0,
+      "RegistrationNumber": "DEF789",
+      "Coefficient": 1.0,
+      "Mileage": 700000,
+      "ServiceTime": 14
+    }
+  ]
+}

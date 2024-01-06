@@ -9,6 +9,11 @@
             Vehicles.Add(vehicle);
         }
 
+        public void AddVehicles(IEnumerable<Vehicle> vehicles)
+        {
+            Vehicles.AddRange(vehicles);
+        }
+
         public List<Vehicle> GetAllVehicles()
         {
             return Vehicles;
