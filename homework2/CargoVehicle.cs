@@ -4,6 +4,9 @@
     {
         public int CargoWeight;
 
+        const double ValueLossCoefficient = 0.93;
+        const int MaxMileageSinceLastMaintentance = 15000;
+
         public CargoVehicle(int id, string brand, string model, int yearOfManufacture, string color, decimal price, string registrationNumber, double coefficient, int mileage, int serviceTime, int cargoWeight)
             : base(id, brand, model, yearOfManufacture, color, price, registrationNumber, coefficient, mileage, serviceTime)
         {
@@ -23,16 +26,12 @@
 
         public override decimal CalculateValue()
         {
-            return Price * (decimal)Math.Pow(0.93, DateTime.Now.Year - YearOfManufacture);
+            return CalculateValue(ValueLossCoefficient);
         }
 
         public override bool IsRequiringMaintenance()
         {
-            if (Mileage % 15000 >= 14000)
-            {
-                return true;
-            }
-            return false;
+            return IsRequiringMaintenance(MaxMileageSinceLastMaintentance);
         }
     }
 }
