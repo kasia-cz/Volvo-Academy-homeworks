@@ -13,7 +13,9 @@
         public int Mileage;
         public int ServiceTime;
 
-        public abstract decimal calculateRentalCosts(int tripDuration, int travelDistance);
+        public abstract decimal CalculateRentalCosts(int tripDuration, int travelDistance);
+        public abstract decimal CalculateValue();
+        public abstract bool IsRequiringMaintenance();
 
         protected Vehicle(int id, string brand, string model, int yearOfManufacture, string color, decimal price, string registrationNumber, double coefficient, int mileage, int serviceTime)
         {
@@ -28,11 +30,5 @@
             Mileage = mileage;
             ServiceTime = serviceTime;
         }
-
-        public override string ToString()
-        {
-            return $"Cargo Vehicle - ID: {Id}, Brand: {Brand}";
-        }
-
     }
 }
