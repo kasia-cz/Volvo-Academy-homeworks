@@ -4,17 +4,37 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome in leasing company system!\n");
-
-            var fleet = new VehicleFleet();
-
-            var vehicleList = JsonDataReader.ReadData("fleet.json");
-            fleet.AddVehicles(vehicleList);
+            Console.WriteLine("Welcome in leasing company system!");
 
             bool runProgram = true;
+            var fleet = new VehicleFleet();
+
+            while (true)
+            {
+                Console.WriteLine("Enter a path to json file with a list of vehicles:");
+                var pathInput = Console.ReadLine();
+
+                if (pathInput.Equals("exit", StringComparison.OrdinalIgnoreCase))
+                {
+                    runProgram = false;
+                    break;
+                }
+
+                var vehicleList = JsonDataReader.ReadDataFromPath(pathInput);
+
+                if (vehicleList.Count == 0)
+                {
+                    Console.WriteLine("Invalid path. Try again or type 'exit' to end the program.\n");
+                    continue;
+                }
+                fleet.AddVehicles(vehicleList);
+                break;
+            }
+
             while (runProgram)
             {
                 Console.WriteLine("""
+
                     Select the option you want to perform by entering the number:
                     1. Show a list of all vehicles owned.
                     2. Show a list of vehicles of specified brand.
@@ -34,7 +54,7 @@
 
                 if (!int.TryParse(optionInput, out int option) || option < 1 || option > 6)
                 {
-                    Console.WriteLine("Wrong input.\n");
+                    Console.WriteLine("Wrong input.");
                     continue;
                 }
 
@@ -59,7 +79,7 @@
                         ShowVehicleList(vehicles);
                         break;
                     case 4:
-                        Console.WriteLine($"Fleet value: {fleet.CalculateFleetValue():C}");
+                        Console.WriteLine($"\nFleet value: {fleet.CalculateFleetValue():C}");
                         break;
                     case 5:
                         Console.WriteLine("Type brand:");
@@ -91,7 +111,9 @@
                 {
                     Console.WriteLine($"{vehicle} \n");
                 }
-            } else {
+            }
+            else
+            {
                 Console.WriteLine("Wrong input or there are no vehicles meeting the search conditions.");
             }
         }
