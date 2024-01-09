@@ -4,15 +4,6 @@ namespace homework2
 {
     internal static class JsonDataReader
     {
-        public static List<Vehicle> ReadData(string filename)
-        {
-            string currentDirectory = Directory.GetCurrentDirectory();
-            string solutionDirectory = Path.GetFullPath(Path.Combine(currentDirectory, @"..\..\..\"));
-            string filePath = Path.Combine(solutionDirectory, "Data", filename);
-
-            return ReadDataFromPath(filePath);
-        }
-
         public static List<Vehicle> ReadDataFromPath(string filePath)
         {
             try
