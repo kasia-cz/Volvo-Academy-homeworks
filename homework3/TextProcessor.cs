@@ -11,7 +11,20 @@ namespace homework3
             string title = GetBookTitle(lines);
             string author = GetBookAuthor(lines);
 
-            return new Book(title, author);
+            var bookText = await File.ReadAllTextAsync(filePath);
+
+            var startLineLenght = "***START OF THE PROJECT GUTENBERG EBOOK  ***".Length;
+            var titleLenght = title.Length;
+
+            Match startLine = Regex.Match(bookText, @"^.*\*\*\* START.*$", RegexOptions.Multiline);
+            bookText = bookText.Substring(startLine.Index + startLineLenght + titleLenght + 1);
+
+            Match endLine = Regex.Match(bookText, @"^.*\*\*\* END.*$", RegexOptions.Multiline);
+            bookText = bookText.Substring(0, endLine.Index);
+
+            var sentences = GetListOfSentences(bookText);
+
+            return new Book(title, author, sentences);
         }
 
         public static async Task WriteResultsAsync(Book book, string resultsDirectoryPath)
@@ -25,6 +38,20 @@ namespace homework3
                 List<string> newLines = new List<string>();
                 newLines.Add($"Title: {book.Title}");
                 newLines.Add($"Author: {book.Author}");
+
+                newLines.Add("\n10 longest sentences by number of characters:");
+                var longestSentences = book.Get10LongestSentencesByCharacters();
+                foreach (var longSentence in longestSentences)
+                {
+                    newLines.Add($"\n{longSentence} - number of characters: {longSentence.Length}");
+                }
+
+                newLines.Add("\n10 shortest sentences by numbers of words:");
+                var shortestSentences = book.Get10ShortestSentencesByWords();
+                foreach (var shortSentence in shortestSentences)
+                {
+                    newLines.Add($"\n{shortSentence} - number of words: {shortSentence.Split(' ').Length}");
+                }
 
                 await File.WriteAllLinesAsync(newFilePath, newLines);
             }
@@ -52,6 +79,16 @@ namespace homework3
                 }
             }
             return string.Empty;
+        }
+        private static List<string> GetListOfSentences(string text)
+        {
+            char[] unwantedChars = ['“', '”', '‘', '’', '"', '\''];
+            string pattern = "[" + Regex.Escape(new string(unwantedChars)) + "]";
+            text = Regex.Replace(text, pattern, string.Empty);
+
+            List<string> sentences = Regex.Split(text, @"(?<=[\.!\?])\s+").ToList();
+
+            return sentences;
         }
     }
 }
