@@ -4,6 +4,8 @@ namespace homework3
 {
     internal class TextProcessor
     {
+        private static readonly object lockObjectWords = new object();
+        private static readonly object lockObjectLetters = new object();
         public static async Task<Book> ReadAsync(string filePath)
         {
             var lines = await File.ReadAllLinesAsync(filePath);
@@ -69,13 +71,16 @@ namespace homework3
             var words = Regex.Split(text, @"\W+");
             words = words.Where(word => !string.IsNullOrWhiteSpace(word)).ToArray();
 
-            var wordDict = new Dictionary<string, int>();
+            var wordsDict = new Dictionary<string, int>();
             foreach (string word in words)
             {
-                CountItemToDictionary(wordDict, word);
+                CountItemToDictionary(wordsDict, word);
             }
-            GlobalStatistics.UpdateGlobalDictOfWords(wordDict);
-            return wordDict;
+            lock (lockObjectWords)
+            {
+                GlobalStatistics.UpdateGlobalDictOfWords(wordsDict);
+            }
+            return wordsDict;
         }
 
         private static (Dictionary<char, int>, Dictionary<char, int>) GetLettersDictAndPunctuationDict(string text)
@@ -87,7 +92,7 @@ namespace homework3
             {
                 if (char.IsLetter(c))
                 {
-                    CountItemToDictionary(lettersDict, c);
+                    CountItemToDictionary(lettersDict, char.ToLower(c));
                     continue;
                 }
 
@@ -96,7 +101,10 @@ namespace homework3
                     CountItemToDictionary(punctuationDict, c);
                 }
             }
-            GlobalStatistics.UpdateGlobalDictOfLetters(lettersDict);
+            lock (lockObjectLetters)
+            {
+                GlobalStatistics.UpdateGlobalDictOfLetters(lettersDict);
+            }
             return (lettersDict, punctuationDict);
         }
 

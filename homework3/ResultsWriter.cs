@@ -4,6 +4,9 @@ namespace homework3
 {
     internal class ResultsWriter
     {
+        private static readonly object lockObjectShortestSentences = new object();
+        private static readonly object lockObjectLongestSentences = new object();
+        private static readonly object lockObjectLongestWords = new object();
         public static async Task WriteResultsAsync(Book book, string resultsDirectoryPath)
         {
             var fileName = Regex.Replace(book.Title, @"[:;,.!]", "");
@@ -21,7 +24,10 @@ namespace homework3
                 {
                     newLines.Add($"\n{longSentence} - number of characters: {longSentence.Length}");
                 }
-                GlobalStatistics.UpdateGlobalLongestSentencesByCharacters(longestSentences);
+                lock (lockObjectLongestSentences)
+                {
+                    GlobalStatistics.UpdateGlobalLongestSentencesByCharacters(longestSentences);
+                }
 
                 newLines.Add("\n10 shortest sentences by numbers of words:");
                 var shortestSentences = book.Get10ShortestSentencesByWords();
@@ -29,7 +35,10 @@ namespace homework3
                 {
                     newLines.Add($"{shortSentence} - number of words: {shortSentence.Split(' ').Length}");
                 }
-                GlobalStatistics.UpdateGlobalShortestSentencesByWords(shortestSentences);
+                lock (lockObjectShortestSentences)
+                {
+                    GlobalStatistics.UpdateGlobalShortestSentencesByWords(shortestSentences);
+                }
 
                 newLines.Add("\n10 longest words:");
                 var longestWords = book.Get10LongestWords();
@@ -37,7 +46,10 @@ namespace homework3
                 {
                     newLines.Add($"Word \"{longWord}\", length: {longWord.Length}");
                 }
-                GlobalStatistics.UpdateGlobalLongestWords(longestWords);
+                lock (lockObjectLongestWords)
+                {
+                    GlobalStatistics.UpdateGlobalLongestWords(longestWords);
+                }
 
                 newLines.Add("\n10 most common words:");
                 var mostCommonWords = book.Get10MostCommonWords();
