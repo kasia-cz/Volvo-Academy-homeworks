@@ -21,32 +21,23 @@
 
         public List<string> Get10LongestSentencesByCharacters()
         {
-            var longestSentencesByCharacters = Sentences
-                .OrderByDescending(s => s.Length)
-                .Take(10)
-                .ToList();
-
-            return longestSentencesByCharacters;
+            return Sentences.OrderByDescending(s => s.Length).Take(10).ToList();
         }
 
         public List<string> Get10ShortestSentencesByWords()
         {
-            var shortestSentencesByWords = Sentences
-                .Where(s => s.Length >= 5)
+            return Sentences.Where(s => s.Length >= 5)
                 .OrderBy(s => s.Split(' ', StringSplitOptions.RemoveEmptyEntries).Length)
                 .Take(10)
                 .ToList();
-
-            return shortestSentencesByWords;
         }
 
         public List<string> Get10LongestWords()
         {
-            List<string> longestWords = Words.OrderByDescending(pair => pair.Key.Length)
-                                         .Select(pair => pair.Key)
-                                         .Take(10)
-                                         .ToList();
-            return longestWords;
+            return Words.OrderByDescending(pair => pair.Key.Length)
+                .Select(pair => pair.Key)
+                .Take(10)
+                .ToList();
         }
 
         public List<KeyValuePair<string, int>> Get10MostCommonWords()

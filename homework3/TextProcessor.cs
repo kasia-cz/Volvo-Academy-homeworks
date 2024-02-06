@@ -6,10 +6,9 @@ namespace homework3
     {
         public static async Task<Book> ReadAsync(string filePath)
         {
-            Console.WriteLine("Read");
-            string[] lines = await File.ReadAllLinesAsync(filePath);
-            string title = GetBookTitle(lines);
-            string author = GetBookAuthor(lines);
+            var lines = await File.ReadAllLinesAsync(filePath);
+            var title = FindBookTitle(lines);
+            var author = FindBookAuthor(lines);
 
             var bookText = await File.ReadAllTextAsync(filePath);
 
@@ -26,20 +25,19 @@ namespace homework3
 
             var words = GetDictOfWords(bookText);
 
-            var (letters, punctuation) = GetLettersAndPunctuation(bookText);
+            var (letters, punctuation) = GetLettersDictAndPunctuationDict(bookText);
 
             return new Book(title, author, sentences, words, letters, punctuation);
         }
 
         public static async Task WriteResultsAsync(Book book, string resultsDirectoryPath)
         {
-            Console.WriteLine("Write");
-            string fileName = Regex.Replace(book.Title, @"[:;,.!]", "");
-            string newFilePath = Path.Combine(resultsDirectoryPath, $"{fileName}.txt");
+            var fileName = Regex.Replace(book.Title, @"[:;,.!]", "");
+            var newFilePath = Path.Combine(resultsDirectoryPath, $"{fileName}.txt");
 
             if (!File.Exists(newFilePath))
             {
-                List<string> newLines = new List<string>();
+                var newLines = new List<string>();
                 newLines.Add($"Title: {book.Title}");
                 newLines.Add($"Author: {book.Author}");
 
@@ -89,25 +87,25 @@ namespace homework3
             }
         }
 
-        private static string GetBookTitle(string[] lines)
+        private static string FindBookTitle(string[] lines)
         {
-            string titleLineStart = "Title: ";
-            return GetLineAfterSentence(lines, titleLineStart);
+            var titleLineStartPhrase = "Title: ";
+            return GetLineAfterPhrase(lines, titleLineStartPhrase);
         }
 
-        private static string GetBookAuthor(string[] lines)
+        private static string FindBookAuthor(string[] lines)
         {
-            string authorLineStart = "Author: ";
-            return GetLineAfterSentence(lines, authorLineStart);
+            var authorLineStartPhrase = "Author: ";
+            return GetLineAfterPhrase(lines, authorLineStartPhrase);
         }
 
-        private static string GetLineAfterSentence(string[] lines, string sentence)
+        private static string GetLineAfterPhrase(string[] lines, string phrase)
         {
             foreach (string line in lines)
             {
-                if (line.StartsWith(sentence))
+                if (line.StartsWith(phrase))
                 {
-                    return line.Substring(sentence.Length).Trim();
+                    return line.Substring(phrase.Length).Trim();
                 }
             }
             return string.Empty;
@@ -115,67 +113,58 @@ namespace homework3
         private static List<string> GetListOfSentences(string text)
         {
             char[] unwantedChars = ['“', '”', '‘', '’', '"', '\''];
-            string pattern = "[" + Regex.Escape(new string(unwantedChars)) + "]";
+            var pattern = "[" + Regex.Escape(new string(unwantedChars)) + "]";
             text = Regex.Replace(text, pattern, string.Empty);
 
-            List<string> sentences = Regex.Split(text, @"(?<=[\.!\?])\s+").ToList();
+            var sentences = Regex.Split(text, @"(?<=[\.!\?])\s+").ToList();
 
             return sentences;
         }
 
         private static Dictionary<string, int> GetDictOfWords(string text)
         {
-            string[] words = Regex.Split(text, @"\W+");
+            var words = Regex.Split(text, @"\W+");
             words = words.Where(word => !string.IsNullOrWhiteSpace(word)).ToArray();
 
-            Dictionary<string, int> wordCount = new Dictionary<string, int>();
+            var wordDict = new Dictionary<string, int>();
             foreach (string word in words)
             {
-                if (wordCount.ContainsKey(word))
-                {
-                    wordCount[word]++;
-                }
-                else
-                {
-                    wordCount.Add(word, 1);
-                }
+                CountItemToDictionary(wordDict, word);
             }
-            return wordCount;
+            return wordDict;
         }
 
-        private static (Dictionary<char, int>, Dictionary<char, int>) GetLettersAndPunctuation(string text)
+        private static (Dictionary<char, int>, Dictionary<char, int>) GetLettersDictAndPunctuationDict(string text)
         {
-            Dictionary<char, int> punctuation = new Dictionary<char, int>();
-            Dictionary<char, int> letters = new Dictionary<char, int>();
+            var punctuationDict = new Dictionary<char, int>();
+            var lettersDict = new Dictionary<char, int>();
 
             foreach (char c in text)
             {
-                if (char.IsPunctuation(c))
+                if (char.IsLetter(c))
                 {
-                    if (punctuation.ContainsKey(c))
-                    {
-                        punctuation[c]++;
-                    }
-                    else
-                    {
-                        punctuation.Add(c, 1);
-                    }
+                    CountItemToDictionary(lettersDict, c);
                     continue;
                 }
 
-                if (char.IsLetter(c))
+                if (char.IsPunctuation(c))
                 {
-                    if (letters.ContainsKey(c))
-                    {
-                        letters[c]++;
-                    }
-                    else
-                    {
-                        letters.Add(c, 1);
-                    }
+                    CountItemToDictionary(punctuationDict, c);
                 }
             }
-            return (letters, punctuation);
+            return (lettersDict, punctuationDict);
+        }
+
+        private static void CountItemToDictionary<T>(Dictionary<T, int> dictionary, T item)
+        {
+            if (dictionary.ContainsKey(item))
+            {
+                dictionary[item]++;
+            }
+            else
+            {
+                dictionary.Add(item, 1);
+            }
         }
     }
 }
