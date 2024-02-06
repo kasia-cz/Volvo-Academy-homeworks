@@ -2,7 +2,7 @@
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static async Task Main(string[] args)
         {
             string sourcePath = "Books";
             string currentDirectoryPath = Directory.GetCurrentDirectory();
@@ -17,13 +17,15 @@
                 var task = Task.Run(async () =>
                 {
                     Book book = await TextProcessor.ReadAsync(filePath);
-                    await TextProcessor.WriteResultsAsync(book, resultsDirectoryPath);
+                    await ResultsWriter.WriteResultsAsync(book, resultsDirectoryPath);
                 });
 
                 tasks.Add(task);
             });
 
             Task.WhenAll(tasks).Wait();
+
+            await ResultsWriter.WriteGlobalStatisticsAsync(resultsDirectoryPath);
         }
     }
 }
