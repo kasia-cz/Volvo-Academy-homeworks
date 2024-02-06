@@ -1,0 +1,131 @@
+Title: A Study in Scarlet
+Author: Arthur Conan Doyle
+
+10 longest sentences by number of characters:
+
+So rapidly did he gain the esteem of his new
+companions, that when they reached the end of their wanderings, it was
+unanimously agreed that he should be provided with as large and as
+fertile a tract of land as any of the settlers, with the exception of
+Young himself, and of Stangerson, Kemball, Johnston, and Drebber, who
+were the four principal Elders. - number of characters: 359
+
+His face was lean and haggard, and the
+brown parchment-like skin was drawn tightly over the projecting bones;
+his long, brown hair and beard were all flecked and dashed with white;
+his eyes were sunken in his head, and burned with an unnatural lustre;
+while the hand which grasped his rifle was hardly more fleshy than that
+of a skeleton. - number of characters: 343
+
+The garden was
+bounded by a three-foot brick wall with a fringe of wood rails upon the
+top, and against this wall was leaning a stalwart police constable,
+surrounded by a small knot of loafers, who craned their necks and
+strained their eyes in the vain hope of catching some glimpse of the
+proceedings within. - number of characters: 314
+
+Many a wayfarer upon
+the high road which ran by Ferriers farm felt long-forgotten thoughts
+revive in their mind as they watched her lithe girlish figure tripping
+through the wheatfields, or met her mounted upon her fathers mustang,
+and managing it with all the ease and grace of a true child of the
+West. - number of characters: 309
+
+It
+belongs to my girl Sally, as was married only this time twelvemonth,
+which her husband is steward aboard a Union boat, and what hed say if
+he come ome and found her without her ring is more than I can think,
+he being short enough at the best o times, but more especially when he
+has the drink. - number of characters: 301
+
+As the whirl of dust drew nearer to the solitary
+bluff upon which the two castaways were reposing, the canvas-covered
+tilts of waggons and the figures of armed horsemen began to show up
+through the haze, and the apparition revealed itself as being a great
+caravan upon its journey for the West. - number of characters: 298
+
+After alluding airily to the
+Vehmgericht, aqua tofana, Carbonari, the Marchioness de Brinvilliers,
+the Darwinian theory, the principles of Malthus, and the Ratcliff
+Highway murders, the article concluded by admonishing the Government
+and advocating a closer watch over foreigners in England. - number of characters: 295
+
+Her
+chubby face, and his haggard, angular visage were both turned up to the
+cloudless heaven in heartfelt entreaty to that dread being with whom
+they were face to face, while the two voices—the one thin and clear,
+the other deep and harsh—united in the entreaty for mercy and
+forgiveness. - number of characters: 293
+
+There was not one who did not sink upon his knees in heartfelt
+prayer when they saw the broad valley of Utah bathed in the sunlight
+beneath them, and learned from the lips of their leader that this was
+the promised land, and that these virgin acres were to be theirs for
+evermore. - number of characters: 284
+
+There had been a
+schism among the Chosen People a few months before, some of the younger
+members of the Church having rebelled against the authority of the
+Elders, and the result had been the secession of a certain number of
+the malcontents, who had left Utah and become Gentiles. - number of characters: 284
+
+10 shortest sentences by numbers of words:
+Beautiful! - number of words: 1
+beautiful! - number of words: 1
+Indeed! - number of words: 1
+Good-bye. - number of words: 1
+Philosophy.—Nil. - number of words: 1
+Astronomy.—Nil. - number of words: 1
+Politics.—Feeble. - number of words: 1
+Botany.—Variable. - number of words: 1
+Chemistry.—Profound. - number of words: 1
+Right,
+sir. - number of words: 1
+
+10 longest words:
+Word "incomprehensible", length: 16
+Word "enthusiastically", length: 16
+Word "susceptibilities", length: 16
+Word "unextinguishable", length: 16
+Word "commiseratingly", length: 15
+Word "extraordinarily", length: 15
+Word "accomplishments", length: 15
+Word "characteristics", length: 15
+Word "Northumberland", length: 14
+Word "characteristic", length: 14
+
+10 most common words:
+Word "the", count: 2326
+Word "and", count: 1321
+Word "of", count: 1199
+Word "to", count: 1079
+Word "a", count: 968
+Word "I", count: 943
+Word "in", count: 673
+Word "was", count: 647
+Word "he", count: 630
+Word "that", count: 619
+
+10 most common letters:
+Letter "e", count: 23621
+Letter "t", count: 16527
+Letter "a", count: 15116
+Letter "o", count: 14167
+Letter "h", count: 12827
+Letter "i", count: 12797
+Letter "n", count: 12766
+Letter "s", count: 11338
+Letter "r", count: 10963
+Letter "d", count: 8612
+
+10 most popular punctuation marks:
+Punctuation mark ",", count: 2959
+Punctuation mark ".", count: 2546
+Punctuation mark "“", count: 886
+Punctuation mark "”", count: 810
+Punctuation mark "’", count: 491
+Punctuation mark "-", count: 259
+Punctuation mark "?", count: 208
+Punctuation mark "—", count: 129
+Punctuation mark ";", count: 104
+Punctuation mark "‘", count: 88

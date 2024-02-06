@@ -12,6 +12,8 @@ namespace homework3
             var title = FindBookTitle(lines);
             var author = FindBookAuthor(lines);
 
+            Console.WriteLine($"Started processing of \"{title}\" by {author}");
+
             var bookText = await File.ReadAllTextAsync(filePath);
 
             var startLineLenght = "***START OF THE PROJECT GUTENBERG EBOOK  ***".Length;

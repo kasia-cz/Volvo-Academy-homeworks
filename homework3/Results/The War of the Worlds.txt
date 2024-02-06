@@ -1,0 +1,154 @@
+Title: The War of the Worlds
+Author: H. G. Wells
+
+10 longest sentences by number of characters:
+
+Close inshore was a multitude of fishing smacks—English, Scotch,
+French, Dutch, and Swedish; steam launches from the Thames, yachts,
+electric boats; and beyond were ships of larger burden, a multitude of
+filthy colliers, trim merchantmen, cattle ships, passenger boats,
+petroleum tanks, ocean tramps, an old white transport even, neat white
+and grey liners from Southampton and Hamburg; and along the blue coast
+across the Blackwater my brother could make out dimly a dense swarm of
+boats chaffering with the people on the beach, a swarm which also
+extended up the Blackwater almost to Maldon. - number of characters: 601
+
+They just used to skedaddle off to
+work—Ive seen hundreds of em, bit of breakfast in hand, running wild
+and shining to catch their little season-ticket train, for fear theyd
+get dismissed if they didnt; working at businesses they were afraid to
+take the trouble to understand; skedaddling back for fear they wouldnt
+be in time for dinner; keeping indoors after dinner for fear of the
+back streets, and sleeping with the wives they married, not because
+they wanted them, but because they had a bit of money that would make
+for safety in their one little miserable skedaddle through the world. - number of characters: 599
+
+And strange, too, it is to stand on Primrose Hill, as
+I did but a day before writing this last chapter, to see the great
+province of houses, dim and blue through the haze of the smoke and
+mist, vanishing at last into the vague lower sky, to see the people
+walking to and fro among the flower beds on the hill, to see the
+sight-seers about the Martian machine that stands there still, to hear
+the tumult of playing children, and to recall the time when I saw it
+all bright and clear-cut, hard and silent, under the dawn of that last
+great day. - number of characters: 550
+
+And as I looked at this wide expanse of houses and factories and
+churches, silent and abandoned; as I thought of the multitudinous hopes
+and efforts, the innumerable hosts of lives that had gone to build this
+human reef, and of the swift and ruthless destruction that had hung
+over it all; when I realised that the shadow had been rolled back, and
+that men might still live in the streets, and this dear vast dead city
+of mine be once more alive and powerful, I felt a wave of emotion that
+was near akin to tears. - number of characters: 520
+
+One may picture the orderly expectation, the officers alert and
+watchful, the gunners ready, the ammunition piled to hand, the limber
+gunners with their horses and waggons, the groups of civilian
+spectators standing as near as they were permitted, the evening
+stillness, the ambulances and hospital tents with the burned and
+wounded from Weybridge; then the dull resonance of the shots the
+Martians fired, and the clumsy projectile whirling over the trees and
+houses and smashing amid the neighbouring fields. - number of characters: 516
+
+The peculiar V-shaped mouth with its
+pointed upper lip, the absence of brow ridges, the absence of a chin
+beneath the wedgelike lower lip, the incessant quivering of this mouth,
+the Gorgon groups of tentacles, the tumultuous breathing of the lungs
+in a strange atmosphere, the evident heaviness and painfulness of
+movement due to the greater gravitational energy of the earth—above
+all, the extraordinary intensity of the immense eyes—were at once
+vital, intense, inhuman, crippled and monstrous. - number of characters: 503
+
+One may picture, too, the sudden shifting of the attention, the swiftly
+spreading coils and bellyings of that blackness advancing headlong,
+towering heavenward, turning the twilight to a palpable darkness, a
+strange and horrible antagonist of vapour striding upon its victims,
+men and horses near it seen dimly, running, shrieking, falling
+headlong, shouts of dismay, the guns suddenly abandoned, men choking
+and writhing on the ground, and the swift broadening-out of the opaque
+cone of smoke. - number of characters: 501
+
+The habit of personal security, moreover, is so deeply fixed in the
+Londoners mind, and startling intelligence so much a matter of course
+in the papers, that they could read without any personal tremors:
+About seven oclock last night the Martians came out of the cylinder,
+and, moving about under an armour of metallic shields, have completely
+wrecked Woking station with the adjacent houses, and massacred an
+entire battalion of the Cardigan Regiment. - number of characters: 458
+
+After a fruitless struggle to get aboard a North-Western train at Chalk
+Farm—the engines of the trains that had loaded in the goods yard there
+_ploughed_ through shrieking people, and a dozen stalwart men fought to
+keep the crowd from crushing the driver against his furnace—my brother
+emerged upon the Chalk Farm road, dodged across through a hurrying
+swarm of vehicles, and had the luck to be foremost in the sack of a
+cycle shop. - number of characters: 438
+
+Here I found some young onions, a couple of gladiolus bulbs,
+and a quantity of immature carrots, all of which I secured, and,
+scrambling over a ruined wall, went on my way through scarlet and
+crimson trees towards Kew—it was like walking through an avenue of
+gigantic blood drops—possessed with two ideas: to get more food, and to
+limp, as soon and as far as my strength permitted, out of this accursed
+unearthly region of the pit. - number of characters: 437
+
+10 shortest sentences by numbers of words:
+VIII. - number of words: 1
+XIII. - number of words: 1
+XVII. - number of words: 1
+VIII. - number of words: 1
+WRECKAGE. - number of words: 1
+Well? - number of words: 1
+VIII. - number of words: 1
+Leatherhead! - number of words: 1
+Lord! - number of words: 1
+Hist! - number of words: 1
+
+10 longest words:
+Word "indistinguishable", length: 17
+Word "photographically", length: 16
+Word "incomprehensible", length: 16
+Word "indiscriminately", length: 16
+Word "disillusionment", length: 15
+Word "purposelessness", length: 15
+Word "notwithstanding", length: 15
+Word "incompatibility", length: 15
+Word "unintelligently", length: 15
+Word "investigations", length: 14
+
+10 most common words:
+Word "the", count: 4418
+Word "and", count: 2373
+Word "of", count: 2287
+Word "a", count: 1555
+Word "I", count: 1307
+Word "to", count: 1160
+Word "in", count: 926
+Word "was", count: 853
+Word "that", count: 754
+Word "had", count: 568
+
+10 most common letters:
+Letter "e", count: 33401
+Letter "t", count: 25684
+Letter "a", count: 22444
+Letter "n", count: 19259
+Letter "o", count: 18668
+Letter "i", count: 18109
+Letter "h", count: 16450
+Letter "s", count: 16180
+Letter "r", count: 15686
+Letter "d", count: 12870
+
+10 most popular punctuation marks:
+Punctuation mark ",", count: 4138
+Punctuation mark ".", count: 3148
+Punctuation mark "’", count: 411
+Punctuation mark "“", count: 407
+Punctuation mark "”", count: 407
+Punctuation mark "-", count: 321
+Punctuation mark "—", count: 311
+Punctuation mark ";", count: 243
+Punctuation mark "!", count: 203
+Punctuation mark "?", count: 121

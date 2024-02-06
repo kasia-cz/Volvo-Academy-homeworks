@@ -1,0 +1,145 @@
+Title: The call of the wild
+Author: Jack London
+
+10 longest sentences by number of characters:
+
+On the next day
+Koona went, and but five of them remained: Joe, too far gone to be
+malignant; Pike, crippled and limping, only half conscious and not
+conscious enough longer to malinger; Sol-leks, the one-eyed, still
+faithful to the toil of trace and trail, and mournful in that he had so
+little strength with which to pull; Teek, who had not travelled so far
+that winter and who was now beaten more than the others because he was
+fresher; and Buck, still at the head of the team, but no longer
+enforcing discipline or striving to enforce it, blind with weakness
+half the time and keeping the trail by the loom of it and by the dim
+feel of his feet. - number of characters: 659
+
+He sat by John Thorntons fire, a broad-breasted dog,
+white-fanged and long-furred; but behind him were the shades of all
+manner of dogs, half-wolves and wild wolves, urgent and prompting,
+tasting the savor of the meat he ate, thirsting for the water he drank,
+scenting the wind with him, listening with him and telling him the
+sounds made by the wild life in the forest, dictating his moods,
+directing his actions, lying down to sleep with him when he lay down,
+and dreaming with him and beyond him and becoming themselves the stuff
+of his dreams. - number of characters: 555
+
+There is a patience of the wild—dogged, tireless, persistent as life
+itself—that holds motionless for endless hours the spider in its web,
+the snake in its coils, the panther in its ambuscade; this patience
+belongs peculiarly to life when it hunts its living food; and it
+belonged to Buck as he clung to the flank of the herd, retarding its
+march, irritating the young bulls, worrying the cows with their
+half-grown calves, and driving the wounded bull mad with helpless rage. - number of characters: 482
+
+He plunged into the swimming tank or went hunting with the Judges
+sons; he escorted Mollie and Alice, the Judges daughters, on long
+twilight or early morning rambles; on wintry nights he lay at the
+Judges feet before the roaring library fire; he carried the Judges
+grandsons on his back, or rolled them in the grass, and guarded their
+footsteps through wild adventures down to the fountain in the stable
+yard, and even beyond, where the paddocks were, and the berry patches. - number of characters: 480
+
+This was the pride of Dave as
+wheel-dog, of Sol-leks as he pulled with all his strength; the pride
+that laid hold of them at break of camp, transforming them from sour
+and sullen brutes into straining, eager, ambitious creatures; the pride
+that spurred them on all day and dropped them at pitch of camp at
+night, letting them fall back into gloomy unrest and uncontent. - number of characters: 374
+
+With the aurora borealis flaming coldly overhead, or the stars leaping
+in the frost dance, and the land numb and frozen under its pall of
+snow, this song of the huskies might have been the defiance of life,
+only it was pitched in minor key, with long-drawn wailings and
+half-sobs, and was more the pleading of life, the articulate travail of
+existence. - number of characters: 357
+
+This ecstasy, this forgetfulness of living, comes to the
+artist, caught up and out of himself in a sheet of flame; it comes to
+the soldier, war-mad on a stricken field and refusing quarter; and it
+came to Buck, leading the pack, sounding the old wolf-cry, straining
+after the food that was alive and that fled swiftly before him through
+the moonlight. - number of characters: 356
+
+Deep in the forest a
+call was sounding, and as often as he heard this call, mysteriously
+thrilling and luring, he felt compelled to turn his back upon the fire
+and the beaten earth around it, and to plunge into the forest, and on
+and on, he knew not where or why; nor did he wonder where or why, the
+call sounding imperiously, deep in the forest. - number of characters: 351
+
+When the sled started, he floundered in the soft snow alongside the
+beaten trail, attacking Sol-leks with his teeth, rushing against him
+and trying to thrust him off into the soft snow on the other side,
+striving to leap inside his traces and get between him and the sled,
+and all the while whining and yelping and crying with grief and pain. - number of characters: 346
+
+Sometimes he thought of Judge Millers
+big house in the sun-kissed Santa Clara Valley, and of the cement
+swimming-tank, and Ysabel, the Mexican hairless, and Toots, the
+Japanese pug; but oftener he remembered the man in the red sweater, the
+death of Curly, the great fight with Spitz, and the good things he had
+eaten or would like to eat. - number of characters: 343
+
+10 shortest sentences by numbers of words:
+Understand? - number of words: 1
+Sacredam! - number of words: 1
+A-a-ah! - number of words: 1
+Sure. - number of words: 1
+Mush! - number of words: 1
+he
+shouted. - number of words: 1
+whoa! - number of words: 1
+Pooh! - number of words: 1
+pooh! - number of words: 1
+two
+inches... - number of words: 1
+
+10 longest words:
+Word "misunderstandings", length: 17
+Word "enthusiastically", length: 16
+Word "incomprehensible", length: 16
+Word "insubordination", length: 15
+Word "sympathetically", length: 15
+Word "comprehensively", length: 15
+Word "transportation", length: 14
+Word "fastidiousness", length: 14
+Word "decivilization", length: 14
+Word "deliberateness", length: 14
+
+10 most common words:
+Word "the", count: 2115
+Word "and", count: 1471
+Word "of", count: 870
+Word "was", count: 697
+Word "to", count: 667
+Word "a", count: 634
+Word "he", count: 619
+Word "his", count: 523
+Word "in", count: 509
+Word "Buck", count: 360
+
+10 most common letters:
+Letter "e", count: 17244
+Letter "t", count: 12623
+Letter "a", count: 11123
+Letter "n", count: 9909
+Letter "h", count: 9816
+Letter "o", count: 9425
+Letter "i", count: 8631
+Letter "s", count: 8235
+Letter "r", count: 7813
+Letter "d", count: 7367
+
+10 most popular punctuation marks:
+Punctuation mark ",", count: 2458
+Punctuation mark ".", count: 1653
+Punctuation mark "’", count: 272
+Punctuation mark "-", count: 265
+Punctuation mark ";", count: 179
+Punctuation mark "“", count: 148
+Punctuation mark "”", count: 148
+Punctuation mark "—", count: 41
+Punctuation mark "!", count: 41
+Punctuation mark "?", count: 30

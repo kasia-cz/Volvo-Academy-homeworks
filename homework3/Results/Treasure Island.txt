@@ -1,0 +1,156 @@
+Title: Treasure Island
+Author: Robert Louis Stevenson
+
+10 longest sentences by number of characters:
+
+English, French, Spanish,
+Portuguese, Georges, and Louises, doubloons and double guineas and
+moidores and sequins, the pictures of all the kings of Europe for the
+last hundred years, strange Oriental pieces stamped with what looked
+like wisps of string or bits of spiders web, round pieces and square
+pieces, and pieces bored through the middle, as if to wear them round
+your neck--nearly every variety of money in the world must, I think,
+have found a place in that collection; and for number, I am sure they
+were like autumn leaves, so that my back ached with stooping and my
+fingers with sorting them out. - number of characters: 617
+
+Perhaps it was this--perhaps it was the look of the island, with its
+grey, melancholy woods, and wild stone spires, and the surf that we
+could both see and hear foaming and thundering on the steep beach--at
+least, although the sun shone bright and hot, and the shore birds were
+fishing and crying all around us, and you would have thought anyone
+would have been glad to get to land after being so long at sea, my heart
+sank, as the saying is, into my boots; and from the first look onward, I
+hated the very thought of Treasure Island. - number of characters: 541
+
+Ben, in his long, lonely wanderings about the island, had found the
+skeleton--it was he that had rifled it; he had found the treasure; he
+had dug it up (it was the haft of his pick-axe that lay broken in the
+excavation); he had carried it on his back, in many weary journeys, from
+the foot of the tall pine to a cave he had on the two-pointed hill at
+the north-east angle of the island, and there it had lain stored in
+safety since two months before the arrival of the HISPANIOLA. - number of characters: 486
+
+TO THE HESITATING PURCHASER
+
+               If sailor tales to sailor tunes,
+                  Storm and adventure, heat and cold,
+               If schooners, islands, and maroons,
+                  And buccaneers, and buried gold,
+               And all the old romance, retold
+                  Exactly in the ancient way,
+               Can please, as me they pleased of old,
+                  The wiser youngsters of today:
+
+               --So be it, and fall on! - number of characters: 480
+
+When the doctor had wormed this secret from him on the afternoon of the
+attack, and when next morning he saw the anchorage deserted, he had gone
+to Silver, given him the chart, which was now useless--given him the
+stores, for Ben Gunns cave was well supplied with goats meat salted
+by himself--given anything and everything to get a chance of moving in
+safety from the stockade to the two-pointed hill, there to be clear of
+malaria and keep a guard upon the money. - number of characters: 470
+
+The captain sat down to his log, and here is the beginning of the entry:
+
+     Alexander Smollett, master; David Livesey, ships
+     doctor; Abraham Gray, carpenters mate; John
+     Trelawney, owner; John Hunter and Richard Joyce,
+     owners servants, landsmen--being all that is left
+     faithful of the ships company--with stores for ten
+     days at short rations, came ashore this day and flew
+     British colours on the log-house in Treasure Island. - number of characters: 465
+
+Livesey, and the rest of these gentlemen having
+asked me to write down the whole particulars about Treasure Island, from
+the beginning to the end, keeping nothing back but the bearings of the
+island, and that only because there is still treasure not yet lifted, I
+take up my pen in the year of grace 17__ and go back to the time when
+my father kept the Admiral Benbow inn and the brown old seaman with the
+sabre cut first took up his lodging under our roof. - number of characters: 463
+
+I was
+wedged in between Redruth and a stout old gentleman, and in spite of the
+swift motion and the cold night air, I must have dozed a great deal from
+the very first, and then slept like a log up hill and down dale through
+stage after stage, for when I was awakened at last it was by a punch
+in the ribs, and I opened my eyes to find that we were standing still
+before a large building in a city street and that the day had already
+broken a long time. - number of characters: 459
+
+On our little walk along the quays, he made himself the most interesting
+companion, telling me about the different ships that we passed by,
+their rig, tonnage, and nationality, explaining the work that was going
+forward--how one was discharging, another taking in cargo, and a third
+making ready for sea--and every now and then telling me some little
+anecdote of ships or seamen or repeating a nautical phrase till I had
+learned it perfectly. - number of characters: 448
+
+Add to this double apprehension the mystery that still hung over the
+behaviour of my friends, their unexplained desertion of the stockade,
+their inexplicable cession of the chart, or harder still to understand,
+the doctors last warning to Silver, Look out for squalls when you
+find it, and you will readily believe how little taste I found in my
+breakfast and with how uneasy a heart I set forth behind my captors on
+the quest for treasure. - number of characters: 446
+
+10 shortest sentences by numbers of words:
+Livesey. - number of words: 1
+Wounded? - number of words: 1
+Thunder! - number of words: 1
+Twice! - number of words: 1
+Dance. - number of words: 1
+Livesey. - number of words: 1
+Money! - number of words: 1
+Livesey. - number of words: 1
+Right! - number of words: 1
+Right! - number of words: 1
+
+10 longest words:
+Word "incomprehensible", length: 16
+Word "bloodthirstiest", length: 15
+Word "miscalculations", length: 15
+Word "unintelligible", length: 14
+Word "recommendation", length: 14
+Word "superintending", length: 14
+Word "simultaneously", length: 14
+Word "disappointment", length: 14
+Word "accomplishment", length: 14
+Word "apologetically", length: 14
+
+10 most common words:
+Word "the", count: 4075
+Word "and", count: 2680
+Word "I", count: 1968
+Word "a", count: 1720
+Word "of", count: 1671
+Word "to", count: 1508
+Word "was", count: 1130
+Word "in", count: 932
+Word "you", count: 869
+Word "that", count: 857
+
+10 most common letters:
+Letter "e", count: 33306
+Letter "t", count: 24887
+Letter "a", count: 23674
+Letter "o", count: 21641
+Letter "n", count: 19135
+Letter "h", count: 18048
+Letter "i", count: 17759
+Letter "s", count: 16873
+Letter "r", count: 15205
+Letter "d", count: 13653
+
+10 most popular punctuation marks:
+Punctuation mark ",", count: 6429
+Punctuation mark ".", count: 3654
+Punctuation mark "’", count: 1541
+Punctuation mark "-", count: 1300
+Punctuation mark "“", count: 1237
+Punctuation mark "”", count: 1233
+Punctuation mark ";", count: 664
+Punctuation mark "!", count: 301
+Punctuation mark "?", count: 280
+Punctuation mark ":", count: 67

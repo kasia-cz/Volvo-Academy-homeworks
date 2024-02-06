@@ -1,0 +1,408 @@
+Title: Beowulf: An Anglo-Saxon Epic Poem
+Author: 
+
+10 longest sentences by number of characters:
+
+PAGE
+
+      Preface                                                   vii
+
+      Bibliography of Translations                               xi
+
+      Glossary of Proper Names                                 xiii
+
+      List of Words and Phrases not in General Use            xviii
+
+      The Life and Death of Scyld (I.)                            1
+
+      Scylds Successors
+                                 } (II.)                          3
+      Hrothgars Great Mead-Hall
+
+      Grendel, the Murderer (III.)                                5
+
+      Beowulf Goes to Hrothgars Assistance (IV.)                 8
+
+      The Geats Reach Heorot (V.)                                10
+
+      Beowulf Introduces Himself at the Palace (VI.)             12
+
+      Hrothgar and Beowulf (VII.)                                14
+
+      Hrothgar and Beowulf (continued) (VIII.)                   17
+
+      Unferth Taunts Beowulf (IX.)                               19
+
+      Beowulf Silences Unferth
+                               } (X.)                            21
+      Glee is High
+
+      All Sleep save One (XI.)                                   24
+
+      Grendel and Beowulf (XII.)                                 26
+
+      Grendel is Vanquished (XIII.)                              28
+
+      Rejoicing of the Danes (XIV.)                              30
+
+      Hrothgars Gratitude (XV.)                                 33
+
+      Hrothgar Lavishes Gifts upon his Deliverer (XVI.)          35
+
+      Banquet (continued)
+                                       } (XVII.)                 37
+      The Scops Song of Finn and Hnæf
+
+      The Finn Episode (continued)
+                                   } (XVIII.)                    39
+      The Banquet Continues
+
+      Beowulf Receives Further Honor (XIX.)                      41
+
+      The Mother of Grendel (XX.)                                44
+
+      Hrothgars Account of the Monsters (XXI.)                  46
+
+      Beowulf Seeks Grendels Mother (XXII.)                     48
+
+      Beowulfs Fight with Grendels Mother (XXIII.)             51
+
+      Beowulf is Double-Conqueror (XXIV.)                        53
+
+[vi]  Beowulf Brings his Trophies
+                                  } (XXV.)                       57
+      Hrothgars Gratitude
+
+      Hrothgar Moralizes
+                         } (XXVI.)                               60
+      Rest after Labor
+
+      Sorrow at Parting (XXVII.)                                 62
+
+      The Homeward Journey
+                           } (XXVIII.)                           64
+      The Two Queens
+
+      Beowulf and Higelac (XXIX.)                                67
+
+      Beowulf Narrates his Adventures to Higelac (XXX.)          69
+
+      Gift-Giving is Mutual (XXXI.)                              73
+
+      The Hoard and the Dragon (XXXII.)                          75
+
+      Brave Though Aged
+                        } (XXXIII.)                              78
+      Reminiscences
+
+      Beowulf Seeks the Dragon
+                               } (XXXIV.)                        81
+      Beowulfs Reminiscences
+
+      Reminiscences (continued)
+                                } (XXXV.)                        83
+      Beowulfs Last Battle
+
+      Wiglaf the Trusty
+                                                  } (XXXVI.)     88
+      Beowulf is Deserted by Friends and by Sword
+
+      The Fatal Struggle
+                             } (XXXVII.)                         91
+      Beowulfs Last Moments
+
+      Wiglaf Plunders the Dragons Den
+                                       } (XXXVIII.)              93
+      Beowulfs Death
+
+      The Dead Foes
+                             } (XXXIX.)                          95
+      Wiglafs Bitter Taunts
+
+      The Messenger of Death (XL.)                               97
+
+      The Messengers Retrospect (XLI.)                          99
+
+      Wiglafs Sad Story
+                            } (XLII.)                           103
+      The Hoard Carried Off
+
+      The Burning of Beowulf (XLIII.)                           106
+
+      Addenda                                                   109
+
+[vii]
+
+
+
+
+PREFACE. - number of characters: 4300
+
+Oft the famed ones permitted their fallow-skinned horses
+[31]      To run in rivalry, racing and chasing,
+       30 Where the fieldways appeared to them fair and inviting,
+          Known for their excellence; oft a thane of the folk-lord,[2]
+
+{The gleeman sings the deeds of heroes.}
+
+          [3]A man of celebrity, mindful of rhythms,
+          Who ancient traditions treasured in memory,
+          New word-groups found properly bound:
+       35 The bard after gan then Beowulfs venture
+
+{He sings in alliterative measures of Beowulfs prowess.}
+
+          Wisely to tell of, and words that were clever
+          To utter skilfully, earnestly speaking,
+          Everything told he that he heard as to Sigmunds
+
+{Also of Sigemund, who has slain a great fire-dragon.}
+
+          Mighty achievements, many things hidden,
+       40 The strife of the Wælsing, the wide-going ventures
+          The children of men knew of but little,
+          The feud and the fury, but Fitela with him,
+          When suchlike matters he minded to speak of,
+          Uncle to nephew, as in every contention
+       45 Each to other was ever devoted:
+          A numerous host of the race of the scathers
+          They had slain with the sword-edge. - number of characters: 1262
+
+Not causeless lamented the daughter of Hoce
+          The decree of the Wielder when morning-light came and
+          She was able neath heaven to behold the destruction
+[38]      Of brothers and bairns, where the brightest of earth-joys
+
+{Finns force is almost exterminated.}
+
+       30 She had hitherto had: all the henchmen of Finn
+          War had offtaken, save a handful remaining,
+          That he nowise was able to offer resistance[1]
+
+{Hengest succeeds Hnæf as Danish general.}
+
+          To the onset of Hengest in the parley of battle,
+          Nor the wretched remnant to rescue in war from
+       35 The earl of the atheling; but they offered conditions,
+
+{Compact between the Frisians and the Danes.}
+
+          Another great building to fully make ready,
+          A hall and a high-seat, that half they might rule with
+          The sons of the Jutemen, and that Folcwaldas son would
+          Day after day the Danemen honor
+       40 When gifts were giving, and grant of his ring-store
+          To Hengests earl-troop ever so freely,
+          Of his gold-plated jewels, as he encouraged the Frisians
+
+{Equality of gifts agreed on.}
+
+          On the bench of the beer-hall. - number of characters: 1226
+
+{He determines to fight alone.}
+
+          Then the ring-prince disdained to seek with a war-band,
+       35 With army extensive, the air-going ranger;
+          He felt no fear of the foemans assaults and
+          He counted for little the might of the dragon,
+[80]      His power and prowess: for previously dared he
+
+{Beowulfs early triumphs referred to}
+
+          A heap of hostility, hazarded dangers,
+       40 War-thane, when Hrothgars palace he cleansèd,
+          Conquering combatant, clutched in the battle
+          The kinsmen of Grendel, of kindred detested.[2]
+
+{Higelacs death recalled.}
+
+          Twas of hand-fights not least where Higelac was slaughtered,
+          When the king of the Geatmen with clashings of battle,
+       45 Friend-lord of folks in Frisian dominions,
+          Offspring of Hrethrel perished through sword-drink,
+          With battle-swords beaten; thence Beowulf came then
+          On self-help relying, swam through the waters;
+          He bare on his arm, lone-going, thirty
+       50 Outfits of armor, when the ocean he mounted. - number of characters: 1104
+
+Soothly this hindered Hemings kinsman;
+       55 Other ale-drinking earlmen asserted
+          That fearful folk-sorrows fewer she wrought them,
+          Treacherous doings, since first she was given
+          Adorned with gold to the war-hero youthful,
+          For her origin honored, when Offas great palace
+       60 Oer the fallow flood by her fathers instructions
+          She sought on her journey, where she afterwards fully,
+          Famed for her virtue, her fate on the kings-seat
+[67]      Enjoyed in her lifetime, love did she hold with
+          The ruler of heroes, the best, it is told me,
+       65 Of all of the earthmen that oceans encompass,
+          Of earl-kindreds endless; hence Offa was famous
+          Far and widely, by gifts and by battles,
+          Spear-valiant hero; the home of his fathers
+          He governed with wisdom, whence Eomær did issue
+       70 For help unto heroes, Hemings kinsman,
+          Grandson of Garmund, great in encounters. - number of characters: 1004
+
+He often permitteth the mood-thought of man of
+          The illustrious lineage to lean to possessions,
+       80 Allows him earthly delights at his manor,
+          A high-burg of heroes to hold in his keeping,
+          Maketh portions of earth-folk hear him,
+          And a wide-reaching kingdom so that, wisdom failing him,
+          He himself is unable to reckon its boundaries;
+       85 He liveth in luxury, little debars him,
+          Nor sickness nor age, no treachery-sorrow
+          Becloudeth his spirit, conflict nowhere,
+          No sword-hate, appeareth, but all of the world doth
+          Wend as he wisheth; the worse he knoweth not,
+       90 Till arrant arrogance inward pervading,
+          Waxeth and springeth, when the warder is sleeping,
+          The guard of the soul: with sorrows encompassed,
+          Too sound is his slumber, the slayer is near him,
+          Who with bow and arrow aimeth in malice. - number of characters: 954
+
+Wiglaf uttered many a right-saying,
+          Said to his fellows, sad was his spirit:
+
+{Wiglaf appeals to the pride of the cowards.}
+
+       30 I remember the time when, tasting the mead-cup,
+          We promised in the hall the lord of us all
+[89]      Who gave us these ring-treasures, that this battle-equipment,
+          Swords and helmets, wed certainly quite him,
+          Should need of such aid ever befall him:
+
+{How we have forfeited our liegelords confidence!}
+
+       35 In the war-band he chose us for this journey spontaneously,
+          Stirred us to glory and gave me these jewels,
+          Since he held and esteemed us trust-worthy spearmen,
+          Hardy helm-bearers, though this hero-achievement
+          Our lord intended alone to accomplish,
+       40 Ward of his people, for most of achievements,
+          Doings audacious, he did among earth-folk. - number of characters: 901
+
+Heavy in spirit
+          They mood-sad lamented the men-leaders ruin;
+          And mournful measures the much-grieving widow
+       15 *       *       *       *       *       *       *
+          *       *       *       *       *       *       *
+          *       *       *       *       *       *       *
+          *       *       *       *       *       *       *
+          *       *       *       *       *       *       *
+       20 *       *       *       *       *       *       *
+
+{The Weders carry out their lords last request.}
+
+          The men of the Weders made accordingly
+          A hill on the height, high and extensive,
+          Of sea-going sailors to be seen from a distance,
+          And the brave ones beacon built where the fire was,
+       25 In ten-days space, with a wall surrounded it,
+          As wisest of world-folk could most worthily plan it. - number of characters: 895
+
+Long was the season:
+          Twelve-winters time torture suffered
+          The friend of the Scyldings, every affliction,
+       35 Endless agony; hence it after[3] became
+          Certainly known to the children of men
+          Sadly in measures, that long against Hrothgar
+          Grendel struggled:--his grudges he cherished,
+          Murderous malice, many a winter,
+       40 Strife unremitting, and peacefully wished he
+          [4]Life-woe to lift from no liegeman at all of
+          The men of the Dane-folk, for money to settle,
+          No counsellor needed count for a moment
+[7]       On handsome amends at the hands of the murderer;
+
+{Grendel is unremitting in his persecutions.}
+
+       45 The monster of evil fiercely did harass,
+          The ill-planning death-shade, both elder and younger,
+          Trapping and tricking them. - number of characters: 875
+
+{Unferth, a thane of Hrothgar, is jealous of Beowulf, and undertakes to
+twit him.}
+
+          Unferth spoke up, Ecglaf his son,
+          Who sat at the feet of the lord of the Scyldings,
+          Opened the jousting (the journey[1] of Beowulf,
+          Sea-farer doughty, gave sorrow to Unferth
+        5 And greatest chagrin, too, for granted he never
+          That any man else on earth should attain to,
+          Gain under heaven, more glory than he):
+
+{Did you take part in a swimming-match with Breca?}
+
+          Art thou that Beowulf with Breca did struggle,
+          On the wide sea-currents at swimming contended,
+       10 Where to humor your pride the ocean ye tried,
+
+{Twas mere folly that actuated you both to risk your lives on the ocean.}
+
+          From vainest vaunting adventured your bodies
+          In care of the waters? - number of characters: 869
+
+10 shortest sentences by numbers of words:
+HALL. - number of words: 1
+Grdvtg. - number of words: 1
+H.-So. - number of words: 1
+=
+Kluge. - number of words: 1
+London,
+1876. - number of words: 1
+Prose. - number of words: 1
+2
+Bde. - number of words: 1
+Westervik. - number of words: 1
+Leipzig. - number of words: 1
+BATTLE-SARK.--Armor. - number of words: 1
+
+10 longest words:
+Word "_Approximately_", length: 15
+Word "characteristics", length: 15
+Word "Congratulations", length: 15
+Word "interpretations", length: 15
+Word "eaforhéafodsegn", length: 15
+Word "notwithstanding", length: 15
+Word "scientifically", length: 14
+Word "aforementioned", length: 14
+Word "unsatisfactory", length: 14
+Word "considerations", length: 14
+
+10 most common words:
+Word "the", count: 2413
+Word "of", count: 1446
+Word "to", count: 868
+Word "and", count: 706
+Word "The", count: 683
+Word "in", count: 583
+Word "his", count: 474
+Word "he", count: 406
+Word "a", count: 399
+Word "s", count: 371
+
+10 most common letters:
+Letter "e", count: 24809
+Letter "t", count: 15413
+Letter "o", count: 13226
+Letter "a", count: 12945
+Letter "h", count: 12676
+Letter "r", count: 12104
+Letter "n", count: 11935
+Letter "s", count: 11422
+Letter "i", count: 10741
+Letter "d", count: 8483
+
+10 most popular punctuation marks:
+Punctuation mark ",", count: 3359
+Punctuation mark ".", count: 2908
+Punctuation mark "-", count: 2483
+Punctuation mark "'", count: 1594
+Punctuation mark "_", count: 689
+Punctuation mark ";", count: 542
+Punctuation mark "}", count: 463
+Punctuation mark "{", count: 448
+Punctuation mark "[", count: 391
+Punctuation mark "]", count: 391

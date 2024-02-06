@@ -1,0 +1,149 @@
+Title: Heart of Darkness
+Author: Joseph Conrad
+
+10 longest sentences by number of characters:
+
+How could you?—with solid pavement under your feet,
+surrounded by kind neighbours ready to cheer you or to fall on you,
+stepping delicately between the butcher and the policeman, in the holy
+terror of scandal and gallows and lunatic asylums—how can you imagine
+what particular region of the first ages a mans untrammelled feet may
+take him into by the way of solitude—utter solitude without a
+policeman—by the way of silence—utter silence, where no warning voice
+of a kind neighbour can be heard whispering of public opinion? - number of characters: 532
+
+We called at
+some more places with farcical names, where the merry dance of death
+and trade goes on in a still and earthy atmosphere as of an overheated
+catacomb; all along the formless coast bordered by dangerous surf, as
+if Nature herself had tried to ward off intruders; in and out of
+rivers, streams of death in life, whose banks were rotting into mud,
+whose waters, thickened into slime, invaded the contorted mangroves,
+that seemed to writhe at us in the extremity of an impotent despair. - number of characters: 501
+
+When we came abreast
+again, they faced the river, stamped their feet, nodded their horned
+heads, swayed their scarlet bodies; they shook towards the fierce
+river-demon a bunch of black feathers, a mangy skin with a pendent
+tail—something that looked a dried gourd; they shouted periodically
+together strings of amazing words that resembled no sounds of human
+language; and the deep murmurs of the crowd, interrupted suddenly, were
+like the responses of some satanic litany. - number of characters: 480
+
+His clothes had been made of some stuff that was brown
+holland probably, but it was covered with patches all over, with bright
+patches, blue, red, and yellow—patches on the back, patches on the
+front, patches on elbows, on knees; coloured binding around his jacket,
+scarlet edging at the bottom of his trousers; and the sunshine made him
+look extremely gay and wonderfully neat withal, because you could see
+how beautifully all this patching had been done. - number of characters: 462
+
+I had
+to keep guessing at the channel; I had to discern, mostly by
+inspiration, the signs of hidden banks; I watched for sunken stones; I
+was learning to clap my teeth smartly before my heart flew out, when I
+shaved by a fluke some infernal sly old snag that would have ripped the
+life out of the tin-pot steamboat and drowned all the pilgrims; I had
+to keep a lookout for the signs of dead wood we could cut up in the
+night for next days steaming. - number of characters: 455
+
+I thought his memory was like the other memories of the dead that
+accumulate in every mans life—a vague impress on the brain of shadows
+that had fallen on it in their swift and final passage; but before the
+high and ponderous door, between the tall houses of a street as still
+and decorous as a well-kept alley in a cemetery, I had a vision of him
+on the stretcher, opening his mouth voraciously, as if to devour all
+the earth with all its mankind. - number of characters: 454
+
+I looked at them with a swift
+quickening of interest—not because it occurred to me I might be eaten
+by them before very long, though I own to you that just then I
+perceived—in a new light, as it were—how unwholesome the pilgrims
+looked, and I hoped, yes, I positively hoped, that my aspect was not
+so—what shall I say?—so—unappetizing: a touch of fantastic vanity which
+fitted well with the dream-sensation that pervaded all my days at that
+time. - number of characters: 453
+
+The
+other explained that it had come with a fleet of canoes in charge of an
+English half-caste clerk Kurtz had with him; that Kurtz had apparently
+intended to return himself, the station being by that time bare of
+goods and stores, but after coming three hundred miles, had suddenly
+decided to go back, which he started to do alone in a small dugout with
+four paddlers, leaving the half-caste to continue down the river with
+the ivory. - number of characters: 442
+
+It is the gift of the great, she went on, and
+the sound of her low voice seemed to have the accompaniment of all the
+other sounds, full of mystery, desolation, and sorrow, I had ever
+heard—the ripple of the river, the soughing of the trees swayed by the
+wind, the murmurs of the crowds, the faint ring of incomprehensible
+words cried from afar, the whisper of a voice speaking from beyond the
+threshold of an eternal darkness. - number of characters: 432
+
+Instantly, in the emptiness of the landscape, a cry arose whose
+shrillness pierced the still air like a sharp arrow flying straight to
+the very heart of the land; and, as if by enchantment, streams of human
+beings—of naked human beings—with spears in their hands, with bows,
+with shields, with wild glances and savage movements, were poured into
+the clearing by the dark-faced and pensive forest. - number of characters: 401
+
+10 shortest sentences by numbers of words:
+Heavens! - number of words: 1
+Ough! - number of words: 1
+Famous. - number of words: 1
+_Adieu_. - number of words: 1
+Good-bye. - number of words: 1
+Good-bye. - number of words: 1
+_Adieu_. - number of words: 1
+So-o-o! - number of words: 1
+Farewell. - number of words: 1
+Kurtz. - number of words: 1
+
+10 longest words:
+Word "incomprehensible", length: 16
+Word "misunderstanding", length: 16
+Word "superciliousness", length: 16
+Word "unextinguishable", length: 16
+Word "inextinguishable", length: 16
+Word "trustworthiness", length: 15
+Word "architecturally", length: 15
+Word "straightforward", length: 15
+Word "recommendations", length: 15
+Word "affectionately", length: 14
+
+10 most common words:
+Word "the", count: 2069
+Word "of", count: 1364
+Word "I", count: 1154
+Word "a", count: 1106
+Word "and", count: 916
+Word "to", count: 881
+Word "was", count: 665
+Word "in", count: 594
+Word "had", count: 502
+Word "that", count: 416
+
+10 most common letters:
+Letter "e", count: 20564
+Letter "t", count: 15246
+Letter "a", count: 13242
+Letter "o", count: 12329
+Letter "i", count: 11528
+Letter "n", count: 10947
+Letter "h", count: 10317
+Letter "s", count: 10190
+Letter "r", count: 8887
+Letter "d", count: 7236
+
+10 most popular punctuation marks:
+Punctuation mark ",", count: 2849
+Punctuation mark ".", count: 2388
+Punctuation mark "’", count: 741
+Punctuation mark "—", count: 623
+Punctuation mark "‘", count: 430
+Punctuation mark "-", count: 260
+Punctuation mark ";", count: 229
+Punctuation mark "“", count: 198
+Punctuation mark "!", count: 159
+Punctuation mark "?", count: 155

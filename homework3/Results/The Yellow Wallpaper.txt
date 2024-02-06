@@ -1,0 +1,115 @@
+Title: The Yellow Wallpaper
+Author: Charlotte Perkins Gilman
+
+10 longest sentences by number of characters:
+
+There is one end of the room where it is almost intact, and there, when
+the cross-lights fade and the low sun shines directly upon it, I can
+almost fancy radiation after all,—the interminable grotesques seem to
+form around a common centre and rush off in headlong plunges of equal
+distraction. - number of characters: 297
+
+It is dull enough to confuse the eye in following, pronounced enough to
+constantly irritate, and provoke study, and when you follow the lame,
+uncertain curves for a little distance they suddenly commit
+suicide—plunge off at outrageous angles, destroy themselves in
+unheard-of contradictions. - number of characters: 295
+
+She didnt know I was in the room, and when I asked her in a quiet, a
+very quiet voice, with the most restrained manner possible, what she
+was doing with the paper she turned around as if she had been caught
+stealing, and looked quite angry—asked me why I should frighten her so! - number of characters: 281
+
+If a physician of high standing, and ones own husband, assures friends
+and relatives that there is really nothing the matter with one but
+temporary nervous depression—a slight hysterical tendency—what is one
+to do? - number of characters: 217
+
+He says that with my imaginative power and
+habit of story-making a nervous weakness like mine is sure to lead to
+all manner of excited fancies, and that I ought to use my will and good
+sense to check the tendency. - number of characters: 216
+
+I sometimes fancy that in my condition if I had less opposition and
+more society and stimulus—but John says the very worst thing I can do
+is to think about my condition, and I confess it always makes me feel
+bad. - number of characters: 215
+
+When I get really well John says we will ask Cousin Henry and
+Julia down for a long visit; but he says he would as soon put
+fire-works in my pillow-case as to let me have those stimulating people
+about now. - number of characters: 209
+
+I start, well say, at the bottom, down in the corner over
+there where it has not been touched, and I determine for the thousandth
+time that I will follow that pointless pattern to some sort of a
+conclusion. - number of characters: 209
+
+Then the floor is scratched and gouged and splintered, the plaster
+itself is dug out here and there, and this great heavy bed, which is
+all we found in the room, looks as if it had been through the wars. - number of characters: 205
+
+But in the places where it isnt faded, and where the sun is just so, I
+can see a strange, provoking, formless sort of figure, that seems to
+sulk about behind that silly and conspicuous front design. - number of characters: 200
+
+10 shortest sentences by numbers of words:
+Hurrah! - number of words: 1
+Dear John! - number of words: 2
+he said. - number of words: 2
+Why darling! - number of words: 2
+John dear! - number of words: 2
+he cried. - number of words: 2
+So I try. - number of words: 3
+What a fortunate
+escape! - number of words: 3
+It was moonlight. - number of words: 3
+I asked gloomily. - number of words: 3
+
+10 longest words:
+Word "everlastingness", length: 15
+Word "conscientiously", length: 15
+Word "contradictions", length: 14
+Word "impressionable", length: 14
+Word "uncomfortable", length: 13
+Word "companionship", length: 13
+Word "entertainment", length: 13
+Word "superstition", length: 12
+Word "unreasonably", length: 12
+Word "prescription", length: 12
+
+10 most common words:
+Word "I", count: 319
+Word "and", count: 270
+Word "the", count: 222
+Word "to", count: 145
+Word "a", count: 138
+Word "is", count: 132
+Word "it", count: 130
+Word "that", count: 105
+Word "of", count: 102
+Word "in", count: 91
+
+10 most common letters:
+Letter "e", count: 2822
+Letter "t", count: 2337
+Letter "a", count: 1992
+Letter "o", count: 1931
+Letter "i", count: 1826
+Letter "n", count: 1780
+Letter "s", count: 1513
+Letter "h", count: 1398
+Letter "r", count: 1233
+Letter "d", count: 1092
+
+10 most popular punctuation marks:
+Punctuation mark ",", count: 408
+Punctuation mark ".", count: 294
+Punctuation mark "!", count: 89
+Punctuation mark "’", count: 80
+Punctuation mark "—", count: 62
+Punctuation mark "“", count: 31
+Punctuation mark "”", count: 30
+Punctuation mark "-", count: 26
+Punctuation mark ";", count: 15
+Punctuation mark "?", count: 13

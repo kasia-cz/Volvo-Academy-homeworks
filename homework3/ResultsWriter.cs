@@ -73,6 +73,7 @@ namespace homework3
                 }
 
                 await File.WriteAllLinesAsync(newFilePath, newLines);
+                Console.WriteLine($"Completed processing of \"{book.Title}\" by {book.Author}");
             }
         }
 

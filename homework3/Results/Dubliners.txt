@@ -1,0 +1,150 @@
+Title: Dubliners
+Author: James Joyce
+
+10 longest sentences by number of characters:
+
+Between these rival ends ran parallel lines of side-dishes: two little
+minsters of jelly, red and yellow; a shallow dish full of blocks of
+blancmange and red jam, a large green leaf-shaped dish with a
+stalk-shaped handle, on which lay bunches of purple raisins and peeled
+almonds, a companion dish on which lay a solid rectangle of Smyrna
+figs, a dish of custard topped with grated nutmeg, a small bowl full of
+chocolates and sweets wrapped in gold and silver papers and a glass
+vase in which stood some tall celery stalks. - number of characters: 530
+
+For when I
+view them in turn, whether it be our chief hostess herself, whose good
+heart, whose too good heart, has become a byword with all who know her,
+or her sister, who seems to be gifted with perennial youth and whose
+singing must have been a surprise and a revelation to us all tonight,
+or, last but not least, when I consider our youngest hostess, talented,
+cheerful, hard-working and the best of nieces, I confess, Ladies and
+Gentlemen, that I do not know to which of them I should award the
+prize. - number of characters: 514
+
+Jesus
+Christ, with His divine understanding of every cranny of our human
+nature, understood that all men were not called to the religious life,
+that by far the vast majority were forced to live in the world and, to
+a certain extent, for the world: and in this sentence He designed to
+give them a word of counsel, setting before them as exemplars in the
+religious life those very worshippers of Mammon who were of all men the
+least solicitous in matters religious. - number of characters: 470
+
+Mr Browne, whose face was once more
+wrinkling with mirth, poured out for himself a glass of whisky while
+Freddy Malins exploded, before he had well reached the climax of his
+story, in a kink of high-pitched bronchitic laughter and, setting down
+his untasted and overflowing glass, began to rub the knuckles of his
+left fist backwards and forwards into his left eye, repeating words of
+his last phrase as well as his fit of laughter would allow him. - number of characters: 454
+
+In her days
+of courtship Mr Kernan had seemed to her a not ungallant figure: and
+she still hurried to the chapel door whenever a wedding was reported
+and, seeing the bridal pair, recalled with vivid pleasure how she had
+passed out of the Star of the Sea Church in Sandymount, leaning on the
+arm of a jovial well-fed man, who was dressed smartly in a frock-coat
+and lavender trousers and carried a silk hat gracefully balanced upon
+his other arm. - number of characters: 452
+
+One got the
+prayer-book and the other three got the water; and when one of the
+next-door girls got the ring Mrs Donnelly shook her finger at the
+blushing girl as much as to say: _O, I know all about it!_ They
+insisted then on blindfolding Maria and leading her up to the table to
+see what she would get; and, while they were putting on the bandage,
+Maria laughed and laughed again till the tip of her nose nearly met the
+tip of her chin. - number of characters: 444
+
+The duties of the priest towards the Eucharist and
+towards the secrecy of the confessional seemed so grave to me that I
+wondered how anybody had ever found in himself the courage to undertake
+them; and I was not surprised when he told me that the fathers of the
+Church had written books as thick as the _Post Office Directory_ and as
+closely printed as the law notices in the newspaper, elucidating all
+these intricate questions. - number of characters: 435
+
+How he
+had suffered that day, waiting at the shop door until the shop was
+empty, standing at the counter and trying to appear at his ease while
+the girl piled ladies blouses before him, paying at the desk and
+forgetting to take up the odd penny of his change, being called back by
+the cashier, and finally, striving to hide his blushes as he left the
+shop by examining the parcel to see if it was securely tied. - number of characters: 417
+
+He told too of how the top gallery of the old Royal used to be
+packed night after night, of how one night an Italian tenor had sung
+five encores to _Let me like a Soldier fall_, introducing a high C
+every time, and of how the gallery boys would sometimes in their
+enthusiasm unyoke the horses from the carriage of some great _prima
+donna_ and pull her themselves through the streets to her hotel. - number of characters: 401
+
+For years and years it had gone off in
+splendid style as long as anyone could remember; ever since Kate and
+Julia, after the death of their brother Pat, had left the house in
+Stoney Batter and taken Mary Jane, their only niece, to live with them
+in the dark gaunt house on Ushers Island, the upper part of which they
+had rented from Mr Fulham, the corn-factor on the ground floor. - number of characters: 385
+
+10 shortest sentences by numbers of words:
+she
+asked. - number of words: 1
+peacefully? - number of words: 1
+Home! - number of words: 1
+Escape! - number of words: 1
+Come! - number of words: 1
+Eveline! - number of words: 1
+Evvy! - number of words: 1
+André. - number of words: 1
+What
+merriment! - number of words: 1
+Cards! - number of words: 1
+
+10 longest words:
+Word "autobiographical", length: 16
+Word "interrogatively", length: 15
+Word "accomplishments", length: 15
+Word "philosophically", length: 15
+Word "argumentatively", length: 15
+Word "disappointments", length: 15
+Word "thoughtlessness", length: 15
+Word "appropriateness", length: 15
+Word "compassionately", length: 15
+Word "impressionable", length: 14
+
+10 most common words:
+Word "the", count: 3632
+Word "and", count: 2144
+Word "of", count: 1834
+Word "to", count: 1731
+Word "a", count: 1496
+Word "was", count: 1153
+Word "he", count: 1111
+Word "his", count: 1070
+Word "in", count: 1010
+Word "had", count: 809
+
+10 most common letters:
+Letter "e", count: 35725
+Letter "t", count: 24558
+Letter "a", count: 23810
+Letter "o", count: 21231
+Letter "h", count: 20013
+Letter "n", count: 19734
+Letter "i", count: 18791
+Letter "s", count: 18006
+Letter "r", count: 16373
+Letter "d", count: 13650
+
+10 most popular punctuation marks:
+Punctuation mark ".", count: 4516
+Punctuation mark ",", count: 3479
+Punctuation mark "“", count: 1325
+Punctuation mark "”", count: 1320
+Punctuation mark "’", count: 1308
+Punctuation mark "-", count: 410
+Punctuation mark "?", count: 396
+Punctuation mark ":", count: 359
+Punctuation mark "_", count: 326
+Punctuation mark "!", count: 298

@@ -1,0 +1,162 @@
+Title: Crime and Punishment
+Author: Fyodor Dostoyevsky
+
+10 longest sentences by number of characters:
+
+After many tears an
+unwritten contract was drawn up between us: first, that I would never
+leave Marfa Petrovna and would always be her husband; secondly, that I
+would never absent myself without her permission; thirdly, that I would
+never set up a permanent mistress; fourthly, in return for this, Marfa
+Petrovna gave me a free hand with the maidservants, but only with her
+secret knowledge; fifthly, God forbid my falling in love with a woman of
+our class; sixthly, in case I--which God forbid--should be visited by
+a great serious passion I was bound to reveal it to Marfa Petrovna. - number of characters: 592
+
+I shall have
+the honour of visiting you and paying you my respects at your lodgings
+not later than to-morrow evening at eight oclock precisely, and
+herewith I venture to present my earnest and, I may add, imperative
+request that Rodion Romanovitch may not be present at our interview--as
+he offered me a gross and unprecedented affront on the occasion of my
+visit to him in his illness yesterday, and, moreover, since I desire
+from you personally an indispensable and circumstantial explanation
+upon a certain point, in regard to which I wish to learn your own
+interpretation. - number of characters: 585
+
+And if at that moment he had been capable of seeing
+and reasoning more correctly, if he had been able to realise all the
+difficulties of his position, the hopelessness, the hideousness and the
+absurdity of it, if he could have understood how many obstacles and,
+perhaps, crimes he had still to overcome or to commit, to get out of
+that place and to make his way home, it is very possible that he would
+have flung up everything, and would have gone to give himself up, and
+not from fear, but from simple horror and loathing of what he had
+done. - number of characters: 551
+
+He could only guess from what she said that she was a
+neglected child, whose mother, probably a drunken cook, in the service
+of the hotel, whipped and frightened her; that the child had broken
+a cup of her mothers and was so frightened that she had run away the
+evening before, had hidden for a long while somewhere outside in the
+rain, at last had made her way in here, hidden behind the cupboard and
+spent the night there, crying and trembling from the damp, the darkness
+and the fear that she would be badly beaten for it. - number of characters: 532
+
+Some thoughts or fragments of thoughts, some
+images without order or coherence floated before his mind--faces of
+people he had seen in his childhood or met somewhere once, whom he would
+never have recalled, the belfry of the church at V., the billiard table
+in a restaurant and some officers playing billiards, the smell of cigars
+in some underground tobacco shop, a tavern room, a back staircase quite
+dark, all sloppy with dirty water and strewn with egg-shells, and the
+Sunday bells floating in from somewhere.... - number of characters: 523
+
+In
+spite of her continual anxiety that the dishes should be passed round
+correctly and that everyone should taste them, in spite of the agonising
+cough which interrupted her every minute and seemed to have grown worse
+during the last few days, she hastened to pour out in a half whisper to
+Raskolnikov all her suppressed feelings and her just indignation at
+the failure of the dinner, interspersing her remarks with lively and
+uncontrollable laughter at the expense of her visitors and especially of
+her landlady. - number of characters: 521
+
+Nor
+has either Dounia or I breathed a word to him of the great hopes we have
+of his helping us to pay for your university studies; we have not spoken
+of it in the first place, because it will come to pass of itself,
+later on, and he will no doubt without wasting words offer to do it of
+himself, (as though he could refuse Dounia that) the more readily since
+you may by your own efforts become his right hand in the office, and
+receive this assistance not as a charity, but as a salary earned by your
+own work. - number of characters: 518
+
+Pyotr Petrovitch Luzhin, for instance, who might be said to be the most
+respectable of all the lodgers, did not appear, though Katerina Ivanovna
+had the evening before told all the world, that is Amalia Ivanovna,
+Polenka, Sonia and the Pole, that he was the most generous,
+noble-hearted man with a large property and vast connections, who had
+been a friend of her first husbands, and a guest in her fathers
+house, and that he had promised to use all his influence to secure her
+a considerable pension. - number of characters: 508
+
+Amalia Ivanovna was foreseeing something amiss, and at the same time
+deeply wounded by Katerina Ivanovnas haughtiness, and to restore the
+good-humour of the company and raise herself in their esteem she began,
+apropos of nothing, telling a story about an acquaintance of hers Karl
+from the chemists, who was driving one night in a cab, and that the
+cabman wanted him to kill, and Karl very much begged him not to kill,
+and wept and clasped hands, and frightened and from fear pierced his
+heart. - number of characters: 501
+
+Inquiring of Madame Lippevechsel who was busy
+laying the table while Katerina Ivanovna was away at the cemetery, he
+heard that the entertainment was to be a great affair, that all the
+lodgers had been invited, among them some who had not known the dead
+man, that even Andrey Semyonovitch Lebeziatnikov was invited in spite of
+his previous quarrel with Katerina Ivanovna, that he, Pyotr Petrovitch,
+was not only invited, but was eagerly expected as he was the most
+important of the lodgers. - number of characters: 496
+
+10 shortest sentences by numbers of words:
+bridge. - number of words: 1
+Hm... - number of words: 1
+What! - number of words: 1
+hm... - number of words: 1
+But
+Mr. - number of words: 1
+Rather! - number of words: 1
+hm... - number of words: 1
+yes... - number of words: 1
+yes... - number of words: 1
+lay
+drunk. - number of words: 1
+
+10 longest words:
+Word "disproportionately", length: 18
+Word "_psychologically_", length: 17
+Word "indistinguishable", length: 17
+Word "misunderstanding", length: 16
+Word "superciliousness", length: 16
+Word "enthusiastically", length: 16
+Word "disproportionate", length: 16
+Word "circumstantially", length: 16
+Word "indiscriminately", length: 16
+Word "conscientiously", length: 15
+
+10 most common words:
+Word "the", count: 7278
+Word "and", count: 6217
+Word "to", count: 5339
+Word "a", count: 4413
+Word "I", count: 4401
+Word "of", count: 3741
+Word "he", count: 3630
+Word "you", count: 3454
+Word "that", count: 3055
+Word "in", count: 3044
+
+10 most common letters:
+Letter "e", count: 103213
+Letter "t", count: 79320
+Letter "a", count: 73042
+Letter "o", count: 70888
+Letter "n", count: 62120
+Letter "i", count: 61534
+Letter "h", count: 55491
+Letter "s", count: 52753
+Letter "r", count: 47324
+Letter "d", count: 38670
+
+10 most popular punctuation marks:
+Punctuation mark ",", count: 16032
+Punctuation mark ".", count: 15835
+Punctuation mark "’", count: 4039
+Punctuation mark "“", count: 3980
+Punctuation mark "”", count: 3929
+Punctuation mark "!", count: 2363
+Punctuation mark "?", count: 2275
+Punctuation mark "-", count: 2263
+Punctuation mark ";", count: 1047
+Punctuation mark "_", count: 506

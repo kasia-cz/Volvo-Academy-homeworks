@@ -1,0 +1,166 @@
+Title: The Legend of Sleepy Hollow
+Author: Washington Irving
+
+10 longest sentences by number of characters:
+
+In one corner
+stood a huge bag of wool, ready to be spun; in another, a quantity of
+linsey-woolsey just from the loom; ears of Indian corn, and strings of
+dried apples and peaches, hung in gay festoons along the walls, mingled
+with the gaud of red peppers; and a door left ajar gave him a peep into
+the best parlor, where the claw-footed chairs and dark mahogany tables
+shone like mirrors; andirons, with their accompanying shovel and
+tongs, glistened from their covert of asparagus tops; mock-oranges and
+conch-shells decorated the mantelpiece; strings of various-colored birds
+eggs were suspended above it; a great ostrich egg was hung from
+the centre of the room, and a corner cupboard, knowingly left open,
+displayed immense treasures of old silver and well-mended china. - number of characters: 786
+
+It is true, an old farmer, who had been down to New York on a visit
+several years after, and from whom this account of the ghostly adventure
+was received, brought home the intelligence that Ichabod Crane was still
+alive; that he had left the neighborhood partly through fear of the
+goblin and Hans Van Ripper, and partly in mortification at having been
+suddenly dismissed by the heiress; that he had changed his quarters to a
+distant part of the country; had kept school and studied law at the same
+time; had been admitted to the bar; turned politician; electioneered;
+written for the newspapers; and finally had been made a justice of
+the Ten Pound Court. - number of characters: 665
+
+Farther on he beheld great fields of Indian corn, with its golden ears
+peeping from their leafy coverts, and holding out the promise of cakes
+and hasty-pudding; and the yellow pumpkins lying beneath them, turning
+up their fair round bellies to the sun, and giving ample prospects of
+the most luxurious of pies; and anon he passed the fragrant buckwheat
+fields breathing the odor of the beehive, and as he beheld them, soft
+anticipations stole over his mind of dainty slapjacks, well buttered,
+and garnished with honey or treacle, by the delicate little dimpled hand
+of Katrina Van Tassel. - number of characters: 596
+
+There was the honest cock robin, the favorite game of
+stripling sportsmen, with its loud querulous note; and the twittering
+blackbirds flying in sable clouds; and the golden-winged woodpecker with
+his crimson crest, his broad black gorget, and splendid plumage; and the
+cedar bird, with its red-tipt wings and yellow-tipt tail and its little
+monteiro cap of feathers; and the blue jay, that noisy coxcomb, in his
+gay light blue coat and white underclothes, screaming and chattering,
+nodding and bobbing and bowing, and pretending to be on good terms with
+every songster of the grove. - number of characters: 591
+
+All these, however, were mere terrors of the night, phantoms of the mind
+that walk in darkness; and though he had seen many spectres in his time,
+and been more than once beset by Satan in divers shapes, in his lonely
+perambulations, yet daylight put an end to all these evils; and he would
+have passed a pleasant life of it, in despite of the Devil and all his
+works, if his path had not been crossed by a being that causes more
+perplexity to mortal man than ghosts, goblins, and the whole race of
+witches put together, and that was--a woman. - number of characters: 549
+
+In this enterprise,
+however, he had more real difficulties than generally fell to the lot of
+a knight-errant of yore, who seldom had anything but giants, enchanters,
+fiery dragons, and such like easily conquered adversaries, to contend
+with and had to make his way merely through gates of iron and brass,
+and walls of adamant to the castle keep, where the lady of his heart was
+confined; all which he achieved as easily as a man would carve his way
+to the centre of a Christmas pie; and then the lady gave him her hand as
+a matter of course. - number of characters: 549
+
+Brom, who had a degree of rough chivalry in his nature, would fain have
+carried matters to open warfare and have settled their pretensions
+to the lady, according to the mode of those most concise and simple
+reasoners, the knights-errant of yore,--by single combat; but Ichabod
+was too conscious of the superior might of his adversary to enter the
+lists against him; he had overheard a boast of Bones, that he would
+double the schoolmaster up, and lay him on a shelf of his own
+schoolhouse; and he was too wary to give him an opportunity. - number of characters: 544
+
+Hard by the farmhouse was a vast barn, that might have served for a
+church; every window and crevice of which seemed bursting forth with the
+treasures of the farm; the flail was busily resounding within it from
+morning to night; swallows and martins skimmed twittering about the
+eaves; and rows of pigeons, some with one eye turned up, as if watching
+the weather, some with their heads under their wings or buried in their
+bosoms, and others swelling, and cooing, and bowing about their dames,
+were enjoying the sunshine on the roof. - number of characters: 540
+
+As the enraptured Ichabod fancied all this, and as he rolled his great
+green eyes over the fat meadow lands, the rich fields of wheat, of rye,
+of buckwheat, and Indian corn, and the orchards burdened with ruddy
+fruit, which surrounded the warm tenement of Van Tassel, his heart
+yearned after the damsel who was to inherit these domains, and his
+imagination expanded with the idea, how they might be readily turned
+into cash, and the money invested in immense tracts of wild land, and
+shingle palaces in the wilderness. - number of characters: 525
+
+The story-teller, who was just putting a glass of wine to his lips, as
+a refreshment after his toils, paused for a moment, looked at his
+inquirer with an air of infinite deference, and, lowering the glass
+slowly to the table, observed that the story was intended most
+logically to prove--
+
+That there is no situation in life but has its advantages and
+pleasures--provided we will but take a joke as we find it:
+
+That, therefore, he that runs races with goblin troopers is likely to
+have rough riding of it. - number of characters: 516
+
+10 shortest sentences by numbers of words:
+POSTSCRIPT. - number of words: 1
+KNICKERBOCKER. - number of words: 1
+these women! - number of words: 2
+THE END. - number of words: 2
+CASTLE OF INDOLENCE. - number of words: 3
+Oh, these women! - number of words: 3
+He received no reply. - number of words: 4
+Heaven only knows, not I! - number of words: 5
+What was to be done? - number of words: 5
+Still there was no answer. - number of words: 5
+
+10 longest words:
+Word "accomplishments", length: 15
+Word "perpendicularly", length: 15
+Word "discrimination", length: 14
+Word "perambulations", length: 14
+Word "indistinctness", length: 14
+Word "KNICKERBOCKER", length: 13
+Word "superstitions", length: 13
+Word "Revolutionary", length: 13
+Word "unconsciously", length: 13
+Word "schoolmasters", length: 13
+
+10 most common words:
+Word "the", count: 867
+Word "of", count: 597
+Word "and", count: 509
+Word "a", count: 351
+Word "his", count: 245
+Word "to", count: 242
+Word "in", count: 235
+Word "was", count: 202
+Word "he", count: 153
+Word "with", count: 143
+
+10 most common letters:
+Letter "e", count: 6624
+Letter "t", count: 4862
+Letter "a", count: 4463
+Letter "o", count: 4337
+Letter "h", count: 3845
+Letter "n", count: 3809
+Letter "i", count: 3660
+Letter "s", count: 3630
+Letter "r", count: 3333
+Letter "d", count: 2551
+
+10 most popular punctuation marks:
+Punctuation mark ",", count: 1069
+Punctuation mark ".", count: 329
+Punctuation mark ";", count: 174
+Punctuation mark "-", count: 150
+Punctuation mark "’", count: 37
+Punctuation mark "“", count: 23
+Punctuation mark "”", count: 21
+Punctuation mark "!", count: 18
+Punctuation mark "?", count: 7
+Punctuation mark ":", count: 5

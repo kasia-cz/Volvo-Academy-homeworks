@@ -1,0 +1,138 @@
+Title: A Room with a View
+Author: E. M. Forster
+
+10 longest sentences by number of characters:
+
+To George, to Cecil,
+she would have lied again; but he seemed so near the end of things, so
+dignified in his approach to the gulf, of which he gave one account,
+and the books that surrounded him another, so mild to the rough paths
+that he had traversed, that the true chivalry—not the worn-out chivalry
+of sex, but the true chivalry that all the young may show to all the
+old—awoke in her, and, at whatever risk, she told him that Cecil was
+not her companion to Greece. - number of characters: 476
+
+Under the chaplains guidance
+they selected many hideous presents and mementoes—florid little
+picture-frames that seemed fashioned in gilded pastry; other little
+frames, more severe, that stood on little easels, and were carven out
+of oak; a blotting book of vellum; a Dante of the same material; cheap
+mosaic brooches, which the maids, next Christmas, would never tell from
+real; pins, pots, heraldic saucers, brown art-photographs; Eros and
+Psyche in alabaster; St. - number of characters: 473
+
+She had worked like a great artist; for a time—indeed,
+for years—she had been meaningless, but at the end there was presented
+to the girl the complete picture of a cheerless, loveless world in
+which the young rush to destruction until they learn better—a
+shamefaced world of precautions and barriers which may avert evil, but
+which do not seem to bring good, if we may judge from those who have
+used them most. - number of characters: 416
+
+If you will not think me
+rude, we residents sometimes pity you poor tourists not a little—handed
+about like a parcel of goods from Venice to Florence, from Florence to
+Rome, living herded together in pensions or hotels, quite unconscious
+of anything that is outside Baedeker, their one anxiety to get done
+or through and go on somewhere else. - number of characters: 347
+
+She looked at
+the two rows of English people who were sitting at the table; at the
+row of white bottles of water and red bottles of wine that ran between
+the English people; at the portraits of the late Queen and the late
+Poet Laureate that hung behind the English people, heavily framed; at
+the notice of the English church (Rev. - number of characters: 335
+
+Sometimes as I take tea in their beautiful grounds I
+hear, over the wall, the electric tram squealing up the new road with
+its loads of hot, dusty, unintelligent tourists who are going to do
+Fiesole in an hour in order that they may say they have been there, and
+I think—think—I think how little they think what lies so near them. - number of characters: 334
+
+Lucy, too, was perplexed; but she saw that they were in
+for what is known as quite a scene, and she had an odd feeling that
+whenever these ill-bred tourists spoke the contest widened and deepened
+till it dealt, not with rooms and views, but with—well, with something
+quite different, whose existence she had not realized before. - number of characters: 332
+
+You despise my mother—I know you do—because shes
+conventional and bothers over puddings; but, oh goodness!—she rose to
+her feet—conventional, Cecil, youre that, for you may understand
+beautiful things, but you dont know how to use them; and you wrap
+yourself up in art and books and music, and would try to wrap up me. - number of characters: 322
+
+It gave Lucy the sensation of a fog, and
+when she reached her own room she opened the window and breathed the
+clean night air, thinking of the kind old man who had enabled her to
+see the lights dancing in the Arno and the cypresses of San Miniato,
+and the foot-hills of the Apennines, black against the rising moon. - number of characters: 319
+
+Chapter II
+In Santa Croce with No Baedeker
+
+
+It was pleasant to wake up in Florence, to open the eyes upon a bright
+bare room, with a floor of red tiles which look clean though they are
+not; with a painted ceiling whereon pink griffins and blue amorini
+sport in a forest of yellow violins and bassoons. - number of characters: 309
+
+10 shortest sentences by numbers of words:
+Beebe! - number of words: 1
+Beebe? - number of words: 1
+Beebe
+bowed. - number of words: 1
+Emerson. - number of words: 1
+Beebe. - number of words: 1
+Beautiful? - number of words: 1
+Beebe. - number of words: 1
+Emerson. - number of words: 1
+Shameful! - number of words: 1
+Lost! - number of words: 1
+
+10 longest words:
+Word "unconventionality", length: 17
+Word "enthusiastically", length: 16
+Word "irresponsibility", length: 16
+Word "indiscriminately", length: 16
+Word "Michelangelesque", length: 16
+Word "misunderstanding", length: 16
+Word "disproportionate", length: 16
+Word "extraordinarily", length: 15
+Word "congratulations", length: 15
+Word "mischievousness", length: 15
+
+10 most common words:
+Word "the", count: 2828
+Word "and", count: 1716
+Word "to", count: 1652
+Word "I", count: 1379
+Word "of", count: 1311
+Word "a", count: 1187
+Word "was", count: 978
+Word "that", count: 886
+Word "her", count: 841
+Word "you", count: 828
+
+10 most common letters:
+Letter "e", count: 37087
+Letter "t", count: 25745
+Letter "a", count: 21934
+Letter "o", count: 21733
+Letter "h", count: 19299
+Letter "i", count: 19146
+Letter "s", count: 18660
+Letter "n", count: 18353
+Letter "r", count: 16820
+Letter "d", count: 12809
+
+10 most popular punctuation marks:
+Punctuation mark ".", count: 5326
+Punctuation mark ",", count: 4846
+Punctuation mark "“", count: 2071
+Punctuation mark "”", count: 2059
+Punctuation mark "’", count: 1143
+Punctuation mark "—", count: 726
+Punctuation mark "?", count: 600
+Punctuation mark "!", count: 453
+Punctuation mark ";", count: 397
+Punctuation mark "-", count: 289

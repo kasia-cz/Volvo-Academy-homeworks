@@ -1,0 +1,143 @@
+Title: The Hound of the Baskervilles
+Author: Arthur Conan Doyle
+
+10 longest sentences by number of characters:
+
+Mortimer
+      turned the manuscript to the light and read in a high, cracking
+      voice the following curious, old-world narrative:
+
+        Of the origin of the Hound of the Baskervilles there have been
+        many statements, yet as I come in a direct line from Hugo
+        Baskerville, and as I had the story from my father, who also
+        had it from his, I have set it down with all belief that it
+        occurred even as is here set forth. - number of characters: 461
+
+But it was not the sight of her body, nor yet was
+            it that of the body of Hugo Baskerville lying near her,
+            which raised the hair upon the heads of these three
+            dare-devil roysterers, but it was that, standing over Hugo,
+            and plucking at his throat, there stood a foul thing, a
+            great, black beast, shaped like a hound, yet larger than
+            any hound that ever mortal eye has rested upon. - number of characters: 456
+
+He might claim the property from South
+      America, establish his identity before the British authorities
+      there and so obtain the fortune without ever coming to England at
+      all, or he might adopt an elaborate disguise during the short
+      time that he need be in London; or, again, he might furnish an
+      accomplice with the proofs and papers, putting him in as heir,
+      and retaining a claim upon some proportion of his income. - number of characters: 455
+
+Then, as it would seem, he became as one
+            that hath a devil, for, rushing down the stairs into the
+            dining-hall, he sprang upon the great table, flagons and
+            trenchers flying before him, and he cried aloud before all
+            the company that he would that very night render his body
+            and soul to the Powers of Evil if he might but overtake the
+            wench. - number of characters: 416
+
+At last in the
+            stress of her fear she did that which might have daunted
+            the bravest or most active man, for by the aid of the
+            growth of ivy which covered (and still covers) the south
+            wall she came down from under the eaves, and so homeward
+            across the moor, there being three leagues betwixt the Hall
+            and her fathers farm. - number of characters: 399
+
+I followed the
+      footsteps down the yew alley, I saw the spot at the moor-gate
+      where he seemed to have waited, I remarked the change in the
+      shape of the prints after that point, I noted that there were no
+      other footsteps save those of Barrymore on the soft gravel, and
+      finally I carefully examined the body, which had not been touched
+      until my arrival. - number of characters: 392
+
+Setting
+      aside the whole grim story of Sir Charless death, we had a line
+      of inexplicable incidents all within the limits of two days,
+      which included the receipt of the printed letter, the
+      black-bearded spy in the hansom, the loss of the new brown boot,
+      the loss of the old black boot, and now the return of the new
+      brown boot. - number of characters: 367
+
+He tied her up,
+      therefore, that she might have no chance of warning Sir Henry,
+      and he hoped, no doubt, that when the whole countryside put down
+      the baronets death to the curse of his family, as they certainly
+      would do, he could win his wife back to accept an accomplished
+      fact and to keep silent upon what she knew. - number of characters: 350
+
+Since the tragic upshot of our visit to
+      Devonshire he had been engaged in two affairs of the utmost
+      importance, in the first of which he had exposed the atrocious
+      conduct of Colonel Upwood in connection with the famous card
+      scandal of the Nonpareil Club, while in the second he had
+      defended the unfortunate Mme. - number of characters: 346
+
+Their
+            evidence, corroborated by that of several friends, tends to
+            show that Sir Charless health has for some time been
+            impaired, and points especially to some affection of the
+            heart, manifesting itself in changes of colour,
+            breathlessness, and acute attacks of nervous depression. - number of characters: 345
+
+10 shortest sentences by numbers of words:
+Good! - number of words: 1
+Excellent! - number of words: 1
+Watson. - number of words: 1
+Holmes. - number of words: 1
+Well? - number of words: 1
+Footprints? - number of words: 1
+Footprints. - number of words: 1
+Enormous. - number of words: 1
+None. - number of words: 1
+Excellent! - number of words: 1
+
+10 longest words:
+Word "supernaturalists", length: 16
+Word "dolichocephalic", length: 15
+Word "anthropological", length: 15
+Word "characteristics", length: 15
+Word "extraordinarily", length: 15
+Word "personification", length: 15
+Word "reconstruction", length: 14
+Word "breathlessness", length: 14
+Word "investigations", length: 14
+Word "Northumberland", length: 14
+
+10 most common words:
+Word "the", count: 3091
+Word "of", count: 1595
+Word "and", count: 1517
+Word "I", count: 1501
+Word "to", count: 1383
+Word "a", count: 1230
+Word "that", count: 1082
+Word "in", count: 869
+Word "was", count: 794
+Word "it", count: 786
+
+10 most common letters:
+Letter "e", count: 30077
+Letter "t", count: 22692
+Letter "a", count: 19715
+Letter "o", count: 19371
+Letter "i", count: 17092
+Letter "h", count: 16774
+Letter "n", count: 16417
+Letter "s", count: 15352
+Letter "r", count: 14434
+Letter "d", count: 10466
+
+10 most popular punctuation marks:
+Punctuation mark ",", count: 3436
+Punctuation mark ".", count: 3434
+Punctuation mark "“", count: 1402
+Punctuation mark "”", count: 1366
+Punctuation mark "?", count: 518
+Punctuation mark "’", count: 404
+Punctuation mark "-", count: 266
+Punctuation mark "!", count: 182
+Punctuation mark "—", count: 156
+Punctuation mark "_", count: 72

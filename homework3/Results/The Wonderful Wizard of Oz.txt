@@ -1,0 +1,136 @@
+Title: The Wonderful Wizard of Oz
+Author: L. Frank Baum
+
+10 longest sentences by number of characters:
+
+There were milkmaids and shepherdesses, with brightly colored
+bodices and golden spots all over their gowns; and princesses with most
+gorgeous frocks of silver and gold and purple; and shepherds dressed in
+knee breeches with pink and yellow and blue stripes down them, and
+golden buckles on their shoes; and princes with jeweled crowns upon
+their heads, wearing ermine robes and satin doublets; and funny clowns
+in ruffled gowns, with round red spots upon their cheeks and tall,
+pointed caps. - number of characters: 499
+
+Yet the old time fairy tale, having served for generations, may now be
+classed as historical in the childrens library; for the time has
+come for a series of newer wonder tales in which the stereotyped
+genie, dwarf and fairy are eliminated, together with all the horrible
+and blood-curdling incidents devised by their authors to point a
+fearsome moral to each tale. - number of characters: 369
+
+Finding they were
+determined to go, the Winkies gave Toto and the Lion each a golden
+collar; and to Dorothy they presented a beautiful bracelet studded with
+diamonds; and to the Scarecrow they gave a gold-headed walking stick,
+to keep him from stumbling; and to the Tin Woodman they offered a
+silver oil-can, inlaid with gold and set with precious jewels. - number of characters: 360
+
+Chapter XXIII
+Glinda The Good Witch Grants Dorothys Wish
+
+
+Before they went to see Glinda, however, they were taken to a room of
+the Castle, where Dorothy washed her face and combed her hair, and the
+Lion shook the dust out of his mane, and the Scarecrow patted himself
+into his best shape, and the Woodman polished his tin and oiled his
+joints. - number of characters: 353
+
+So
+they set to work in one of the big yellow rooms of the castle and
+worked for three days and four nights, hammering and twisting and
+bending and soldering and polishing and pounding at the legs and body
+and head of the Tin Woodman, until at last he was straightened out into
+his old form, and his joints worked as well as ever. - number of characters: 334
+
+Little Toto, now that he had an enemy to face, ran barking toward the
+Lion, and the great beast had opened his mouth to bite the dog, when
+Dorothy, fearing Toto would be killed, and heedless of danger, rushed
+forward and slapped the Lion upon his nose as hard as she could, while
+she cried out:
+
+Dont you dare to bite Toto! - number of characters: 329
+
+The Scarecrow and the Tin Woodman were rather frightened at first, for
+they remembered how badly the Winged Monkeys had treated them before;
+but they saw that no harm was intended, so they rode through the air
+quite cheerfully, and had a fine time looking at the pretty gardens and
+woods far below them. - number of characters: 307
+
+When Dorothy, who was an orphan, first came to her, Aunt Em had
+been so startled by the childs laughter that she would scream and
+press her hand upon her heart whenever Dorothys merry voice reached
+her ears; and she still looked at the little girl with wonder that she
+could find anything to laugh at. - number of characters: 305
+
+But my grandfather pleaded
+hard, for he knew the Monkeys would drown in the river with their wings
+tied, and Quelala said a kind word for them also; so that Gayelette
+finally spared them, on condition that the Winged Monkeys should ever
+after do three times the bidding of the owner of the Golden Cap. - number of characters: 305
+
+In the middle of a cyclone the air is
+generally still, but the great pressure of the wind on every side of
+the house raised it up higher and higher, until it was at the very top
+of the cyclone; and there it remained and was carried miles and miles
+away as easily as you could carry a feather. - number of characters: 296
+
+10 shortest sentences by numbers of words:
+Neither. - number of words: 1
+Dont! - number of words: 1
+Quick! - number of words: 1
+Good-bye! - number of words: 1
+Really? - number of words: 1
+Good-bye! - number of words: 1
+Good-bye! - number of words: 1
+Never. - number of words: 1
+Good-bye! - number of words: 1
+Hello! - number of words: 1
+
+10 longest words:
+Word "discouragements", length: 15
+Word "confidentially", length: 14
+Word "disappointment", length: 14
+Word "entertainment", length: 13
+Word "handkerchiefs", length: 13
+Word "reproachfully", length: 13
+Word "uncomfortable", length: 13
+Word "ventriloquist", length: 13
+Word "shepherdesses", length: 13
+Word "Illustration", length: 12
+
+10 most common words:
+Word "the", count: 2771
+Word "and", count: 1603
+Word "to", count: 1106
+Word "of", count: 834
+Word "a", count: 799
+Word "I", count: 649
+Word "was", count: 502
+Word "in", count: 468
+Word "you", count: 448
+Word "he", count: 410
+
+10 most common letters:
+Letter "e", count: 20415
+Letter "t", count: 14888
+Letter "a", count: 12887
+Letter "o", count: 12877
+Letter "h", count: 11448
+Letter "n", count: 9725
+Letter "r", count: 9350
+Letter "i", count: 9265
+Letter "s", count: 8943
+Letter "d", count: 8360
+
+10 most popular punctuation marks:
+Punctuation mark ",", count: 2703
+Punctuation mark ".", count: 1964
+Punctuation mark "“", count: 1084
+Punctuation mark "”", count: 1065
+Punctuation mark "’", count: 248
+Punctuation mark ";", count: 196
+Punctuation mark "?", count: 194
+Punctuation mark "!", count: 97
+Punctuation mark "-", count: 86
+Punctuation mark ":", count: 59

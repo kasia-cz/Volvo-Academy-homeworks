@@ -1,0 +1,159 @@
+Title: The Time Machine
+Author: H. G. Wells
+
+10 longest sentences by number of characters:
+
+Wells
+
+
+CONTENTS
+
+ I Introduction
+ II The Machine
+ III The Time Traveller Returns
+ IV Time Travelling
+ V In the Golden Age
+ VI The Sunset of Mankind
+ VII A Sudden Shock
+ VIII Explanation
+ IX The Morlocks
+ X When Night Came
+ XI The Palace of Green Porcelain
+ XII In the Darkness
+ XIII The Trap of the White Sphinx
+ XIV The Further Vision
+ XV The Time Travellers Return
+ XVI After the Story
+ Epilogue
+
+
+
+
+ I. - number of characters: 432
+
+Presently, as I went on, still
+gaining velocity, the palpitation of night and day merged into one
+continuous greyness; the sky took on a wonderful deepness of blue, a
+splendid luminous colour like that of early twilight; the jerking sun
+became a streak of fire, a brilliant arch, in space; the moon a fainter
+fluctuating band; and I could see nothing of the stars, save now and
+then a brighter circle flickering in the blue. - number of characters: 430
+
+And this same widening gulf—which is due
+to the length and expense of the higher educational process and the
+increased facilities for and temptations towards refined habits on the
+part of the rich—will make that exchange between class and class, that
+promotion by intermarriage which at present retards the splitting of
+our species along lines of social stratification, less and less
+frequent. - number of characters: 399
+
+Here, apparently, was the Palæontological Section, and a very splendid
+array of fossils it must have been, though the inevitable process of
+decay that had been staved off for a time, and had, through the
+extinction of bacteria and fungi, lost ninety-nine hundredths of its
+force, was nevertheless, with extreme sureness if with extreme slowness
+at work again upon all its treasures. - number of characters: 387
+
+I have a memory of horrible
+fatigue, as the long night of despair wore away; of looking in this
+impossible place and that; of groping among moonlit ruins and touching
+strange creatures in the black shadows; at last, of lying on the ground
+near the sphinx and weeping with absolute wretchedness, even anger at
+the folly of leaving the machine having leaked away with my strength. - number of characters: 383
+
+But to come to a stop involved the jamming of
+myself, molecule by molecule, into whatever lay in my way; meant
+bringing my atoms into such intimate contact with those of the obstacle
+that a profound chemical reaction—possibly a far-reaching
+explosion—would result, and blow myself and my apparatus out of all
+possible dimensions—into the Unknown. - number of characters: 351
+
+Where population
+is balanced and abundant, much childbearing becomes an evil rather than
+a blessing to the State; where violence comes but rarely and offspring
+are secure, there is less necessity—indeed there is no necessity—for an
+efficient family, and the specialisation of the sexes with reference to
+their childrens needs disappears. - number of characters: 342
+
+But, gradually, the truth dawned on me: that Man
+had not remained one species, but had differentiated into two distinct
+animals: that my graceful children of the Upper World were not the sole
+descendants of our generation, but that this bleached, obscene,
+nocturnal Thing, which had flashed before me, was also heir to all the
+ages. - number of characters: 337
+
+Seeing the ease and security in which these people were living, I felt
+that this close resemblance of the sexes was after all what one would
+expect; for the strength of a man and the softness of a woman, the
+institution of the family, and the differentiation of occupations are
+mere militant necessities of an age of physical force. - number of characters: 336
+
+A little way up the hill, for instance, was a
+great heap of granite, bound together by masses of aluminium, a vast
+labyrinth of precipitous walls and crumpled heaps, amidst which were
+thick heaps of very beautiful pagoda-like plants—nettles possibly—but
+wonderfully tinted with brown about the leaves, and incapable of
+stinging. - number of characters: 333
+
+10 shortest sentences by numbers of words:
+Well? - number of words: 1
+Well? - number of words: 1
+said
+Filby. - number of words: 1
+You
+see? - number of words: 1
+Wheres——? - number of words: 1
+Hallo! - number of words: 1
+Good
+heavens! - number of words: 1
+Im—funny! - number of words: 1
+Story! - number of words: 1
+Thanks. - number of words: 1
+
+10 longest words:
+Word "inextinguishable", length: 16
+Word "incomprehensible", length: 16
+Word "_instantaneous_", length: 15
+Word "representations", length: 15
+Word "proportionately", length: 15
+Word "differentiation", length: 15
+Word "preternaturally", length: 15
+Word "Palæontological", length: 15
+Word "intermittently", length: 14
+Word "mathematicians", length: 14
+
+10 most common words:
+Word "the", count: 2066
+Word "I", count: 1267
+Word "of", count: 1158
+Word "and", count: 1150
+Word "a", count: 795
+Word "to", count: 674
+Word "was", count: 550
+Word "in", count: 508
+Word "my", count: 426
+Word "that", count: 421
+
+10 most common letters:
+Letter "e", count: 17918
+Letter "t", count: 13591
+Letter "a", count: 11747
+Letter "i", count: 10213
+Letter "n", count: 9979
+Letter "o", count: 9795
+Letter "s", count: 8555
+Letter "h", count: 8302
+Letter "r", count: 7715
+Letter "d", count: 6342
+
+10 most popular punctuation marks:
+Punctuation mark ",", count: 2250
+Punctuation mark ".", count: 1804
+Punctuation mark "“", count: 351
+Punctuation mark "—", count: 179
+Punctuation mark "”", count: 176
+Punctuation mark "’", count: 150
+Punctuation mark "-", count: 150
+Punctuation mark ";", count: 109
+Punctuation mark "?", count: 96
+Punctuation mark "!", count: 67

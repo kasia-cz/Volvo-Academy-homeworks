@@ -1,0 +1,179 @@
+Title: Dracula
+Author: Bram Stoker
+
+10 longest sentences by number of characters:
+
+This vampire which is
+amongst us is of himself so strong in person as twenty men; he is of
+cunning more than mortal, for his cunning be the growth of ages; he have
+still the aids of necromancy, which is, as his etymology imply, the
+divination by the dead, and all the dead that he can come nigh to are
+for him at command; he is brute, and more than brute; he is devil in
+callous, and the heart of him is not; he can, within limitations, appear
+at will when, and where, and in any of the forms that are to him; he
+can, within his range, direct the elements; the storm, the fog, the
+thunder; he can command all the meaner things: the rat, and the owl, and
+the bat--the moth, and the fox, and the wolf; he can grow and become
+small; and he can at times vanish and come unknown. - number of characters: 785
+
+
+
+
+
+                                DRACULA
+
+                                  _by_
+
+                              Bram Stoker
+
+                        [Illustration: colophon]
+
+                                NEW YORK
+
+                            GROSSET & DUNLAP
+
+                              _Publishers_
+
+      Copyright, 1897, in the United States of America, according
+                   to Act of Congress, by Bram Stoker
+
+                        [_All rights reserved._]
+
+                      PRINTED IN THE UNITED STATES
+                                   AT
+               THE COUNTRY LIFE PRESS, GARDEN CITY, N.Y. - number of characters: 651
+
+The tomb in the day-time, and when wreathed
+with fresh flowers, had looked grim and gruesome enough; but now, some
+days afterwards, when the flowers hung lank and dead, their whites
+turning to rust and their greens to browns; when the spider and the
+beetle had resumed their accustomed dominance; when time-discoloured
+stone, and dust-encrusted mortar, and rusty, dank iron, and tarnished
+brass, and clouded silver-plating gave back the feeble glimmer of a
+candle, the effect was more miserable and sordid than could have been
+imagined. - number of characters: 544
+
+If you, who saw the
+wounds on Lucys throat, and saw the wounds so similar on the childs at
+the hospital; if you, who saw the coffin empty last night and full
+to-day with a woman who have not change only to be more rose and more
+beautiful in a whole week, after she die--if you know of this and know
+of the white figure last night that brought the child to the churchyard,
+and yet of your own senses you did not believe, how, then, can I expect
+Arthur, who know none of those things, to believe? - number of characters: 501
+
+Oh, that I could give any idea of the
+scene; of that sweet, sweet, good, good woman in all the radiant beauty
+of her youth and animation, with the red scar on her forehead, of which
+she was conscious, and which we saw with grinding of our
+teeth--remembering whence and how it came; her loving kindness against
+our grim hate; her tender faith against all our fears and doubting; and
+we, knowing that so far as symbols went, she with all her goodness and
+purity and faith, was outcast from God. - number of characters: 499
+
+He took my hands
+and raised me up, and made me sit on the sofa, and sat by me; he held my
+hand in his, and said to me with, oh, such infinite sweetness:--
+
+My life is a barren and lonely one, and so full of work that I have not
+had much time for friendships; but since I have been summoned to here by
+my friend John Seward I have known so many good people and seen such
+nobility that I feel more than ever--and it has grown with my advancing
+years--the loneliness of my life. - number of characters: 483
+
+Can
+you tell me why in the Pampas, ay and elsewhere, there are bats that
+come at night and open the veins of cattle and horses and suck dry their
+veins; how in some islands of the Western seas there are bats which hang
+on the trees all day, and those who have seen describe as like giant
+nuts or pods, and that when the sailors sleep on the deck, because that
+it is hot, flit down on them, and then--and then in the morning are
+found dead men, white as even Miss Lucy was? - number of characters: 479
+
+Sometimes, as the road was cut through the pine woods
+that seemed in the darkness to be closing down upon us, great masses of
+greyness, which here and there bestrewed the trees, produced a
+peculiarly weird and solemn effect, which carried on the thoughts and
+grim fancies engendered earlier in the evening, when the falling sunset
+threw into strange relief the ghost-like clouds which amongst the
+Carpathians seem to wind ceaselessly through the valleys. - number of characters: 460
+
+Keep this near your heart--as he spoke he lifted a little silver
+crucifix and held it out to me, I being nearest to him--put these
+flowers round your neck--here he handed to me a wreath of withered
+garlic blossoms--for other enemies more mundane, this revolver and this
+knife; and for aid in all, these so small electric lamps, which you can
+fasten to your breast; and for all, and above all at the last, this,
+which we must not desecrate needless. - number of characters: 454
+
+As he
+answered me his face grew stern, and he said in quite a different
+tone:--
+
+Oh, it was the grim irony of it all--this so lovely lady garlanded with
+flowers, that looked so fair as life, till one by one we wondered if she
+were truly dead; she laid in that so fine marble house in that lonely
+churchyard, where rest so many of her kin, laid there with the mother
+who loved her, and whom she loved; and that sacred bell going Toll! - number of characters: 441
+
+10 shortest sentences by numbers of words:
+Solicitors
+clerk! - number of words: 1
+Good! - number of words: 1
+Good! - number of words: 1
+Good! - number of words: 1
+Be
+warned! - number of words: 1
+Well! - number of words: 1
+Action! - number of words: 1
+Sincerity! - number of words: 1
+Come! - number of words: 1
+Hark! - number of words: 1
+
+10 longest words:
+Word "straightforwardly", length: 17
+Word "argumentativeness", length: 17
+Word "Transcendentalism", length: 17
+Word "acquaintanceship", length: 16
+Word "responsibilities", length: 16
+Word "enthusiastically", length: 16
+Word "interrogatively", length: 15
+Word "philosophically", length: 15
+Word "materialisation", length: 15
+Word "impossibilities", length: 15
+
+10 most common words:
+Word "the", count: 7316
+Word "and", count: 5735
+Word "I", count: 4843
+Word "to", count: 4587
+Word "of", count: 3602
+Word "a", count: 2894
+Word "that", count: 2422
+Word "in", count: 2409
+Word "he", count: 1993
+Word "was", count: 1867
+
+10 most common letters:
+Letter "e", count: 79892
+Letter "t", count: 58600
+Letter "a", count: 52772
+Letter "o", count: 50680
+Letter "n", count: 43913
+Letter "h", count: 43561
+Letter "i", count: 42986
+Letter "s", count: 39850
+Letter "r", count: 35324
+Letter "d", count: 28717
+
+10 most popular punctuation marks:
+Punctuation mark ",", count: 11250
+Punctuation mark ".", count: 8312
+Punctuation mark "-", count: 3844
+Punctuation mark ";", count: 1683
+Punctuation mark "’", count: 1547
+Punctuation mark "“", count: 1542
+Punctuation mark "”", count: 1388
+Punctuation mark "_", count: 995
+Punctuation mark "!", count: 751
+Punctuation mark "*", count: 650

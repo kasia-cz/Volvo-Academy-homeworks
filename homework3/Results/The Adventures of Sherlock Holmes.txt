@@ -1,0 +1,154 @@
+Title: The Adventures of Sherlock Holmes
+Author: Arthur Conan Doyle
+
+10 longest sentences by number of characters:
+
+When you combine the ideas of whistles at night, the presence of a
+band of gipsies who are on intimate terms with this old doctor, the
+fact that we have every reason to believe that the doctor has an
+interest in preventing his stepdaughters marriage, the dying allusion
+to a band, and, finally, the fact that Miss Helen Stoner heard a
+metallic clang, which might have been caused by one of those metal bars
+that secured the shutters falling back into its place, I think that
+there is good ground to think that the mystery may be cleared along
+those lines. - number of characters: 563
+
+It is pleasant to me to observe,
+Watson, that you have so far grasped this truth that in these little
+records of our cases which you have been good enough to draw up, and, I
+am bound to say, occasionally to embellish, you have given prominence
+not so much to the many _causes célèbres_ and sensational trials in
+which I have figured but rather to those incidents which may have been
+trivial in themselves, but which have given room for those faculties of
+deduction and of logical synthesis which I have made my special
+province. - number of characters: 536
+
+THE ADVENTURE OF THE SPECKLED BAND
+
+
+On glancing over my notes of the seventy odd cases in which I have
+during the last eight years studied the methods of my friend Sherlock
+Holmes, I find many tragic, some comic, a large number merely strange,
+but none commonplace; for, working as he did rather for the love of his
+art than for the acquirement of wealth, he refused to associate himself
+with any investigation which did not tend towards the unusual, and even
+the fantastic. - number of characters: 484
+
+You have erred, perhaps, he observed, taking up a glowing cinder with
+the tongs and lighting with it the long cherry-wood pipe which was wont
+to replace his clay when he was in a disputatious rather than a
+meditative mood—you have erred perhaps in attempting to put colour and
+life into each of your statements instead of confining yourself to the
+task of placing upon record that severe reasoning from cause to effect
+which is really the only notable feature about the thing. - number of characters: 482
+
+My own complete happiness, and the home-centred
+interests which rise up around the man who first finds himself master
+of his own establishment, were sufficient to absorb all my attention,
+while Holmes, who loathed every form of society with his whole Bohemian
+soul, remained in our lodgings in Baker Street, buried among his old
+books, and alternating from week to week between cocaine and ambition,
+the drowsiness of the drug, and the fierce energy of his own keen
+nature. - number of characters: 480
+
+A shock of orange hair, a
+pale face disfigured by a horrible scar, which, by its contraction, has
+turned up the outer edge of his upper lip, a bulldog chin, and a pair
+of very penetrating dark eyes, which present a singular contrast to the
+colour of his hair, all mark him out from amid the common crowd of
+mendicants and so, too, does his wit, for he is ever ready with a reply
+to any piece of chaff which may be thrown at him by the passers-by. - number of characters: 452
+
+You suppose that your son came down from his
+bed, went, at great risk, to your dressing-room, opened your bureau,
+took out your coronet, broke off by main force a small portion of it,
+went off to some other place, concealed three gems out of the
+thirty-nine, with such skill that nobody can find them, and then
+returned with the other thirty-six into the room in which he exposed
+himself to the greatest danger of being discovered. - number of characters: 437
+
+If
+we could fly out of that window hand in hand, hover over this great
+city, gently remove the roofs, and peep in at the queer things which
+are going on, the strange coincidences, the plannings, the
+cross-purposes, the wonderful chains of events, working through
+generations, and leading to the most _outré_ results, it would make all
+fiction with its conventionalities and foreseen conclusions most stale
+and unprofitable. - number of characters: 430
+
+I shall have to tell my tale to the police; but,
+between ourselves, if it were not for the convincing evidence of this
+wound of mine, I should be surprised if they believed my statement, for
+it is a very extraordinary one, and I have not much in the way of proof
+with which to back it up; and, even if they believe me, the clues which
+I can give them are so vague that it is a question whether justice will
+be done. - number of characters: 421
+
+Among my headings under
+this one twelve months I find an account of the adventure of the
+Paradol Chamber, of the Amateur Mendicant Society, who held a luxurious
+club in the lower vault of a furniture warehouse, of the facts
+connected with the loss of the British barque _Sophy Anderson_, of the
+singular adventures of the Grice Patersons in the island of Uffa, and
+finally of the Camberwell poisoning case. - number of characters: 412
+
+10 shortest sentences by numbers of words:
+Seven! - number of words: 1
+Frequently. - number of words: 1
+Precisely. - number of words: 1
+Holmes
+whistled. - number of words: 1
+Contralto—hum! - number of words: 1
+None. - number of words: 1
+None. - number of words: 1
+Forgery. - number of words: 1
+Stolen. - number of words: 1
+Imitated. - number of words: 1
+
+10 longest words:
+Word "disproportionately", length: 18
+Word "conventionalities", length: 17
+Word "indistinguishable", length: 17
+Word "inconsequential", length: 15
+Word "characteristics", length: 15
+Word "improbabilities", length: 15
+Word "accomplishments", length: 15
+Word "uncontrollable", length: 14
+Word "unpleasantness", length: 14
+Word "disappointment", length: 14
+
+10 most common words:
+Word "the", count: 5263
+Word "I", count: 3038
+Word "and", count: 2818
+Word "to", count: 2715
+Word "of", count: 2625
+Word "a", count: 2538
+Word "in", count: 1692
+Word "that", count: 1651
+Word "was", count: 1392
+Word "it", count: 1290
+
+10 most common letters:
+Letter "e", count: 53082
+Letter "t", count: 38980
+Letter "a", count: 35125
+Letter "o", count: 33475
+Letter "i", count: 30138
+Letter "h", count: 29048
+Letter "n", count: 28641
+Letter "s", count: 27159
+Letter "r", count: 24502
+Letter "d", count: 18520
+
+10 most popular punctuation marks:
+Punctuation mark ",", count: 7659
+Punctuation mark ".", count: 6208
+Punctuation mark "“", count: 2764
+Punctuation mark "”", count: 2325
+Punctuation mark "’", count: 1051
+Punctuation mark "-", count: 739
+Punctuation mark "?", count: 738
+Punctuation mark "‘", count: 434
+Punctuation mark "!", count: 346
+Punctuation mark ";", count: 202

@@ -1,0 +1,164 @@
+Title: Frankenstein; Or, The Modern Prometheus
+Author: Mary Wollstonecraft Shelley
+
+10 longest sentences by number of characters:
+
+I have seen, he said, the most
+beautiful scenes of my own country; I have visited the lakes of Lucerne
+and Uri, where the snowy mountains descend almost perpendicularly to the
+water, casting black and impenetrable shades, which would cause a gloomy
+and mournful appearance, were it not for the most verdant islands that
+relieve the eye by their gay appearance; I have seen this lake agitated
+by a tempest, when the wind tore up whirlwinds of water, and gave you an
+idea of what the water-spout must be on the great ocean, and the waves
+dash with fury the base of the mountain, where the priest and his
+mistress were overwhelmed by an avalanche, and where their dying voices
+are still said to be heard amid the pauses of the nightly wind; I have
+seen the mountains of La Valais, and the Pays de Vaud: but this country,
+Victor, pleases me more than all those wonders. - number of characters: 877
+
+We passed rapidly along: the sun was hot, but we
+were sheltered from its rays by a kind of canopy, while we enjoyed the
+beauty of the scene, sometimes on one side of the lake, where we saw
+Mont Salêve, the pleasant banks of Montalêgre, and at a distance,
+surmounting all, the beautiful Mont Blânc, and the assemblage of snowy
+mountains that in vain endeavour to emulate her; sometimes coasting the
+opposite banks, we saw the mighty Jura opposing its dark side to the
+ambition that would quit its native country, and an almost
+insurmountable barrier to the invader who should wish to enslave it. - number of characters: 602
+
+If, instead of this remark, my father had taken the pains, to explain to
+me, that the principles of Agrippa had been entirely exploded, and that
+a modern system of science had been introduced, which possessed much
+greater powers than the ancient, because the powers of the latter were
+chimerical, while those of the former were real and practical; under
+such circumstances, I should certainly have thrown Agrippa aside, and,
+with my imagination warmed as it was, should probably have applied
+myself to the more rational theory of chemistry which has resulted from
+modern discoveries. - number of characters: 591
+
+In the meanwhile also the black ground was covered with herbage, and
+the green banks interspersed with innumerable flowers, sweet to the
+scent and the eyes, stars of pale radiance among the moonlight woods;
+the sun became warmer, the nights clear and balmy; and my nocturnal
+rambles were an extreme pleasure to me, although they were considerably
+shortened by the late setting and early rising of the sun; for I never
+ventured abroad during daylight, fearful of meeting with the same
+treatment as I had formerly endured in the first village which I
+entered. - number of characters: 565
+
+I paused,
+examining and analysing all the minutiæ of causation, as exemplified in
+the change from life to death, and death to life, until from the midst
+of this darkness a sudden light broke in upon me—a light so brilliant
+and wondrous, yet so simple, that while I became dizzy with the
+immensity of the prospect which it illustrated, I was surprised that
+among so many men of genius, who had directed their inquiries towards
+the same science, that I alone should be reserved to discover so
+astonishing a secret. - number of characters: 520
+
+The latter method of obtaining the
+desired intelligence was dilatory and unsatisfactory: besides, any
+variation was agreeable to me, and I was delighted with the idea of
+spending a year or two in change of scene and variety of occupation, in
+absence from my family; during which period some event might happen
+which would restore me to them in peace and happiness: my promise might
+be fulfilled, and the monster have departed; or some accident might
+occur to destroy him, and put an end to my slavery for ever. - number of characters: 517
+
+I improved, however, sensibly
+in this science, but not sufficiently to follow up any kind of
+conversation, although I applied my whole mind to the endeavour: for I
+easily perceived that, although I eagerly longed to discover myself to
+the cottagers, I ought not to make the attempt until I had first become
+master of their language; which knowledge might enable me to make them
+overlook the deformity of my figure; for with this also the contrast
+perpetually presented to my eyes had made me acquainted. - number of characters: 510
+
+The _Iliad_, the tragic poetry of
+Greece,—Shakespeare, in the _Tempest_ and _Midsummer Nights
+Dream_,—and most especially Milton, in _Paradise Lost_, conform to this
+rule; and the most humble novelist, who seeks to confer or receive
+amusement from his labours, may, without presumption, apply to prose
+fiction a licence, or rather a rule, from the adoption of which so many
+exquisite combinations of human feeling have resulted in the highest
+specimens of poetry. - number of characters: 470
+
+Sometimes, indeed, I felt a wish
+for happiness; and thought, with melancholy delight, of my beloved
+cousin; or longed, with a devouring _maladie du pays_, to see once more
+the blue lake and rapid Rhone, that had been so dear to me in early
+childhood: but my general state of feeling was a torpor, in which a
+prison was as welcome a residence as the divinest scene in nature; and
+these fits were seldom interrupted, but by paroxysms of anguish and
+despair. - number of characters: 462
+
+You may easily
+believe, said he, how great was the difficulty to persuade my father
+that it was not absolutely necessary for a merchant not to understand
+any thing except book-keeping; and, indeed, I believe I left him
+incredulous to the last, for his constant answer to my unwearied
+entreaties was the same as that of the Dutch schoolmaster in the Vicar
+of Wakefield: I have ten thousand florins a year without Greek, I eat
+heartily without Greek. - number of characters: 455
+
+10 shortest sentences by numbers of words:
+1818. - number of words: 1
+PREFACE. - number of words: 1
+WALTON. - number of words: 1
+George. - number of words: 1
+Alas! - number of words: 1
+FRANKENSTEIN. - number of words: 1
+Poor
+girl! - number of words: 1
+Waldman. - number of words: 1
+FRANKENSTEIN. - number of words: 1
+Alas! - number of words: 1
+
+10 longest words:
+Word "incomprehensible", length: 16
+Word "impracticability", length: 16
+Word "prognostications", length: 16
+Word "perpendicularity", length: 16
+Word "inextinguishable", length: 16
+Word "considerateness", length: 15
+Word "inquisitiveness", length: 15
+Word "disappointments", length: 15
+Word "accomplishments", length: 15
+Word "impossibilities", length: 15
+
+10 most common words:
+Word "the", count: 3759
+Word "and", count: 2870
+Word "I", count: 2792
+Word "of", count: 2506
+Word "to", count: 1961
+Word "my", count: 1548
+Word "a", count: 1268
+Word "in", count: 1027
+Word "that", count: 1014
+Word "was", count: 982
+
+10 most common letters:
+Letter "e", count: 42653
+Letter "t", count: 27979
+Letter "a", count: 24884
+Letter "o", count: 23115
+Letter "i", count: 22826
+Letter "n", count: 22587
+Letter "s", count: 19597
+Letter "r", count: 18874
+Letter "h", count: 18636
+Letter "d", count: 15781
+
+10 most popular punctuation marks:
+Punctuation mark ",", count: 5808
+Punctuation mark ".", count: 2896
+Punctuation mark ";", count: 1346
+Punctuation mark "“", count: 495
+Punctuation mark "”", count: 305
+Punctuation mark "?", count: 208
+Punctuation mark "!", count: 200
+Punctuation mark ":", count: 195
+Punctuation mark "-", count: 161
+Punctuation mark "’", count: 138

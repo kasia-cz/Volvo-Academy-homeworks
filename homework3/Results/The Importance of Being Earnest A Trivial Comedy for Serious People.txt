@@ -1,0 +1,121 @@
+Title: The Importance of Being Earnest: A Trivial Comedy for Serious People
+Author: Oscar Wilde
+
+10 longest sentences by number of characters:
+
+[With a shiver, crossing to the sofa and sitting down.] I do not know
+whether there is anything peculiarly exciting in the air of this
+particular part of Hertfordshire, but the number of engagements that go
+on seems to me considerably above the proper average that statistics
+have laid down for our guidance. - number of characters: 312
+
+As for the
+particular locality in which the hand-bag was found, a cloak-room at a
+railway station might serve to conceal a social indiscretion—has
+probably, indeed, been used for that purpose before now—but it could
+hardly be regarded as an assured basis for a recognised position in
+good society. - number of characters: 302
+
+Algernon and Jack pretend to be anxious to shield
+Cecily and Gwendolen from hearing the details of a terrible public
+scandal.] Twenty-eight years ago, Prism, you left Lord Bracknells
+house, Number 104, Upper Grosvenor Street, in charge of a perambulator
+that contained a baby of the male sex. - number of characters: 296
+
+And as a high moral tone can hardly
+be said to conduce very much to either ones health or ones happiness,
+in order to get up to town I have always pretended to have a younger
+brother of the name of Ernest, who lives in the Albany, and gets into
+the most dreadful scrapes. - number of characters: 275
+
+It is my last
+reception, and one wants something that will encourage conversation,
+particularly at the end of the season when every one has practically
+said whatever they had to say, which, in most cases, was probably not
+much. - number of characters: 231
+
+To be born, or at any rate
+bred, in a hand-bag, whether it had handles or not, seems to me to
+display a contempt for the ordinary decencies of family life that
+reminds one of the worst excesses of the French Revolution. - number of characters: 222
+
+I have
+also in my possession, you will be pleased to hear, certificates of
+Miss Cardews birth, baptism, whooping cough, registration,
+vaccination, confirmation, and the measles; both the German and the
+English variety. - number of characters: 222
+
+And what makes his conduct all
+the more heartless is, that he was perfectly well aware from the first
+that I have no brother, that I never had a brother, and that I dont
+intend to have a brother, not even of any kind. - number of characters: 220
+
+Worthing, as Miss Cardew states positively that she cannot
+wait till she is thirty-five—a remark which I am bound to say seems to
+me to show a somewhat impatient nature—I would beg of you to reconsider
+your decision. - number of characters: 219
+
+Thomas Cardew, an old gentleman of a very charitable and
+kindly disposition, found me, and gave me the name of Worthing, because
+he happened to have a first-class ticket for Worthing in his pocket at
+the time. - number of characters: 212
+
+10 shortest sentences by numbers of words:
+Vincent. - number of words: 1
+LANE. - number of words: 1
+ALGERNON. - number of words: 1
+LANE. - number of words: 1
+ALGERNON. - number of words: 1
+LANE. - number of words: 1
+LANE. - number of words: 1
+ALGERNON. - number of words: 1
+LANE. - number of words: 1
+ALGERNON. - number of words: 1
+
+10 longest words:
+Word "misunderstanding", length: 16
+Word "incomprehensible", length: 16
+Word "Enthusiastically", length: 16
+Word "horticulturally", length: 15
+Word "personification", length: 15
+Word "disrespectfully", length: 15
+Word "responsibility", length: 14
+Word "disappointment", length: 14
+Word "respectability", length: 14
+Word "metaphorically", length: 14
+
+10 most common words:
+Word "I", count: 831
+Word "to", count: 566
+Word "the", count: 534
+Word "you", count: 458
+Word "is", count: 403
+Word "a", count: 385
+Word "of", count: 378
+Word "that", count: 280
+Word "in", count: 274
+Word "and", count: 249
+
+10 most common letters:
+Letter "e", count: 10614
+Letter "a", count: 7483
+Letter "t", count: 7213
+Letter "o", count: 6920
+Letter "n", count: 6647
+Letter "i", count: 6356
+Letter "r", count: 5466
+Letter "s", count: 5191
+Letter "l", count: 4559
+Letter "h", count: 4056
+
+10 most popular punctuation marks:
+Punctuation mark ".", count: 2897
+Punctuation mark ",", count: 1215
+Punctuation mark "[", count: 322
+Punctuation mark "]", count: 322
+Punctuation mark "’", count: 315
+Punctuation mark "?", count: 270
+Punctuation mark "!", count: 235
+Punctuation mark "-", count: 106
+Punctuation mark ";", count: 30
+Punctuation mark "—", count: 28

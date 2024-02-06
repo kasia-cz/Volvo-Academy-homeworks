@@ -1,0 +1,168 @@
+Title: The Problems of Philosophy
+Author: Bertrand Russell
+
+10 longest sentences by number of characters:
+
+The principle we are examining may be called the _principle of
+induction_, and its two parts may be stated as follows:
+
+(a) When a thing of a certain sort A has been found to be associated
+with a thing of a certain other sort B, and has never been found
+dissociated from a thing of the sort B, the greater the number of cases
+in which A and B have been associated, the greater is the probability
+that they will be associated in a fresh case in which one of them is
+known to be present;
+
+(b) Under the same circumstances, a sufficient number of cases of
+association will make the probability of a fresh association nearly a
+certainty, and will make it approach certainty without limit. - number of characters: 696
+
+Thus, to sum up our discussion of the value of philosophy; Philosophy
+is to be studied, not for the sake of any definite answers to its
+questions, since no definite answers can, as a rule, be known to be
+true, but rather for the sake of the questions themselves; because
+these questions enlarge our conception of what is possible, enrich
+our intellectual imagination and diminish the dogmatic assurance which
+closes the mind against speculation; but above all because, through the
+greatness of the universe which philosophy contemplates, the mind also
+is rendered great, and becomes capable of that union with the universe
+which constitutes its highest good. - number of characters: 667
+
+We may
+therefore repeat the two parts of our principle as regards the general
+law, thus:
+
+(a) The greater the number of cases in which a thing of the sort A has
+been found associated with a thing of the sort B, the more probable it
+is (if no cases of failure of association are known) that A is always
+associated with B;
+
+b) Under the same circumstances, a sufficient number of cases of the
+association of A with B will make it nearly certain that A is always
+associated with B, and will make this general law approach certainty
+without limit. - number of characters: 555
+
+The answer of the pure empiricists, that our mathematical
+knowledge is derived by induction from particular instances, we have
+already seen to be inadequate, for two reasons: first, that the validity
+of the inductive principle itself cannot be proved by induction;
+secondly, that the general propositions of mathematics, such as two
+and two always make four, can obviously be known with certainty by
+consideration of a single instance, and gain nothing by enumeration of
+other cases in which they have been found to be true. - number of characters: 531
+
+These are progressively further
+removed from acquaintance with particulars; the first comes as near to
+acquaintance as is possible in regard to another person; in the second,
+we shall still be said to know who Bismarck was; in the third, we do
+not know who was the man with the iron mask, though we can know many
+propositions about him which are not logically deducible from the fact
+that he wore an iron mask; in the fourth, finally, we know nothing
+beyond what is logically deducible from the definition of the man. - number of characters: 524
+
+Hence, by organizing our instinctive
+beliefs and their consequences, by considering which among them is most
+possible, if necessary, to modify or abandon, we can arrive, on the
+basis of accepting as our sole data what we instinctively believe, at an
+orderly systematic organization of our knowledge, in which, though the
+_possibility_ of error remains, its likelihood is diminished by the
+interrelation of the parts and by the critical scrutiny which has
+preceded acquiescence. - number of characters: 484
+
+From what has been said it is evident that, both as regards intuitive
+knowledge and as regards derivative knowledge, if we assume that
+intuitive knowledge is trustworthy in proportion to the degree of its
+self-evidence, there will be a gradation in trustworthiness, from the
+existence of noteworthy sense-data and the simpler truths of logic and
+arithmetic, which may be taken as quite certain, down to judgements
+which seem only just more probable than their opposites. - number of characters: 476
+
+(It is of
+course possible that parts of the rose may be red and parts not red, or
+that the rose may be of a shade of pink which we hardly know whether to
+call red or not; but in the former case it is plain that the rose as a
+whole is not red, while in the latter case the answer is theoretically
+definite as soon as we have decided on a precise definition of red.)
+It is usually through particular instances that we come to be able to
+see the general principle. - number of characters: 468
+
+When we have realized the obstacles in the way of a
+straightforward and confident answer, we shall be well launched on the
+study of philosophy--for philosophy is merely the attempt to answer
+such ultimate questions, not carelessly and dogmatically, as we do in
+ordinary life and even in the sciences, but critically, after exploring
+all that makes such questions puzzling, and after realizing all the
+vagueness and confusion that underlie our ordinary ideas. - number of characters: 464
+
+The empiricists--who are best represented by the
+British philosophers, Locke, Berkeley, and Hume--maintained that all
+our knowledge is derived from experience; the rationalists--who are
+represented by the Continental philosophers of the seventeenth century,
+especially Descartes and Leibniz--maintained that, in addition to what
+we know by experience, there are certain innate ideas and innate
+principles, which we know independently of experience. - number of characters: 454
+
+10 shortest sentences by numbers of words:
+1912
+
+
+
+
+CHAPTER I. - number of words: 2
+CHAPTER II. - number of words: 2
+CHAPTER III. - number of words: 2
+CHAPTER IV. - number of words: 2
+CHAPTER V. - number of words: 2
+CHAPTER VI. - number of words: 2
+CHAPTER VII. - number of words: 2
+CHAPTER VIII. - number of words: 2
+CHAPTER IX. - number of words: 2
+CHAPTER X. - number of words: 2
+
+10 longest words:
+Word "misunderstanding", length: 16
+Word "_correspondence_", length: 16
+Word "straightforward", length: 15
+Word "characteristics", length: 15
+Word "_corresponding_", length: 15
+Word "_introspection_", length: 15
+Word "demonstratively", length: 15
+Word "generalizations", length: 15
+Word "_triangularity_", length: 15
+Word "trustworthiness", length: 15
+
+10 most common words:
+Word "the", count: 2354
+Word "of", count: 1746
+Word "is", count: 1294
+Word "to", count: 1171
+Word "and", count: 943
+Word "that", count: 943
+Word "we", count: 847
+Word "in", count: 802
+Word "a", count: 751
+Word "be", count: 640
+
+10 most common letters:
+Letter "e", count: 25632
+Letter "t", count: 19285
+Letter "i", count: 15083
+Letter "a", count: 14710
+Letter "o", count: 14529
+Letter "n", count: 13900
+Letter "s", count: 13882
+Letter "h", count: 11192
+Letter "r", count: 10284
+Letter "l", count: 7545
+
+10 most popular punctuation marks:
+Punctuation mark ",", count: 2873
+Punctuation mark ".", count: 1541
+Punctuation mark "'", count: 687
+Punctuation mark "_", count: 682
+Punctuation mark "-", count: 503
+Punctuation mark ";", count: 210
+Punctuation mark ":", count: 113
+Punctuation mark ")", count: 83
+Punctuation mark "(", count: 82
+Punctuation mark "?", count: 42

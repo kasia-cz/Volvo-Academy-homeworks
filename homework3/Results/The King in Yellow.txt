@@ -1,0 +1,151 @@
+Title: The King in Yellow
+Author: Robert W. Chambers
+
+10 longest sentences by number of characters:
+
+Priests in black, with silver-buckled shoes; line
+soldiers, slouchy and rakish; neat girls without hats bearing milliners
+boxes, students with black portfolios and high hats, students with bérets
+and big canes, nervous, quick-stepping officers, symphonies in turquoise
+and silver; ponderous jangling cavalrymen all over dust, pastry cooks
+boys skipping along with utter disregard for the safety of the basket
+balanced on the impish head, and then the lean outcast, the shambling
+Paris tramp, slouching with shoulders bent and little eye furtively
+scanning the ground for smokers refuse;--all these moved in a steady
+stream across the fountain circle and out into the city by the Odeon,
+whose long arcades were now beginning to flicker with gas-jets. - number of characters: 759
+
+On a raised tribune facing Washington Park stood the
+Governor of New York, and behind him were grouped the Mayor of New
+York and Brooklyn, the Inspector-General of Police, the Commandant of
+the state troops, Colonel Livingston, military aid to the President of the
+United States, General Blount, commanding at Governors Island,
+Major-General Hamilton, commanding the garrison of New York and Brooklyn,
+Admiral Buffby of the fleet in the North River, Surgeon-General
+Lanceford, the staff of the National Free Hospital, Senators Wyse and
+Franklin of New York, and the Commissioner of Public Works. - number of characters: 603
+
+Sick at heart he wandered up and down under the great Arc, striving to
+occupy his mind, peering up at the sculptured cornices to read the names
+of the heroes and battles which he knew were engraved there, but always
+the ashen face of Hartman followed him, grinning with terror!--or was it
+terror?--was it not triumph?--At the thought he leaped like a man who
+feels a knife at his throat, but after a savage tramp around the square,
+came back again and sat down to battle with his misery. - number of characters: 493
+
+Standing the day before on the cliffs below Kerselec with Goulven,
+looking out over the sombre moors among which I had now lost my way,
+these downs had appeared to me level as a meadow, stretching to the
+horizon, and although I knew how deceptive is distance, I could not
+realize that what from Kerselec seemed to be mere grassy hollows were
+great valleys covered with gorse and heather, and what looked like
+scattered boulders were in reality enormous cliffs of granite. - number of characters: 477
+
+Where the placid little Ept flows down between its thickets to the Seine,
+a grassy bank shadows the haunt of the gudgeon, and on this bank sat
+Colette and Jacqueline and chattered and laughed and watched the swerving
+of the scarlet quills, while Hastings, his hat over his eyes, his head on
+a bank of moss, listened to their soft voices and gallantly unhooked the
+small and indignant gudgeon when a flash of a rod and a half-suppressed
+scream announced a catch. - number of characters: 467
+
+One by one I studied the well-worn pages, worn only by my own handling,
+and although I knew all by heart, from the beginning, When from Carcosa,
+the Hyades, Hastur, and Aldebaran, to Castaigne, Louis de Calvados,
+born December 19th, 1877, I read it with an eager, rapt attention,
+pausing to repeat parts of it aloud, and dwelling especially on Hildred
+de Calvados, only son of Hildred Castaigne and Edythe Landes Castaigne,
+first in succession, etc., etc. - number of characters: 461
+
+If I had not caught a glimpse of the opening
+words in the second act I should never have finished it, but as I stooped
+to pick it up, my eyes became riveted to the open page, and with a cry of
+terror, or perhaps it was of joy so poignant that I suffered in every
+nerve, I snatched the thing out of the coals and crept shaking to my
+bedroom, where I read it and reread it, and wept and laughed and trembled
+with a horror which at times assails me yet. - number of characters: 456
+
+Oh, go on, go on; lets see, theres Clémence and
+Marie Tellec and Cosette and Fifine, Colette, Marie Verdier--
+
+All of whom are charming, most charming, but I never was serious--
+
+So help me, Moses, said Elliott, solemnly, each and every one of those
+named have separately and in turn torn your heart with anguish and have
+also made me lose my place at Julians in this same manner; each and every
+one, separately and in turn. - number of characters: 432
+
+Brigs, schooners, yachts, clumsy ferry-boats, their decks swarming with
+people, railroad transports carrying lines of brown, blue and white
+freight cars, stately sound steamers, déclassé tramp steamers, coasters,
+dredgers, scows, and everywhere pervading the entire bay impudent little
+tugs puffing and whistling officiously;--these were the craft which
+churned the sunlight waters as far as the eye could reach. - number of characters: 417
+
+Every coast city had been well supplied with land
+fortifications; the army under the parental eye of the General Staff,
+organized according to the Prussian system, had been increased to 300,000
+men, with a territorial reserve of a million; and six magnificent
+squadrons of cruisers and battle-ships patrolled the six stations of the
+navigable seas, leaving a steam reserve amply fitted to control home
+waters. - number of characters: 415
+
+10 shortest sentences by numbers of words:
+Castaigne! - number of words: 1
+ting! - number of words: 1
+ting! - number of words: 1
+swish! - number of words: 1
+Note.--C. - number of words: 1
+Wilde. - number of words: 1
+Wilde. - number of words: 1
+Archer! - number of words: 1
+Wilde. - number of words: 1
+Wilde. - number of words: 1
+
+10 longest words:
+Word "conscientiousness", length: 17
+Word "enthusiastically", length: 16
+Word "insubordination", length: 15
+Word "administration", length: 14
+Word "fortifications", length: 14
+Word "naturalization", length: 14
+Word "centralization", length: 14
+Word "disappointment", length: 14
+Word "advertisements", length: 14
+Word "congratulation", length: 14
+
+10 most common words:
+Word "the", count: 4293
+Word "and", count: 2791
+Word "I", count: 2029
+Word "a", count: 1618
+Word "of", count: 1576
+Word "to", count: 1547
+Word "in", count: 1108
+Word "he", count: 897
+Word "was", count: 797
+Word "his", count: 772
+
+10 most common letters:
+Letter "e", count: 39168
+Letter "t", count: 27440
+Letter "a", count: 24526
+Letter "o", count: 22158
+Letter "i", count: 21428
+Letter "n", count: 21177
+Letter "h", count: 19961
+Letter "s", count: 19097
+Letter "r", count: 17793
+Letter "d", count: 15345
+
+10 most popular punctuation marks:
+Punctuation mark ",", count: 5913
+Punctuation mark ".", count: 3892
+Punctuation mark """, count: 3505
+Punctuation mark "-", count: 1504
+Punctuation mark "'", count: 800
+Punctuation mark "?", count: 440
+Punctuation mark "!", count: 407
+Punctuation mark ";", count: 317
+Punctuation mark "_", count: 296
+Punctuation mark ":", count: 120

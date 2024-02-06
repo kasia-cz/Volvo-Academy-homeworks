@@ -1,0 +1,193 @@
+Title: Romeo and Juliet
+Author: William Shakespeare
+
+10 longest sentences by number of characters:
+
+And in this state she gallops night by night
+Through lovers brains, and then they dream of love;
+Oer courtiers knees, that dream on curtsies straight;
+Oer lawyers fingers, who straight dream on fees;
+Oer ladies lips, who straight on kisses dream,
+Which oft the angry Mab with blisters plagues,
+Because their breaths with sweetmeats tainted are:
+Sometime she gallops oer a courtiers nose,
+And then dreams he of smelling out a suit;
+And sometime comes she with a tithe-pigs tail,
+Tickling a parsons nose as a lies asleep,
+Then dreams he of another benefice:
+Sometime she driveth oer a soldiers neck,
+And then dreams he of cutting foreign throats,
+Of breaches, ambuscados, Spanish blades,
+Of healths five fathom deep; and then anon
+Drums in his ear, at which he starts and wakes;
+And, being thus frighted, swears a prayer or two,
+And sleeps again. - number of characters: 862
+
+She is the fairies midwife, and she comes
+In shape no bigger than an agate-stone
+On the fore-finger of an alderman,
+Drawn with a team of little atomies
+Over mens noses as they lie asleep:
+Her waggon-spokes made of long spinners legs;
+The cover, of the wings of grasshoppers;
+Her traces, of the smallest spiders web;
+The collars, of the moonshines watery beams;
+Her whip of crickets bone; the lash, of film;
+Her waggoner, a small grey-coated gnat,
+Not half so big as a round little worm
+Prickd from the lazy finger of a maid:
+Her chariot is an empty hazelnut,
+Made by the joiner squirrel or old grub,
+Time out o mind the fairies coachmakers. - number of characters: 655
+
+Or, if I live, is it not very like,
+The horrible conceit of death and night,
+Together with the terror of the place,
+As in a vault, an ancient receptacle,
+Where for this many hundred years the bones
+Of all my buried ancestors are packd,
+Where bloody Tybalt, yet but green in earth,
+Lies festering in his shroud; where, as they say,
+At some hours in the night spirits resort—
+Alack, alack, is it not like that I,
+So early waking, what with loathsome smells,
+And shrieks like mandrakes torn out of the earth,
+That living mortals, hearing them, run mad. - number of characters: 561
+
+I do remember an apothecary,—
+And hereabouts he dwells,—which late I noted
+In tatterd weeds, with overwhelming brows,
+Culling of simples, meagre were his looks,
+Sharp misery had worn him to the bones;
+And in his needy shop a tortoise hung,
+An alligator stuffd, and other skins
+Of ill-shaped fishes; and about his shelves
+A beggarly account of empty boxes,
+Green earthen pots, bladders, and musty seeds,
+Remnants of packthread, and old cakes of roses
+Were thinly scatterd, to make up a show. - number of characters: 501
+
+Day, night, hour, ride, time, work, play,
+Alone, in company, still my care hath been
+To have her matchd, and having now provided
+A gentleman of noble parentage,
+Of fair demesnes, youthful, and nobly allied,
+Stuffd, as they say, with honourable parts,
+Proportiond as ones thought would wish a man,
+And then to have a wretched puling fool,
+A whining mammet, in her fortunes tender,
+To answer, Ill not wed, I cannot love,
+I am too young, I pray you pardon me. - number of characters: 466
+
+Many a morning hath he there been seen,
+With tears augmenting the fresh mornings dew,
+Adding to clouds more clouds with his deep sighs;
+But all so soon as the all-cheering sun
+Should in the farthest east begin to draw
+The shady curtains from Auroras bed,
+Away from light steals home my heavy son,
+And private in his chamber pens himself,
+Shuts up his windows, locks fair daylight out
+And makes himself an artificial night. - number of characters: 431
+
+All this uttered
+With gentle breath, calm look, knees humbly bowd
+Could not take truce with the unruly spleen
+Of Tybalt, deaf to peace, but that he tilts
+With piercing steel at bold Mercutios breast,
+Who, all as hot, turns deadly point to point,
+And, with a martial scorn, with one hand beats
+Cold death aside, and with the other sends
+It back to Tybalt, whose dexterity
+Retorts it. - number of characters: 391
+
+The grey-eyd morn smiles on the frowning night,
+Chequering the eastern clouds with streaks of light;
+And fleckled darkness like a drunkard reels
+From forth days pathway, made by Titans fiery wheels
+Now, ere the sun advance his burning eye,
+The day to cheer, and nights dank dew to dry,
+I must upfill this osier cage of ours
+With baleful weeds and precious-juiced flowers. - number of characters: 378
+
+Thy noble shape is but a form of wax,
+Digressing from the valour of a man;
+Thy dear love sworn but hollow perjury,
+Killing that love which thou hast vowd to cherish;
+Thy wit, that ornament to shape and love,
+Misshapen in the conduct of them both,
+Like powder in a skilless soldiers flask,
+Is set afire by thine own ignorance,
+And thou dismemberd with thine own defence. - number of characters: 377
+
+[_He reads the letter._]
+
+_Signior Martino and his wife and daughters;
+County Anselmo and his beauteous sisters;
+The lady widow of Utruvio;
+Signior Placentio and his lovely nieces;
+Mercutio and his brother Valentine;
+Mine uncle Capulet, his wife, and daughters;
+My fair niece Rosaline and Livia;
+Signior Valentio and his cousin Tybalt;
+Lucio and the lively Helena. - number of characters: 374
+
+10 shortest sentences by numbers of words:
+Mantua. - number of words: 1
+Servants. - number of words: 1
+CHORUS. - number of words: 1
+SCENE. - number of words: 1
+CHORUS. - number of words: 1
+SAMPSON. - number of words: 1
+GREGORY. - number of words: 1
+SAMPSON. - number of words: 1
+GREGORY. - number of words: 1
+SAMPSON. - number of words: 1
+
+10 longest words:
+Word "distemperature", length: 14
+Word "unthankfulness", length: 14
+Word "interchanging", length: 13
+Word "transgression", length: 13
+Word "disparagement", length: 13
+Word "gentlemanlike", length: 13
+Word "deliciousness", length: 13
+Word "dishonourable", length: 13
+Word "Uncomfortable", length: 13
+Word "unsubstantial", length: 13
+
+10 most common words:
+Word "I", count: 656
+Word "the", count: 612
+Word "and", count: 484
+Word "to", count: 462
+Word "a", count: 407
+Word "of", count: 366
+Word "is", count: 309
+Word "s", count: 307
+Word "my", count: 304
+Word "in", count: 302
+
+10 most common letters:
+Letter "e", count: 12960
+Letter "t", count: 9826
+Letter "o", count: 8877
+Letter "a", count: 8361
+Letter "i", count: 7017
+Letter "h", count: 6823
+Letter "s", count: 6703
+Letter "n", count: 6597
+Letter "r", count: 6571
+Letter "l", count: 5054
+
+10 most popular punctuation marks:
+Punctuation mark ",", count: 2704
+Punctuation mark ".", count: 2600
+Punctuation mark "’", count: 867
+Punctuation mark "?", count: 369
+Punctuation mark ";", count: 320
+Punctuation mark "_", count: 250
+Punctuation mark "!", count: 248
+Punctuation mark "-", count: 125
+Punctuation mark "[", count: 124
+Punctuation mark "]", count: 124

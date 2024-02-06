@@ -1,0 +1,148 @@
+Title: The Strange Case of Dr. Jekyll and Mr. Hyde
+Author: Robert Louis Stevenson
+
+10 longest sentences by number of characters:
+
+It was on the moral side, and in my own person,
+that I learned to recognise the thorough and primitive duality of man;
+I saw that, of the two natures that contended in the field of my
+consciousness, even if I could rightly be said to be either, it was
+only because I was radically both; and from an early date, even before
+the course of my scientific discoveries had begun to suggest the most
+naked possibility of such a miracle, I had learned to dwell with
+pleasure, as a beloved daydream, on the thought of the separation of
+these elements. - number of characters: 550
+
+This person (who had thus, from the first moment of his entrance,
+struck in me what I can only describe as a disgustful curiosity) was
+dressed in a fashion that would have made an ordinary person laughable;
+his clothes, that is to say, although they were of rich and sober
+fabric, were enormously too large for him in every measurement—the
+trousers hanging on his legs and rolled up to keep them from the
+ground, the waist of the coat below his haunches, and the collar
+sprawling wide upon his shoulders. - number of characters: 511
+
+That part of me which I had the power of
+projecting, had lately been much exercised and nourished; it had seemed
+to me of late as though the body of Edward Hyde had grown in stature,
+as though (when I wore that form) I were conscious of a more generous
+tide of blood; and I began to spy a danger that, if this were much
+prolonged, the balance of my nature might be permanently overthrown,
+the power of voluntary change be forfeited, and the character of Edward
+Hyde become irrevocably mine. - number of characters: 497
+
+As the cab drew up before the address indicated, the fog lifted a
+little and showed him a dingy street, a gin palace, a low French eating
+house, a shop for the retail of penny numbers and twopenny salads, many
+ragged children huddled in the doorways, and many women of many
+different nationalities passing out, key in hand, to have a morning
+glass; and the next moment the fog settled down again upon that part,
+as brown as umber, and cut him off from his blackguardly surroundings. - number of characters: 488
+
+It was the first time that the lawyer had been received in
+that part of his friends quarters; and he eyed the dingy, windowless
+structure with curiosity, and gazed round with a distasteful sense of
+strangeness as he crossed the theatre, once crowded with eager students
+and now lying gaunt and silent, the tables laden with chemical
+apparatus, the floor strewn with crates and littered with packing
+straw, and the light falling dimly through the foggy cupola. - number of characters: 465
+
+I lingered but a moment at the mirror: the second and conclusive
+experiment had yet to be attempted; it yet remained to be seen if I had
+lost my identity beyond redemption and must flee before daylight from a
+house that was no longer mine; and hurrying back to my cabinet, I once
+more prepared and drank the cup, once more suffered the pangs of
+dissolution, and came to myself once more with the character, the
+stature and the face of Henry Jekyll. - number of characters: 454
+
+Hyde was pale and dwarfish, he gave an
+impression of deformity without any nameable malformation, he had a
+displeasing smile, he had borne himself to the lawyer with a sort of
+murderous mixture of timidity and boldness, and he spoke with a husky,
+whispering and somewhat broken voice; all these were points against
+him, but not all of these together could explain the hitherto unknown
+disgust, loathing and fear with which Mr. - number of characters: 432
+
+If each, I told myself, could be housed in separate
+identities, life would be relieved of all that was unbearable; the
+unjust might go his way, delivered from the aspirations and remorse of
+his more upright twin; and the just could walk steadfastly and securely
+on his upward path, doing the good things in which he found his
+pleasure, and no longer exposed to disgrace and penitence by the hands
+of this extraneous evil. - number of characters: 427
+
+A cry followed; he
+reeled, staggered, clutched at the table and held on, staring with
+injected eyes, gasping with open mouth; and as I looked there came, I
+thought, a change—he seemed to swell—his face became suddenly black and
+the features seemed to melt and alter—and the next moment, I had sprung
+to my feet and leaped back against the wall, my arms raised to shield
+me from that prodigy, my mind submerged in terror. - number of characters: 426
+
+It is useless, and the time awfully fails me, to prolong this
+description; no one has ever suffered such torments, let that suffice;
+and yet even to these, habit brought—no, not alleviation—but a certain
+callousness of soul, a certain acquiescence of despair; and my
+punishment might have gone on for years, but for the last calamity
+which has now fallen, and which has finally severed me from my own face
+and nature. - number of characters: 423
+
+10 shortest sentences by numbers of words:
+Indeed? - number of words: 1
+Tut-tut! - number of words: 1
+Utterson. - number of words: 1
+Enfield. - number of words: 1
+Enfield. - number of words: 1
+Utterson. - number of words: 1
+Enfield. - number of words: 1
+Utterson. - number of words: 1
+Lanyon. - number of words: 1
+Indeed? - number of words: 1
+
+10 longest words:
+Word "unimpressionable", length: 16
+Word "undemonstrative", length: 15
+Word "transformations", length: 15
+Word "circumscription", length: 15
+Word "acknowledgment", length: 14
+Word "accomplishment", length: 14
+Word "unquestionably", length: 14
+Word "correspondence", length: 14
+Word "responsibility", length: 14
+Word "investigations", length: 14
+
+10 most common words:
+Word "the", count: 1507
+Word "of", count: 932
+Word "and", count: 906
+Word "I", count: 646
+Word "to", count: 640
+Word "a", count: 608
+Word "was", count: 466
+Word "in", count: 412
+Word "that", count: 363
+Word "he", count: 333
+
+10 most common letters:
+Letter "e", count: 13455
+Letter "t", count: 9887
+Letter "a", count: 8619
+Letter "o", count: 8248
+Letter "n", count: 7421
+Letter "i", count: 7175
+Letter "s", count: 6735
+Letter "h", count: 6726
+Letter "r", count: 6060
+Letter "d", count: 5283
+
+10 most popular punctuation marks:
+Punctuation mark ",", count: 2048
+Punctuation mark ".", count: 1207
+Punctuation mark ";", count: 527
+Punctuation mark "“", count: 437
+Punctuation mark "”", count: 428
+Punctuation mark "’", count: 186
+Punctuation mark "?", count: 120
+Punctuation mark "-", count: 83
+Punctuation mark "—", count: 71
+Punctuation mark "!", count: 53

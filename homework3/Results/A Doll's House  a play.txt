@@ -1,0 +1,119 @@
+Title: A Doll's House : a play
+Author: Henrik Ibsen
+
+10 longest sentences by number of characters:
+
+And when we are leaving, and I am putting the shawl over your beautiful
+young shoulders—on your lovely neck—then I imagine that you are my
+young bride and that we have just come from the wedding, and I am
+bringing you for the first time into our home—to be alone with you for
+the first time—quite alone with my shy little darling! - number of characters: 334
+
+_[To Mrs Linde.]_ I dont
+know whether you find also in your part of the world that there are
+certain people who go zealously snuffing about to smell out moral
+corruption, and, as soon as they have found some, put the person
+concerned into some lucrative position where they can keep their eye on
+him. - number of characters: 305
+
+I told him how much I
+should love to travel abroad like other young wives; I tried tears and
+entreaties with him; I told him that he ought to remember the condition
+I was in, and that he ought to be kind and indulgent to me; I even
+hinted that he might raise a loan. - number of characters: 270
+
+_[She and the children laugh and
+shout, and romp in and out of the room; at last NORA hides under the
+table, the children rush in and out for her, but do not see her; they
+hear her smothered laughter, run to the table, lift up the cloth and
+find her. - number of characters: 254
+
+I have got authority from the retiring manager to undertake the
+necessary changes in the staff and in the rearrangement of the work;
+and I must make use of the Christmas week for that, so as to have
+everything in order for the new year. - number of characters: 239
+
+I mean, of course, when Torvald is no longer as devoted to
+me as he is now; when my dancing and dressing-up and reciting have
+palled on him; then it may be a good thing to have something in
+reserve—_[Breaking off.]_ What nonsense! - number of characters: 233
+
+She had danced her Tarantella, and it had
+been a tremendous success, as it deserved—although possibly the
+performance was a trifle too realistic—a little more so, I mean, than
+was strictly compatible with the limitations of art. - number of characters: 231
+
+I took my charming little
+Capri maiden—my capricious little Capri maiden, I should say—on my arm;
+took one quick turn round the room; a curtsey on either side, and, as
+they say in novels, the beautiful apparition disappeared. - number of characters: 228
+
+As soon as your fear was over—and it was not fear for what
+threatened me, but for what might happen to you—when the whole thing
+was past, as far as you were concerned it was exactly as if nothing at
+all had happened. - number of characters: 219
+
+I know quite well, Torvald, that most people would
+think you right, and that views of that kind are to be found in books;
+but I can no longer content myself with what most people say, or with
+what is found in books. - number of characters: 218
+
+10 shortest sentences by numbers of words:
+PORTER. - number of words: 1
+Sixpence. - number of words: 1
+NORA. - number of words: 1
+NORA. - number of words: 1
+HELMER. - number of words: 1
+NORA. - number of words: 1
+HELMER. - number of words: 1
+NORA. - number of words: 1
+HELMER. - number of words: 1
+NORA. - number of words: 1
+
+10 longest words:
+Word "Unintentionally", length: 15
+Word "extraordinarily", length: 15
+Word "professionally", length: 14
+Word "contemptuously", length: 14
+Word "entertainments", length: 14
+Word "unrecognisable", length: 14
+Word "responsibility", length: 14
+Word "transformation", length: 14
+Word "expressionless", length: 14
+Word "investigations", length: 14
+
+10 most common words:
+Word "I", count: 955
+Word "you", count: 858
+Word "_", count: 789
+Word "the", count: 750
+Word "to", count: 679
+Word "NORA", count: 587
+Word "and", count: 513
+Word "it", count: 479
+Word "a", count: 463
+Word "that", count: 436
+
+10 most common letters:
+Letter "e", count: 11817
+Letter "o", count: 9634
+Letter "t", count: 9600
+Letter "a", count: 8662
+Letter "n", count: 7712
+Letter "i", count: 7048
+Letter "r", count: 6559
+Letter "s", count: 6433
+Letter "h", count: 6276
+Letter "l", count: 4896
+
+10 most popular punctuation marks:
+Punctuation mark ".", count: 3285
+Punctuation mark ",", count: 1503
+Punctuation mark "_", count: 790
+Punctuation mark "?", count: 570
+Punctuation mark "—", count: 467
+Punctuation mark "’", count: 436
+Punctuation mark "[", count: 397
+Punctuation mark "]", count: 396
+Punctuation mark "!", count: 325
+Punctuation mark ";", count: 225

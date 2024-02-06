@@ -1,0 +1,146 @@
+Title: Peter Pan
+Author: J. M. Barrie
+
+10 longest sentences by number of characters:
+
+Here is Bill Jukes, every inch of him tattooed, the same
+Bill Jukes who got six dozen on the _Walrus_ from Flint before he would
+drop the bag of moidores; and Cookson, said to be Black Murphys
+brother (but this was never proved), and Gentleman Starkey, once an
+usher in a public school and still dainty in his ways of killing; and
+Skylights (Morgans Skylights); and the Irish bosun Smee, an oddly
+genial man who stabbed, so to speak, without offence, and was the only
+Non-conformist in Hooks crew; and Noodler, whose hands were fixed on
+backwards; and Robt. - number of characters: 565
+
+There are zigzag lines on it, just like your temperature on a
+card, and these are probably roads in the island, for the Neverland is
+always more or less an island, with astonishing splashes of colour here
+and there, and coral reefs and rakish-looking craft in the offing, and
+savages and lonely lairs, and gnomes who are mostly tailors, and caves
+through which a river runs, and princes with six elder brothers, and a
+hut fast going to decay, and one very small old lady with a hooked
+nose. - number of characters: 497
+
+I have one pound seventeen here, and two and six at the office; I can
+cut off my coffee at the office, say ten shillings, making two nine and
+six, with your eighteen and three makes three nine seven, with five
+naught naught in my cheque-book makes eight nine seven—who is that
+moving?—eight nine seven, dot and carry seven—dont speak, my own—and
+the pound you lent to that man who came to the door—quiet, child—dot
+and carry child—there, youve done it!—did I say nine nine seven? - number of characters: 485
+
+It would be an easy map if that were all, but there is also first
+day at school, religion, fathers, the round pond, needle-work, murders,
+hangings, verbs that take the dative, chocolate pudding day, getting
+into braces, say ninety-nine, three-pence for pulling out your tooth
+yourself, and so on, and either these are part of the island or they
+are another map showing through, and it is all rather confusing,
+especially as nothing will stand still. - number of characters: 455
+
+Mumps one pound, that is what I have put down, but I daresay it
+will be more like thirty shillings—dont speak—measles one five, German
+measles half a guinea, makes two fifteen six—dont waggle your
+finger—whooping-cough, say fifteen shillings—and so on it went, and it
+added up differently each time; but at last Wendy just got through,
+with mumps reduced to twelve six, and the two kinds of measles treated
+as one. - number of characters: 420
+
+From the accounts afterwards supplied by
+such of the scouts as escaped the carnage, he does not seem even to
+have paused at the rising ground, though it is certain that in that
+grey light he must have seen it: no thought of waiting to be attacked
+appears from first to last to have visited his subtle mind; he would
+not even hold off till the night was nearly spent; on he pounded with
+no policy but to fall to. - number of characters: 417
+
+The most haunting time at which to see them is at the turn of the moon,
+when they utter strange wailing cries; but the lagoon is dangerous for
+mortals then, and until the evening of which we have now to tell, Wendy
+had never seen the lagoon by moonlight, less from fear, for of course
+Peter would have accompanied her, than because she had strict rules
+about every one being in bed by seven. - number of characters: 396
+
+Had she haughtily unhanded him (and we should have loved to write it of
+her), she would have been hurled through the air like the others, and
+then Hook would probably not have been present at the tying of the
+children; and had he not been at the tying he would not have discovered
+Slightlys secret, and without the secret he could not presently have
+made his foul attempt on Peters life. - number of characters: 392
+
+When she stole softly to the edge of the lagoon
+she might see them by the score, especially on Marooners Rock, where
+they loved to bask, combing out their hair in a lazy way that quite
+irritated her; or she might even swim, on tiptoe as it were, to within
+a yard of them, but then they saw her and dived, probably splashing her
+with their tails, not by accident, but intentionally. - number of characters: 386
+
+Of
+course, as we have seen, he was quite a simple man; indeed he might
+have passed for a boy again if he had been able to take his baldness
+off; but he had also a noble sense of justice and a lions courage to
+do what seemed right to him; and having thought the matter out with
+anxious care after the flight of the children, he went down on all
+fours and crawled into the kennel. - number of characters: 384
+
+10 shortest sentences by numbers of words:
+Darling. - number of words: 1
+Ah
+me! - number of words: 1
+Darling. - number of words: 1
+Matter! - number of words: 1
+Darling. - number of words: 1
+Danger! - number of words: 1
+Im
+captain. - number of words: 1
+Funny! - number of words: 1
+Mermaids! - number of words: 1
+Hide! - number of words: 1
+
+10 longest words:
+Word "extraordinarily", length: 15
+Word "condescendingly", length: 15
+Word "insubordination", length: 15
+Word "personification", length: 15
+Word "simultaneously", length: 14
+Word "contemptuously", length: 14
+Word "apologetically", length: 14
+Word "unsatisfactory", length: 14
+Word "recriminations", length: 14
+Word "vindictiveness", length: 14
+
+10 most common words:
+Word "the", count: 2162
+Word "and", count: 1358
+Word "to", count: 1167
+Word "was", count: 922
+Word "a", count: 903
+Word "he", count: 876
+Word "of", count: 812
+Word "it", count: 653
+Word "in", count: 640
+Word "that", count: 596
+
+10 most common letters:
+Letter "e", count: 25122
+Letter "t", count: 18393
+Letter "a", count: 15072
+Letter "h", count: 14431
+Letter "o", count: 14125
+Letter "n", count: 12939
+Letter "i", count: 12880
+Letter "s", count: 12031
+Letter "r", count: 10611
+Letter "d", count: 9142
+
+10 most popular punctuation marks:
+Punctuation mark ",", count: 3837
+Punctuation mark ".", count: 2812
+Punctuation mark "“", count: 1464
+Punctuation mark "”", count: 1464
+Punctuation mark "’", count: 558
+Punctuation mark ";", count: 389
+Punctuation mark "?", count: 319
+Punctuation mark "!", count: 235
+Punctuation mark "-", count: 198
+Punctuation mark "—", count: 78

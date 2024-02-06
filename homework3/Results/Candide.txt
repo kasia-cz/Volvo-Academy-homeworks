@@ -1,0 +1,172 @@
+Title: Candide
+Author: Voltaire
+
+10 longest sentences by number of characters:
+
+sir, if
+you could only imagine what it is to be obliged to caress indifferently
+an old merchant, a lawyer, a monk, a gondolier, an abbé, to be exposed
+to abuse and insults; to be often reduced to borrowing a petticoat, only
+to go and have it raised by a disagreeable man; to be robbed by one of
+what one has earned from another; to be subject to the extortions of the
+officers of justice; and to have in prospect only a frightful old age, a
+hospital, and a dung-hill; you would conclude that I am one of the most
+unhappy creatures in the world.[33]
+
+Paquette thus opened her heart to honest Candide, in the presence of
+Martin, who said to his friend:
+
+You see that already I have won half the wager. - number of characters: 712
+
+The
+man of taste explained very well how a piece could have some interest,
+and have almost no merit; he proved in few words that it was not enough
+to introduce one or two of those situations which one finds in all
+romances, and which always seduce the spectator, but that it was
+necessary to be new without being odd, often sublime and always
+natural, to know the human heart and to make it speak; to be a great
+poet without allowing any person in the piece to appear to be a poet; to
+know language perfectly--to speak it with purity, with continuous
+harmony and without rhythm ever taking anything from sense. - number of characters: 619
+
+answered the scholar, I know nothing of all that; I find that
+all goes awry with me; that no one knows either what is his rank, nor
+what is his condition, what he does nor what he ought to do; and that
+except supper, which is always gay, and where there appears to be enough
+concord, all the rest of the time is passed in impertinent quarrels;
+Jansenist against Molinist, Parliament against the Church, men of
+letters against men of letters, courtesans against courtesans,
+financiers against the people, wives against husbands, relatives against
+relatives--it is eternal war. - number of characters: 583
+
+Such spectacles as these increased the number of their
+dissertations; and when they did not dispute time hung so heavily upon
+their hands, that one day the old woman ventured to say to them:
+
+I want to know which is worse, to be ravished a hundred times by negro
+pirates, to have a buttock cut off, to run the gauntlet among the
+Bulgarians, to be whipped and hanged at an _auto-da-fé_, to be
+dissected, to row in the galleys--in short, to go through all the
+miseries we have undergone, or to stay here and have nothing to do? - number of characters: 533
+
+Agitated, lost, sometimes beside myself, and sometimes ready to die of
+weakness, my mind was filled with the massacre of my father, mother, and
+brother, with the insolence of the ugly Bulgarian soldier, with the stab
+that he gave me, with my servitude under the Bulgarian captain, with my
+hideous Don Issachar, with my abominable Inquisitor, with the execution
+of Doctor Pangloss, with the grand Miserere to which they whipped you,
+and especially with the kiss I gave you behind the screen the day that I
+had last seen you. - number of characters: 530
+
+No, said Pangloss, she was ripped open by the Bulgarian soldiers,
+after having been violated by many; they broke the Barons head for
+attempting to defend her; my lady, her mother, was cut in pieces; my
+poor pupil was served just in the same manner as his sister; and as for
+the castle, they have not left one stone upon another, not a barn, nor a
+sheep, nor a duck, nor a tree; but we have had our revenge, for the
+Abares have done the very same thing to a neighbouring barony, which
+belonged to a Bulgarian lord. - number of characters: 520
+
+In the different countries which it has been my lot to traverse, and
+the numerous inns where I have been servant, I have taken notice of a
+vast number of people who held their own existence in abhorrence, and
+yet I never knew of more than eight who voluntarily put an end to their
+misery; three negroes, four Englishmen, and a German professor named
+Robek.[14] I ended by being servant to the Jew, Don Issachar, who placed
+me near your presence, my fair lady. - number of characters: 465
+
+The Spaniards have had a confused notion of this country, and have
+called it _El Dorado_; and an Englishman, whose name was Sir Walter
+Raleigh, came very near it about a hundred years ago; but being
+surrounded by inaccessible rocks and precipices, we have hitherto been
+sheltered from the rapaciousness of European nations, who have an
+inconceivable passion for the pebbles and dirt of our land, for the sake
+of which they would murder us to the last man. - number of characters: 461
+
+
+
+
+
+Produced by Chuck Greif, Fox in the Stars and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+       *       *       *       *       *
+    +------------------------------------------------------------+
+    | Transcribers Note:                                        |
+    |                                                            |
+    | Obvious typographical errors have been corrected in        |
+    | this text. - number of characters: 459
+
+Pangloss sometimes said to Candide:
+
+There is a concatenation of events in this best of all possible worlds:
+for if you had not been kicked out of a magnificent castle for love of
+Miss Cunegonde: if you had not been put into the Inquisition: if you had
+not walked over America: if you had not stabbed the Baron: if you had
+not lost all your sheep from the fine country of El Dorado: you would
+not be here eating preserved citrons and pistachio-nuts. - number of characters: 456
+
+10 shortest sentences by numbers of words:
+PHILIP
+LITTELL. - number of words: 1
+What! - number of words: 1
+Alas! - number of words: 1
+Alas! - number of words: 1
+Alas! - number of words: 1
+Alas! - number of words: 1
+Alas! - number of words: 1
+What! - number of words: 1
+Alas! - number of words: 1
+Alas! - number of words: 1
+
+10 longest words:
+Word "Waldberghofftrarbk", length: 18
+Word "incompatibilities", length: 17
+Word "parenthetically", length: 15
+Word "notwithstanding", length: 15
+Word "interchangeably", length: 15
+Word "characteristics", length: 15
+Word "metaphysicotheo", length: 15
+Word "representative", length: 14
+Word "interpretation", length: 14
+Word "Constantinople", length: 14
+
+10 most common words:
+Word "the", count: 1794
+Word "of", count: 1092
+Word "to", count: 1060
+Word "and", count: 1044
+Word "a", count: 778
+Word "I", count: 557
+Word "in", count: 545
+Word "that", count: 433
+Word "was", count: 432
+Word "Candide", count: 384
+
+10 most common letters:
+Letter "e", count: 19770
+Letter "t", count: 13798
+Letter "a", count: 13524
+Letter "o", count: 11657
+Letter "i", count: 10996
+Letter "n", count: 10735
+Letter "s", count: 10168
+Letter "h", count: 9873
+Letter "r", count: 9034
+Letter "d", count: 7700
+
+10 most popular punctuation marks:
+Punctuation mark ",", count: 2960
+Punctuation mark ".", count: 1688
+Punctuation mark """, count: 1489
+Punctuation mark ";", count: 510
+Punctuation mark "-", count: 501
+Punctuation mark "'", count: 179
+Punctuation mark "?", count: 176
+Punctuation mark "!", count: 173
+Punctuation mark "_", count: 138
+Punctuation mark ":", count: 82
