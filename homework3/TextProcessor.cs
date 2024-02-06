@@ -12,7 +12,7 @@ namespace homework3
             var title = FindBookTitle(lines);
             var author = FindBookAuthor(lines);
 
-            Console.WriteLine($"Started processing of \"{title}\" by {author}");
+            Console.WriteLine($"Started processing of \"{title}\" by {author} ({filePath})");
 
             var bookText = await File.ReadAllTextAsync(filePath);
 

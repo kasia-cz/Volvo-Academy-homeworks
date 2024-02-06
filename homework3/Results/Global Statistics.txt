@@ -4054,15 +4054,15 @@ PREFACE. - number of characters: 4300
 
 Global 10 shortest sentences by numbers of words:
 Hurrah! - number of words: 1
-ALGERNON. - number of words: 1
-LANE. - number of words: 1
-LANE. - number of words: 1
-ALGERNON. - number of words: 1
-LANE. - number of words: 1
-ALGERNON. - number of words: 1
-LANE. - number of words: 1
-Vincent. - number of words: 1
-ALGERNON. - number of words: 1
+Gregor! - number of words: 1
+Anna! - number of words: 1
+Anna! - number of words: 1
+Mother? - number of words: 1
+Grete! - number of words: 1
+Grete! - number of words: 1
+Samsa. - number of words: 1
+Gregor! - number of words: 1
+Samsa. - number of words: 1
 
 Global 10 longest words:
 Word "Nationalgymnasiummuseumsanatoriumandsuspensoriumsordinaryprivatdocentge", length: 71
