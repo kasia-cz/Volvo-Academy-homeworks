@@ -40,6 +40,20 @@
             return shortestSentencesByWords;
         }
 
+        public List<string> Get10LongestWords()
+        {
+            List<string> longestWords = Words.OrderByDescending(pair => pair.Key.Length)
+                                         .Select(pair => pair.Key)
+                                         .Take(10)
+                                         .ToList();
+            return longestWords;
+        }
+
+        public List<KeyValuePair<string, int>> Get10MostCommonWords()
+        {
+            return Words.OrderByDescending(pair => pair.Value).Take(10).ToList();
+        }
+
         public List<KeyValuePair<char, int>> Get10MostCommonLetters()
         {
             return Letters.OrderByDescending(pair => pair.Value).Take(10).ToList();
@@ -48,11 +62,6 @@
         public List<KeyValuePair<char, int>> Get10MostCommonPunctuationMarks()
         {
             return Punctuation.OrderByDescending(pair => pair.Value).Take(10).ToList();
-        }
-
-        public List<KeyValuePair<string, int>> Get10MostCommonWords()
-        {
-            return Words.OrderByDescending(pair => pair.Value).Take(10).ToList();
         }
     }
 }

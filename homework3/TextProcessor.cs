@@ -57,6 +57,13 @@ namespace homework3
                     newLines.Add($"{shortSentence} - number of words: {shortSentence.Split(' ').Length}");
                 }
 
+                newLines.Add("\n10 longest words:");
+                var longestWords = book.Get10LongestWords();
+                foreach (var longWord in longestWords)
+                {
+                    newLines.Add($"Word \"{longWord}\", length: {longWord.Length}");
+                }
+
                 newLines.Add("\n10 most common words:");
                 var mostCommonWords = book.Get10MostCommonWords();
                 foreach (var pair in mostCommonWords)
