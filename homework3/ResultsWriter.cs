@@ -90,6 +90,20 @@ namespace homework3
                     newLines.Add($"Word \"{word}\", length: {word.Length}");
                 }
 
+                newLines.Add("\nGlobal 10 most common words:");
+                var globalMostCommonWords = GlobalStatistics.GetGlobal10MostCommonWords();
+                foreach (var pair in globalMostCommonWords)
+                {
+                    newLines.Add($"Word \"{pair.Key}\", count: {pair.Value}");
+                }
+
+                newLines.Add("\nGlobal 10 most common letters:");
+                var globalMostCommonLetters = GlobalStatistics.GetGlobal10MostCommonLetters();
+                foreach (var pair in globalMostCommonLetters)
+                {
+                    newLines.Add($"Letter \"{pair.Key}\", count: {pair.Value}");
+                }
+
                 await File.WriteAllLinesAsync(newFilePath, newLines);
             }
         }

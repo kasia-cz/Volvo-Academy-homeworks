@@ -74,6 +74,7 @@ namespace homework3
             {
                 CountItemToDictionary(wordDict, word);
             }
+            GlobalStatistics.UpdateGlobalDictOfWords(wordDict);
             return wordDict;
         }
 
@@ -95,6 +96,7 @@ namespace homework3
                     CountItemToDictionary(punctuationDict, c);
                 }
             }
+            GlobalStatistics.UpdateGlobalDictOfLetters(lettersDict);
             return (lettersDict, punctuationDict);
         }
 

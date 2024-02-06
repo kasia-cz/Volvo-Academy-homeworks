@@ -7,7 +7,6 @@
         public static List<string> GlobalLongestWords;
         public static Dictionary<string, int> GlobalWords;
         public static Dictionary<char, int> GlobalLetters;
-        public static Dictionary<char, int> GlobalPunctuation;
 
         public static void UpdateGlobalLongestSentencesByCharacters(List<string> sentences)
         {
@@ -43,7 +42,7 @@
             }
         }
 
-        internal static void UpdateGlobalLongestWords(List<string> words)
+        public static void UpdateGlobalLongestWords(List<string> words)
         {
             if (GlobalLongestWords == null)
             {
@@ -58,6 +57,48 @@
                     GlobalLongestWords = GlobalLongestWords.Take(10).ToList();
                 }
             }
+        }
+
+        public static void UpdateGlobalDictOfWords(Dictionary<string, int> wordsDict)
+        {
+            if (GlobalWords == null)
+            {
+                GlobalWords = new Dictionary<string, int>();
+            }
+            UpdateGlobalDict(GlobalWords, wordsDict);
+        }
+
+        public static void UpdateGlobalDictOfLetters(Dictionary<char, int> lettersDict)
+        {
+            if (GlobalLetters == null)
+            {
+                GlobalLetters = new Dictionary<char, int>();
+            }
+            UpdateGlobalDict(GlobalLetters, lettersDict);
+        }
+
+        private static void UpdateGlobalDict<T>(Dictionary<T, int> globalDict, Dictionary<T, int> dict)
+        {
+            foreach (var pair in dict)
+            {
+                if (globalDict.ContainsKey(pair.Key))
+                {
+                    globalDict[pair.Key] += pair.Value;
+                }
+                else
+                {
+                    globalDict.Add(pair.Key, pair.Value);
+                }
+            }
+        }
+        public static List<KeyValuePair<string, int>> GetGlobal10MostCommonWords()
+        {
+            return GlobalWords.OrderByDescending(pair => pair.Value).Take(10).ToList();
+        }
+
+        public static List<KeyValuePair<char, int>> GetGlobal10MostCommonLetters()
+        {
+            return GlobalLetters.OrderByDescending(pair => pair.Value).Take(10).ToList();
         }
     }
 }
