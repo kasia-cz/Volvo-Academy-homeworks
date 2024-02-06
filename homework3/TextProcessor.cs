@@ -24,9 +24,11 @@ namespace homework3
 
             var sentences = GetListOfSentences(bookText);
 
+            var words = GetDictOfWords(bookText);
+
             var (letters, punctuation) = GetLettersAndPunctuation(bookText);
 
-            return new Book(title, author, sentences, letters, punctuation);
+            return new Book(title, author, sentences, words, letters, punctuation);
         }
 
         public static async Task WriteResultsAsync(Book book, string resultsDirectoryPath)
@@ -53,6 +55,13 @@ namespace homework3
                 foreach (var shortSentence in shortestSentences)
                 {
                     newLines.Add($"{shortSentence} - number of words: {shortSentence.Split(' ').Length}");
+                }
+
+                newLines.Add("\n10 most common words:");
+                var mostCommonWords = book.Get10MostCommonWords();
+                foreach (var pair in mostCommonWords)
+                {
+                    newLines.Add($"Word \"{pair.Key}\", count: {pair.Value}");
                 }
 
                 newLines.Add("\n10 most common letters:");
@@ -105,6 +114,26 @@ namespace homework3
             List<string> sentences = Regex.Split(text, @"(?<=[\.!\?])\s+").ToList();
 
             return sentences;
+        }
+
+        private static Dictionary<string, int> GetDictOfWords(string text)
+        {
+            string[] words = Regex.Split(text, @"\W+");
+            words = words.Where(word => !string.IsNullOrWhiteSpace(word)).ToArray();
+
+            Dictionary<string, int> wordCount = new Dictionary<string, int>();
+            foreach (string word in words)
+            {
+                if (wordCount.ContainsKey(word))
+                {
+                    wordCount[word]++;
+                }
+                else
+                {
+                    wordCount.Add(word, 1);
+                }
+            }
+            return wordCount;
         }
 
         private static (Dictionary<char, int>, Dictionary<char, int>) GetLettersAndPunctuation(string text)

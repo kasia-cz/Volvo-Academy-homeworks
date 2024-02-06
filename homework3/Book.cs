@@ -9,11 +9,12 @@
         public Dictionary<char, int> Letters;
         public Dictionary<char, int> Punctuation;
 
-        public Book(string title, string author, List<string> sentences, Dictionary<char, int> letters, Dictionary<char, int> punctuation) // temporary constructor
+        public Book(string title, string author, List<string> sentences, Dictionary<string, int> words, Dictionary<char, int> letters, Dictionary<char, int> punctuation)
         {
             Title = title;
             Author = author;
             Sentences = sentences;
+            Words = words;
             Letters = letters;
             Punctuation = punctuation;
         }
@@ -41,18 +42,17 @@
 
         public List<KeyValuePair<char, int>> Get10MostCommonLetters()
         {
-            var mostCommonLetters = Letters.OrderByDescending(pair => pair.Value)
-                                       .Take(10)
-                                       .ToList();
-            return mostCommonLetters;
+            return Letters.OrderByDescending(pair => pair.Value).Take(10).ToList();
         }
 
         public List<KeyValuePair<char, int>> Get10MostCommonPunctuationMarks()
         {
-            var mostCommonPunctuation = Punctuation.OrderByDescending(pair => pair.Value)
-                                       .Take(10)
-                                       .ToList();
-            return mostCommonPunctuation;
+            return Punctuation.OrderByDescending(pair => pair.Value).Take(10).ToList();
+        }
+
+        public List<KeyValuePair<string, int>> Get10MostCommonWords()
+        {
+            return Words.OrderByDescending(pair => pair.Value).Take(10).ToList();
         }
     }
 }
