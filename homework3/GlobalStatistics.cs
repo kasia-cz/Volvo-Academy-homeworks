@@ -25,6 +25,40 @@
                 }
             }
         }
+
+        public static void UpdateGlobalShortestSentencesByWords(List<string> sentences)
+        {
+            if (GlobalShortestSentencesByWords == null)
+            {
+                GlobalShortestSentencesByWords = new List<string>(sentences);
+            }
+            else
+            {
+                if (sentences.Any(s => s.Split(' ').Length < GlobalShortestSentencesByWords.Max(s => s.Split(' ').Length)))
+                {
+                    GlobalShortestSentencesByWords.AddRange(sentences);
+                    GlobalShortestSentencesByWords.Sort((a, b) => a.Split(' ').Length.CompareTo(b.Split(' ').Length));
+                    GlobalShortestSentencesByWords = GlobalShortestSentencesByWords.Take(10).ToList();
+                }
+            }
+        }
+
+        internal static void UpdateGlobalLongestWords(List<string> words)
+        {
+            if (GlobalLongestWords == null)
+            {
+                GlobalLongestWords = new List<string>(words);
+            }
+            else
+            {
+                if (words.Any(w => w.Length > GlobalLongestWords.Min(w => w.Length)))
+                {
+                    GlobalLongestWords.AddRange(words);
+                    GlobalLongestWords.Sort((a, b) => b.Length.CompareTo(a.Length));
+                    GlobalLongestWords = GlobalLongestWords.Take(10).ToList();
+                }
+            }
+        }
     }
 }
 

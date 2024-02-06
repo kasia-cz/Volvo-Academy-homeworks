@@ -29,6 +29,7 @@ namespace homework3
                 {
                     newLines.Add($"{shortSentence} - number of words: {shortSentence.Split(' ').Length}");
                 }
+                GlobalStatistics.UpdateGlobalShortestSentencesByWords(shortestSentences);
 
                 newLines.Add("\n10 longest words:");
                 var longestWords = book.Get10LongestWords();
@@ -36,6 +37,7 @@ namespace homework3
                 {
                     newLines.Add($"Word \"{longWord}\", length: {longWord.Length}");
                 }
+                GlobalStatistics.UpdateGlobalLongestWords(longestWords);
 
                 newLines.Add("\n10 most common words:");
                 var mostCommonWords = book.Get10MostCommonWords();
@@ -76,7 +78,17 @@ namespace homework3
                     newLines.Add($"\n{sentence} - number of characters: {sentence.Length}");
                 }
 
+                newLines.Add("\nGlobal 10 shortest sentences by numbers of words:");
+                foreach (var sentence in GlobalStatistics.GlobalShortestSentencesByWords)
+                {
+                    newLines.Add($"{sentence} - number of words: {sentence.Split(' ').Length}");
+                }
 
+                newLines.Add("\nGlobal 10 longest words:");
+                foreach (var word in GlobalStatistics.GlobalLongestWords)
+                {
+                    newLines.Add($"Word \"{word}\", length: {word.Length}");
+                }
 
                 await File.WriteAllLinesAsync(newFilePath, newLines);
             }
