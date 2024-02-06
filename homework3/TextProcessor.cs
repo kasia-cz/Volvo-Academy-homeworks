@@ -24,7 +24,9 @@ namespace homework3
 
             var sentences = GetListOfSentences(bookText);
 
-            return new Book(title, author, sentences);
+            var (letters, punctuation) = GetLettersAndPunctuation(bookText);
+
+            return new Book(title, author, sentences, letters, punctuation);
         }
 
         public static async Task WriteResultsAsync(Book book, string resultsDirectoryPath)
@@ -50,7 +52,21 @@ namespace homework3
                 var shortestSentences = book.Get10ShortestSentencesByWords();
                 foreach (var shortSentence in shortestSentences)
                 {
-                    newLines.Add($"\n{shortSentence} - number of words: {shortSentence.Split(' ').Length}");
+                    newLines.Add($"{shortSentence} - number of words: {shortSentence.Split(' ').Length}");
+                }
+
+                newLines.Add("\n10 most common letters:");
+                var mostCommonLetters = book.Get10MostCommonLetters();
+                foreach (var pair in mostCommonLetters)
+                {
+                    newLines.Add($"Letter \"{pair.Key}\", count: {pair.Value}");
+                }
+
+                newLines.Add("\n10 most popular punctuation marks:");
+                var mostCommonPunctuation = book.Get10MostCommonPunctuationMarks();
+                foreach (var pair in mostCommonPunctuation)
+                {
+                    newLines.Add($"Punctuation mark \"{pair.Key}\", count: {pair.Value}");
                 }
 
                 await File.WriteAllLinesAsync(newFilePath, newLines);
@@ -89,6 +105,41 @@ namespace homework3
             List<string> sentences = Regex.Split(text, @"(?<=[\.!\?])\s+").ToList();
 
             return sentences;
+        }
+
+        private static (Dictionary<char, int>, Dictionary<char, int>) GetLettersAndPunctuation(string text)
+        {
+            Dictionary<char, int> punctuation = new Dictionary<char, int>();
+            Dictionary<char, int> letters = new Dictionary<char, int>();
+
+            foreach (char c in text)
+            {
+                if (char.IsPunctuation(c))
+                {
+                    if (punctuation.ContainsKey(c))
+                    {
+                        punctuation[c]++;
+                    }
+                    else
+                    {
+                        punctuation.Add(c, 1);
+                    }
+                    continue;
+                }
+
+                if (char.IsLetter(c))
+                {
+                    if (letters.ContainsKey(c))
+                    {
+                        letters[c]++;
+                    }
+                    else
+                    {
+                        letters.Add(c, 1);
+                    }
+                }
+            }
+            return (letters, punctuation);
         }
     }
 }
