@@ -6,15 +6,14 @@ namespace homework3
     {
         private static readonly object lockObjectWords = new object();
         private static readonly object lockObjectLetters = new object();
+
         public static async Task<Book> ReadAsync(string filePath)
         {
-            var lines = await File.ReadAllLinesAsync(filePath);
-            var title = FindBookTitle(lines);
-            var author = FindBookAuthor(lines);
+            var bookText = await File.ReadAllTextAsync(filePath);
+            var title = FindBookTitle(bookText);
+            var author = FindBookAuthor(bookText);
 
             Console.WriteLine($"Started processing of \"{title}\" by {author} ({filePath})");
-
-            var bookText = await File.ReadAllTextAsync(filePath);
 
             var startLineLenght = "***START OF THE PROJECT GUTENBERG EBOOK  ***".Length;
             var titleLenght = title.Length;
@@ -34,29 +33,30 @@ namespace homework3
             return new Book(title, author, sentences, words, letters, punctuation);
         }
 
-        private static string FindBookTitle(string[] lines)
+        private static string FindBookTitle(string bookText)
         {
             var titleLineStartPhrase = "Title: ";
-            return GetLineAfterPhrase(lines, titleLineStartPhrase);
+            return GetLineAfterPhrase(bookText, titleLineStartPhrase);
         }
 
-        private static string FindBookAuthor(string[] lines)
+        private static string FindBookAuthor(string bookText)
         {
             var authorLineStartPhrase = "Author: ";
-            return GetLineAfterPhrase(lines, authorLineStartPhrase);
+            return GetLineAfterPhrase(bookText, authorLineStartPhrase);
         }
-
-        private static string GetLineAfterPhrase(string[] lines, string phrase)
+ 
+        private static string GetLineAfterPhrase(string bookText, string phrase)
         {
-            foreach (string line in lines)
+            int index = bookText.IndexOf(phrase);
+            if (index != -1)
             {
-                if (line.StartsWith(phrase))
-                {
-                    return line.Substring(phrase.Length).Trim();
-                }
+                index += phrase.Length;
+                int endIndex = bookText.IndexOf('\n', index);
+                return bookText.Substring(index, endIndex - index).Trim();
             }
             return string.Empty;
         }
+
         private static List<string> GetListOfSentences(string text)
         {
             char[] unwantedChars = ['“', '”', '‘', '’', '"', '\''];

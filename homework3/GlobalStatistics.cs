@@ -4,7 +4,6 @@
     {
         public static List<string> GlobalLongestSentencesByCharacters;
         public static List<string> GlobalShortestSentencesByWords;
-        public static List<string> GlobalLongestWords;
         public static Dictionary<string, int> GlobalWords;
         public static Dictionary<char, int> GlobalLetters;
 
@@ -42,23 +41,6 @@
             }
         }
 
-        public static void UpdateGlobalLongestWords(List<string> words)
-        {
-            if (GlobalLongestWords == null)
-            {
-                GlobalLongestWords = new List<string>(words);
-            }
-            else
-            {
-                if (words.Any(w => w.Length > GlobalLongestWords.Min(w => w.Length)))
-                {
-                    GlobalLongestWords.AddRange(words);
-                    GlobalLongestWords.Sort((a, b) => b.Length.CompareTo(a.Length));
-                    GlobalLongestWords = GlobalLongestWords.Take(10).ToList();
-                }
-            }
-        }
-
         public static void UpdateGlobalDictOfWords(Dictionary<string, int> wordsDict)
         {
             if (GlobalWords == null)
@@ -91,6 +73,15 @@
                 }
             }
         }
+
+        public static List<string> GetGlobal10LongestWords()
+        {
+            return GlobalWords.OrderByDescending(pair => pair.Key.Length)
+                .Select(pair => pair.Key)
+                .Take(10)
+                .ToList();
+        }
+
         public static List<KeyValuePair<string, int>> GetGlobal10MostCommonWords()
         {
             return GlobalWords.OrderByDescending(pair => pair.Value).Take(10).ToList();

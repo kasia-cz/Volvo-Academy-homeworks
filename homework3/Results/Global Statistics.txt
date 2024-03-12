@@ -4054,23 +4054,23 @@ PREFACE. - number of characters: 4300
 
 Global 10 shortest sentences by numbers of words:
 Hurrah! - number of words: 1
-Gregor! - number of words: 1
-Anna! - number of words: 1
-Anna! - number of words: 1
-Mother? - number of words: 1
-Grete! - number of words: 1
-Grete! - number of words: 1
-Samsa. - number of words: 1
-Gregor! - number of words: 1
-Samsa. - number of words: 1
+SAMPSON. - number of words: 1
+GREGORY. - number of words: 1
+SAMPSON. - number of words: 1
+CHORUS. - number of words: 1
+SCENE. - number of words: 1
+CHORUS. - number of words: 1
+Servants. - number of words: 1
+Mantua. - number of words: 1
+SAMPSON. - number of words: 1
 
 Global 10 longest words:
 Word "Nationalgymnasiummuseumsanatoriumandsuspensoriumsordinaryprivatdocentge", length: 71
 Word "handsomemarriedwomanrubbedagainstwidebehindinClonskea", length: 53
 Word "mangongwheeltracktrolleyglarejuggernaut", length: 39
 Word "contransmagnificandjewbangtantiality", length: 36
-Word "neralhistoryspecialprofessordoctor", length: 34
 Word "Rutlandbaconsouthamptonshakespeare", length: 34
+Word "neralhistoryspecialprofessordoctor", length: 34
 Word "Weeshwashtkissinapooisthnapoohuck", length: 33
 Word "diethylsulphonmethylethylmetane", length: 31
 Word "wavyavyeavyheavyeavyevyevyhair", length: 30

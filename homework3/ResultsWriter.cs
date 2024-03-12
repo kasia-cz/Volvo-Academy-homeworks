@@ -6,7 +6,7 @@ namespace homework3
     {
         private static readonly object lockObjectShortestSentences = new object();
         private static readonly object lockObjectLongestSentences = new object();
-        private static readonly object lockObjectLongestWords = new object();
+
         public static async Task WriteResultsAsync(Book book, string resultsDirectoryPath)
         {
             var fileName = Regex.Replace(book.Title, @"[:;,.!]", "");
@@ -45,10 +45,6 @@ namespace homework3
                 foreach (var longWord in longestWords)
                 {
                     newLines.Add($"Word \"{longWord}\", length: {longWord.Length}");
-                }
-                lock (lockObjectLongestWords)
-                {
-                    GlobalStatistics.UpdateGlobalLongestWords(longestWords);
                 }
 
                 newLines.Add("\n10 most common words:");
@@ -98,7 +94,8 @@ namespace homework3
                 }
 
                 newLines.Add("\nGlobal 10 longest words:");
-                foreach (var word in GlobalStatistics.GlobalLongestWords)
+                var globalLongestWords = GlobalStatistics.GetGlobal10LongestWords();
+                foreach (var word in globalLongestWords)
                 {
                     newLines.Add($"Word \"{word}\", length: {word.Length}");
                 }

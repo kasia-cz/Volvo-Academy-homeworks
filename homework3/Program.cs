@@ -15,18 +15,13 @@
 
             var processedFiles = 0;
             var numberOfFiles = filePaths.Length;
-            Parallel.ForEach(filePaths, filePath =>
-            {
-                var task = Task.Run(async () =>
-                {
-                    Book book = await TextProcessor.ReadAsync(filePath);
-                    await ResultsWriter.WriteResultsAsync(book, resultsDirectoryPath);
-                    processedFiles++;
-                    Console.WriteLine($"Files processed: {processedFiles}/{numberOfFiles}");
-                });
 
-                tasks.Add(task);
-            });
+            await Task.WhenAll(filePaths.Select(async filePath =>
+            {
+                Book book = await TextProcessor.ReadAsync(filePath);
+                await ResultsWriter.WriteResultsAsync(book, resultsDirectoryPath);
+                Console.WriteLine($"Files processed: {Interlocked.Increment(ref processedFiles)}/{numberOfFiles}");
+            }));
 
             Task.WhenAll(tasks).Wait();
 
